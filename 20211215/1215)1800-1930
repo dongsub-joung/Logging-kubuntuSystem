@@ -1,0 +1,1000 @@
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 79
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 91
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 0
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 79
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 91
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 0
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 79
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 91
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 0
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 80
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 2033
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 0
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 79
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 91
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 0
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 80
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 2033
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 85 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 1
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 0
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 0
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 1
+2021/12/15 17:57	org.kde.KScreen	 	Primary: false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 85 : connected = false , enabled = false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 86 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 1
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 0
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 0
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 1
+2021/12/15 17:57	org.kde.KScreen	 	Primary: false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 86 : connected = false , enabled = false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 87 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 1
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 0
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 0
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 1
+2021/12/15 17:57	org.kde.KScreen	 	Primary: false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 87 : connected = false , enabled = false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 0
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 79
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 91
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 17:57	org.kde.KScreen	 	m_connected: 0
+2021/12/15 17:57	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 17:57	org.kde.KScreen	 	CRTC: 80
+2021/12/15 17:57	org.kde.KScreen	 	MODE: 2033
+2021/12/15 17:57	org.kde.KScreen	 	Connection: 0
+2021/12/15 17:57	org.kde.KScreen	 	Primary: false
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 17:57	org.kde.KScreen	kscreen.xrandr: Emitting configChanged()
+2021/12/15 18:06	systemd	Started Dolphin.
+2021/12/15 18:06	dolphin	qt.qpa.xcb: QXcbConnection: XCB error: 5 (BadAtom), sequence: 618, resource id: 0, major code: 20 (GetProperty), minor code: 0
+2021/12/15 18:06	dolphin	Qt: Session management error: networkIdsList argument is NULL
+2021/12/15 18:07	kernel	usb 1-4: new high-speed USB device number 5 using xhci_hcd
+2021/12/15 18:07	kernel	usb 1-4: New USB device found, idVendor=0781, idProduct=55a5, bcdDevice= 1.00
+2021/12/15 18:07	kernel	usb 1-4: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+2021/12/15 18:07	kernel	usb 1-4: Product: Cruzer Snap
+2021/12/15 18:07	kernel	usb 1-4: Manufacturer: SanDisk
+2021/12/15 18:07	kernel	usb 1-4: SerialNumber: 04019627122520161541
+2021/12/15 18:07	kernel	usb-storage 1-4:1.0: USB Mass Storage device detected
+2021/12/15 18:07	kernel	scsi host9: usb-storage 1-4:1.0
+2021/12/15 18:07	mtp-probe	checking bus 1, device 5: "/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.0/usb1/1-4"
+2021/12/15 18:07	mtp-probe	bus: 1, device: 5 was not an MTP device
+2021/12/15 18:07	mtp-probe	checking bus 1, device 5: "/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.0/usb1/1-4"
+2021/12/15 18:07	mtp-probe	bus: 1, device: 5 was not an MTP device
+2021/12/15 18:07	kernel	scsi 9:0:0:0: Direct-Access     SanDisk  Cruzer Snap      1.00 PQ: 0 ANSI: 6
+2021/12/15 18:07	kernel	sd 9:0:0:0: Attached scsi generic sg1 type 0
+2021/12/15 18:07	kernel	sd 9:0:0:0: [sdb] 30031872 512-byte logical blocks: (15.4 GB/14.3 GiB)
+2021/12/15 18:07	kernel	sd 9:0:0:0: [sdb] Write Protect is off
+2021/12/15 18:07	kernel	sd 9:0:0:0: [sdb] Mode Sense: 43 00 00 00
+2021/12/15 18:07	kernel	sd 9:0:0:0: [sdb] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+2021/12/15 18:07	kernel	 sdb: sdb1
+2021/12/15 18:07	kernel	sd 9:0:0:0: [sdb] Attached SCSI removable disk
+2021/12/15 18:07	dbus-daemon	[system] Activating service name='org.kde.kded.smart' requested by ':1.43' (uid=1000 pid=1214 comm="/usr/bin/kded5 " label="unconfined") (using servicehelper)
+2021/12/15 18:07	dbus-daemon	[system] Successfully activated service 'org.kde.kded.smart'
+2021/12/15 18:07	systemd	Started Dolphin.
+2021/12/15 18:07	dolphin	org.kde.dolphin: Invalid URL:  ""
+2021/12/15 18:07	dolphin	qt.qpa.xcb: QXcbConnection: XCB error: 5 (BadAtom), sequence: 612, resource id: 0, major code: 20 (GetProperty), minor code: 0
+2021/12/15 18:07	dolphin	Qt: Session management error: networkIdsList argument is NULL
+2021/12/15 18:07	kernel	FAT-fs (sdb1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+2021/12/15 18:07	udisks2.service	Mounted /dev/sdb1 at /media/dongsub/3ECF-12F9 on behalf of uid 1000
+2021/12/15 18:07	dolphin	kf.kio.slaves.file: copy() QUrl("file:///home/dongsub/Desktop/12-15)Log.zip") to QUrl("file:///media/dongsub/3ECF-12F9/12-15)Log.zip") mode= 436
+2021/12/15 18:07	dolphin	kf.kio.slaves.file: the file doesn't have any xattr
+2021/12/15 18:07	systemd	app-dolphin-64f2f11812854773ba33c29fb532ad49.scope: Deactivated successfully.
+2021/12/15 18:07	systemd	app-dolphin-64f2f11812854773ba33c29fb532ad49.scope: Consumed 1.313s CPU time.
+2021/12/15 18:07	systemd	app-dolphin-31ce05846aae489b84601db1cec154a8.scope: Deactivated successfully.
+2021/12/15 18:07	systemd	app-dolphin-31ce05846aae489b84601db1cec154a8.scope: Consumed 1.189s CPU time.
+2021/12/15 18:07	kernel	usb 1-4: USB disconnect, device number 5
+2021/12/15 18:07	kernel	blk_update_request: I/O error, dev sdb, sector 2049 op 0x1:(WRITE) flags 0x0 phys_seg 1 prio class 0
+2021/12/15 18:07	kernel	Buffer I/O error on dev sdb1, logical block 1, lost async page write
+2021/12/15 18:07	kernel	blk_update_request: I/O error, dev sdb, sector 9472 op 0x1:(WRITE) flags 0x0 phys_seg 1 prio class 0
+2021/12/15 18:07	kernel	Buffer I/O error on dev sdb1, logical block 7424, lost async page write
+2021/12/15 18:07	udisks2.service	Cleaning up mount point /media/dongsub/3ECF-12F9 (device 8:17 no longer exists)
+2021/12/15 18:07	systemd	media-dongsub-3ECF\x2d12F9.mount: Deactivated successfully.
+2021/12/15 18:07	kernel	r8169 0000:05:00.0 enp5s0: Link is Up - 1Gbps/Full - flow control off
+2021/12/15 18:07	kernel	IPv6: ADDRCONF(NETDEV_CHANGE): enp5s0: link becomes ready
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0217] device (enp5s0): carrier: link connected
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0221] device (enp5s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0230] policy: auto-activating connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0236] device (enp5s0): Activation: starting connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0238] device (enp5s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0243] manager: NetworkManager state is now CONNECTING
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0246] device (enp5s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0256] device (enp5s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:07	NetworkManager	<info>  [1639559263.0262] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/15 18:07	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/15 18:07	avahi-daemon	New relevant interface enp5s0.IPv6 for mDNS.
+2021/12/15 18:07	avahi-daemon	Registering new address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.*.
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.0851] dhcp4 (enp5s0): state changed unknown -> bound, address=175.125.18.185
+2021/12/15 18:07	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv4 with address 175.125.18.185.
+2021/12/15 18:07	avahi-daemon	New relevant interface enp5s0.IPv4 for mDNS.
+2021/12/15 18:07	avahi-daemon	Registering new address record for 175.125.18.185 on enp5s0.IPv4.
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.0866] device (enp5s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:07	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 18:07	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/15 18:07	whoopsie	[18:07:45] Cannot reach: https://daisy.ubuntu.com
+2021/12/15 18:07	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 18:07	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.0990] device (enp5s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.0992] device (enp5s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.0995] manager: NetworkManager state is now CONNECTED_LOCAL
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.0997] manager: NetworkManager state is now CONNECTED_SITE
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.0998] policy: set 'Wired connection 1' (enp5s0) as default for IPv4 routing and DNS
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.1002] device (enp5s0): Activation: successful, device activated.
+2021/12/15 18:07	NetworkManager	<info>  [1639559265.1007] manager: NetworkManager state is now CONNECTED_GLOBAL
+2021/12/15 18:07	systemd-resolved	enp5s0: Bus client set search domain list to: skbroadband
+2021/12/15 18:07	systemd-resolved	enp5s0: Bus client set default route setting: yes
+2021/12/15 18:07	whoopsie	[18:07:45] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/15 18:07	systemd-resolved	enp5s0: Bus client set DNS server list to: 210.220.163.82, 219.250.36.130
+2021/12/15 18:07	whoopsie	[18:07:45] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/15 18:07	whoopsie	[18:07:45] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/15 18:07	whoopsie	[18:07:45] online
+2021/12/15 18:07	PackageKit	get-updates transaction /68_adbbcdeb from uid 1000 finished with success after 411ms
+2021/12/15 18:07	systemd	Started Firefox Web Browser - Web Browser.
+2021/12/15 18:07	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Successfully made thread 22516 of process 22318 owned by '1000' RT at priority 10.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:07	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:08	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:08	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:08	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:08	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/15 18:08	rtkit-daemon	Successfully made thread 22811 of process 22648 owned by '1000' RT at priority 10.
+2021/12/15 18:08	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:08	systemd-resolved	Clock change detected. Flushing caches.
+2021/12/15 18:08	systemd-timesyncd	Initial synchronization to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2021/12/15 18:13	sudo	 dongsub : TTY=pts/1 ; PWD=/etc ; USER=root ; COMMAND=/usr/bin/wireshark
+2021/12/15 18:13	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/15 18:13	kernel	cfg80211: Loading compiled-in X.509 certificates for regulatory database
+2021/12/15 18:13	kernel	cfg80211: Loaded X.509 cert 'sforshee: 00b28ddf47aef9cea7'
+2021/12/15 18:13	kernel	Bluetooth: Core ver 2.22
+2021/12/15 18:13	kernel	NET: Registered protocol family 31
+2021/12/15 18:13	kernel	Bluetooth: HCI device and connection manager initialized
+2021/12/15 18:13	kernel	Bluetooth: HCI socket layer initialized
+2021/12/15 18:13	kernel	Bluetooth: L2CAP socket layer initialized
+2021/12/15 18:13	kernel	Bluetooth: SCO socket layer initialized
+2021/12/15 18:14	kernel	device enp5s0 entered promiscuous mode
+2021/12/15 18:14	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:14	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:15	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:15	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:15	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:15	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:17	CRON	pam_unix(cron:session): session opened for user root by (uid=0)
+2021/12/15 18:17	CRON	(root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2021/12/15 18:17	CRON	pam_unix(cron:session): session closed for user root
+2021/12/15 18:17	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:17	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:17	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:17	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:18	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:18	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:18	systemd	Started Dolphin - File Manager.
+2021/12/15 18:18	systemd	app-org.kde.dolphin-105aad5fcf9740508fbba004df318f16.scope: Deactivated successfully.
+2021/12/15 18:18	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.178' (uid=1000 pid=22318 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/15 18:18	systemd	Starting Hostname Service...
+2021/12/15 18:18	dbus-daemon	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/15 18:18	systemd	Started Hostname Service.
+2021/12/15 18:18	systemd	systemd-hostnamed.service: Deactivated successfully.
+2021/12/15 18:18	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:18	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:19	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:19	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:19	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.181' (uid=1000 pid=22318 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/15 18:19	systemd	Starting Hostname Service...
+2021/12/15 18:19	dbus-daemon	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/15 18:19	systemd	Started Hostname Service.
+2021/12/15 18:19	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:19	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:20	systemd	systemd-hostnamed.service: Deactivated successfully.
+2021/12/15 18:20	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:20	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:21	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:21	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:21	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:21	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:21	smartd	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 73 to 69
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:22	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:23	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:23	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:23	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:23	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:24	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:24	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:24	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:24	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:25	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:25	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:30	CRON	pam_unix(cron:session): session opened for user root by (uid=0)
+2021/12/15 18:30	CRON	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/15 18:30	CRON	pam_unix(cron:session): session closed for user root
+2021/12/15 18:30	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/15 18:30	NetworkManager	<info>  [1639560629.5175] device (enp5s0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/15 18:30	NetworkManager	<info>  [1639560629.5533] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/15 18:30	NetworkManager	<info>  [1639560629.5533] dhcp4 (enp5s0): state changed bound -> terminated
+2021/12/15 18:30	avahi-daemon	Withdrawing address record for 175.125.18.185 on enp5s0.
+2021/12/15 18:30	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv4 with address 175.125.18.185.
+2021/12/15 18:30	avahi-daemon	Interface enp5s0.IPv4 no longer relevant for mDNS.
+2021/12/15 18:30	avahi-daemon	Withdrawing address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.
+2021/12/15 18:30	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/15 18:30	avahi-daemon	Interface enp5s0.IPv6 no longer relevant for mDNS.
+2021/12/15 18:30	NetworkManager	<info>  [1639560629.5553] manager: NetworkManager state is now DISCONNECTED
+2021/12/15 18:30	whoopsie	[18:30:29] offline
+2021/12/15 18:30	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 18:30	systemd-resolved	enp5s0: Bus client reset search domain list.
+2021/12/15 18:30	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/15 18:30	systemd-resolved	enp5s0: Bus client set default route setting: no
+2021/12/15 18:30	systemd-resolved	enp5s0: Bus client reset DNS server list.
+2021/12/15 18:30	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 18:30	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/15 18:30	PackageKit	get-updates transaction /69_edcaddec from uid 1000 finished with success after 385ms
+2021/12/15 18:30	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 18:30	systemd	Started Run anacron jobs.
+2021/12/15 18:30	anacron	Anacron 2.3 started on 2021-12-15
+2021/12/15 18:30	anacron	Normal exit (0 jobs run)
+2021/12/15 18:30	systemd	anacron.service: Deactivated successfully.
+2021/12/15 18:39	systemd	Starting Refresh fwupd metadata and update motd...
+2021/12/15 18:39	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.201' (uid=62803 pid=24528 comm="/usr/bin/fwupdmgr refresh " label="unconfined")
+2021/12/15 18:39	systemd	Starting Firmware update daemon...
+2021/12/15 18:39	fwupd	09:39:26:0674 FuPluginUefiCapsule  failed to add /sys/firmware/efi/esrt/entries/entry0: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+2021/12/15 18:39	dbus-daemon	[system] Successfully activated service 'org.freedesktop.fwupd'
+2021/12/15 18:39	systemd	Started Firmware update daemon.
+2021/12/15 18:39	systemd	fwupd-refresh.service: Deactivated successfully.
+2021/12/15 18:39	systemd	Finished Refresh fwupd metadata and update motd.
+2021/12/15 18:51	smartd	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 69 to 63
+2021/12/15 18:54	kernel	device enp5s0 left promiscuous mode
+2021/12/15 18:54	kernel	device enp5s0 entered promiscuous mode
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8468] device (enp5s0): carrier: link connected
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8471] device (enp5s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8483] policy: auto-activating connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8489] device (enp5s0): Activation: starting connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8491] device (enp5s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:55	kernel	r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8495] manager: NetworkManager state is now CONNECTING
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8498] device (enp5s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8503] device (enp5s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:55	NetworkManager	<info>  [1639562127.8507] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/15 18:55	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/15 18:55	avahi-daemon	New relevant interface enp5s0.IPv6 for mDNS.
+2021/12/15 18:55	avahi-daemon	Registering new address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.*.
+2021/12/15 18:55	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/15 18:55	NetworkManager	<info>  [1639562131.3951] device (enp5s0): carrier: link connected
+2021/12/15 18:55	kernel	r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9009] dhcp4 (enp5s0): state changed unknown -> bound, address=192.168.123.100
+2021/12/15 18:55	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/15 18:55	avahi-daemon	New relevant interface enp5s0.IPv4 for mDNS.
+2021/12/15 18:55	avahi-daemon	Registering new address record for 192.168.123.100 on enp5s0.IPv4.
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9023] device (enp5s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:55	whoopsie	[18:55:32] Cannot reach: https://daisy.ubuntu.com
+2021/12/15 18:55	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 18:55	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/15 18:55	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 18:55	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9119] device (enp5s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9122] device (enp5s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9128] manager: NetworkManager state is now CONNECTED_LOCAL
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9133] manager: NetworkManager state is now CONNECTED_SITE
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9135] policy: set 'Wired connection 1' (enp5s0) as default for IPv4 routing and DNS
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9143] device (enp5s0): Activation: successful, device activated.
+2021/12/15 18:55	NetworkManager	<info>  [1639562132.9153] manager: NetworkManager state is now CONNECTED_GLOBAL
+2021/12/15 18:55	systemd-resolved	enp5s0: Bus client set default route setting: yes
+2021/12/15 18:55	systemd-resolved	enp5s0: Bus client set DNS server list to: 168.126.63.1, 168.126.63.2
+2021/12/15 18:55	whoopsie	[18:55:32] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/2
+2021/12/15 18:55	whoopsie	[18:55:32] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/2
+2021/12/15 18:55	whoopsie	[18:55:32] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/2
+2021/12/15 18:55	systemd-resolved	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 168.126.63.1.
+2021/12/15 18:55	whoopsie	[18:55:32] online
+2021/12/15 18:55	PackageKit	get-updates transaction /70_ceccccae from uid 1000 finished with success after 355ms
+2021/12/15 18:55	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:55	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:55	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 18:55	NetworkManager	<info>  [1639562146.9299] dhcp4 (enp5s0): state changed bound -> extended, address=192.168.123.100
+2021/12/15 18:55	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 18:55	systemd-resolved	enp5s0: Bus client set DNS server list to: 210.220.163.82, 219.250.36.130
+2021/12/15 18:55	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/15 18:55	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 18:55	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/15 18:55	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 18:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:56	rtkit-daemon	Successfully made thread 24770 of process 24295 owned by '1000' RT at priority 10.
+2021/12/15 18:56	rtkit-daemon	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 18:57	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:57	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:57	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:57	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 18:58	systemd-timesyncd	Initial synchronization to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2021/12/15 19:00	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/15 19:00	NetworkManager	<info>  [1639562441.9549] device (enp5s0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/15 19:00	NetworkManager	<info>  [1639562441.9550] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/15 19:00	NetworkManager	<info>  [1639562441.9550] dhcp4 (enp5s0): state changed extended -> terminated
+2021/12/15 19:00	avahi-daemon	Withdrawing address record for 192.168.123.100 on enp5s0.
+2021/12/15 19:00	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/15 19:00	systemd-resolved	enp5s0: Bus client set default route setting: no
+2021/12/15 19:00	avahi-daemon	Interface enp5s0.IPv4 no longer relevant for mDNS.
+2021/12/15 19:00	NetworkManager	<info>  [1639562441.9579] manager: NetworkManager state is now DISCONNECTED
+2021/12/15 19:00	avahi-daemon	Withdrawing address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.
+2021/12/15 19:00	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/15 19:00	avahi-daemon	Interface enp5s0.IPv6 no longer relevant for mDNS.
+2021/12/15 19:00	whoopsie	[19:00:41] offline
+2021/12/15 19:00	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 19:00	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/15 19:00	systemd-resolved	enp5s0: Bus client reset DNS server list.
+2021/12/15 19:00	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 19:00	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/15 19:00	PackageKit	get-updates transaction /71_ecdeedeb from uid 1000 finished with success after 389ms
+2021/12/15 19:00	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 19:06	kernel	device enp5s0 left promiscuous mode
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputProperty (ignored)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Property:  EDID
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	State (newValue, Deleted):  1
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputProperty (ignored)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Property:  EDID
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	State (newValue, Deleted):  1
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = false , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = false , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Emitting configChanged()
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandR::setConfig
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Requested screen size is QSize(1680, 1050)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Needed CRTCs:  1
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Actions to perform:
+2021/12/15 19:16	org.kde.KScreen	 	Primary Output: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		Old: 88
+2021/12/15 19:16	org.kde.KScreen	 		New: 89
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Change Screen Size: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		Old: QSize(3600, 1080)
+2021/12/15 19:16	org.kde.KScreen	 		Intermediate: QSize(3600, 1080)
+2021/12/15 19:16	org.kde.KScreen	 		New: QSize(1680, 1050)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Disable outputs: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		 (88)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Change outputs: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		 (89)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Enable outputs: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetCrtcConfig (disable output)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Result: 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Disconnected output 88 from CRTC 79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/15 19:16	org.kde.KScreen	 	Output: 89 ( "DVI-D-0" )
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	Pos: QPoint(0,0)
+2021/12/15 19:16	org.kde.KScreen	 	Mode: 2033 KScreen::Mode(Id: "2033" , Size: QSize(1680, 1050) @ 59.9543 )
+2021/12/15 19:16	org.kde.KScreen	 	Rotation: KScreen::Output::None
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Result:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 2033
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetOutputPrimary
+2021/12/15 19:16	org.kde.KScreen	 	New primary: 89
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetScreenSize
+2021/12/15 19:16	org.kde.KScreen	 	DPI: 96.2526
+2021/12/15 19:16	org.kde.KScreen	 	Size: QSize(1680, 1050)
+2021/12/15 19:16	org.kde.KScreen	 	SizeMM: QSize(443, 277)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandR::setConfig done!
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 0 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 0 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 1680 1050
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 1680 1050
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  89
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  89
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  1680 1050
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  443 277
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 2033
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 2033
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  1680 1050
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  443 277
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Emitting configChanged()
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandR::setConfig
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Requested screen size is QSize(3600, 1080)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Needed CRTCs:  2
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Actions to perform:
+2021/12/15 19:16	org.kde.KScreen	 	Primary Output: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		Old: 89
+2021/12/15 19:16	org.kde.KScreen	 		New: 88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Change Screen Size: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		Old: QSize(1680, 1050)
+2021/12/15 19:16	org.kde.KScreen	 		Intermediate: QSize(3600, 1080)
+2021/12/15 19:16	org.kde.KScreen	 		New: QSize(3600, 1080)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Disable outputs: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Change outputs: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		 (89)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Enable outputs: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 		 (88)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetScreenSize
+2021/12/15 19:16	org.kde.KScreen	 	DPI: 96.2526
+2021/12/15 19:16	org.kde.KScreen	 	Size: QSize(3600, 1080)
+2021/12/15 19:16	org.kde.KScreen	 	SizeMM: QSize(950, 285)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/15 19:16	org.kde.KScreen	 	Output: 89 ( "DVI-D-0" )
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	Pos: QPoint(1920,0)
+2021/12/15 19:16	org.kde.KScreen	 	Mode: 2033 KScreen::Mode(Id: "2033" , Size: QSize(1680, 1050) @ 59.9543 )
+2021/12/15 19:16	org.kde.KScreen	 	Rotation: KScreen::Output::None
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Result:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 2033
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: QMap((79, XRandRCrtc(0x5604690142f0))(80, XRandRCrtc(0x560469013b50))(81, XRandRCrtc(0x560469012420))(82, XRandRCrtc(0x56046900d790))(83, XRandRCrtc(0x56046900d630))(84, XRandRCrtc(0x56046901a820)))
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Testing CRTC 79
+2021/12/15 19:16	org.kde.KScreen	 	Free: true
+2021/12/15 19:16	org.kde.KScreen	 	Mode: 0
+2021/12/15 19:16	org.kde.KScreen	 	Possible outputs: QVector(85, 86, 87, 88, 89)
+2021/12/15 19:16	org.kde.KScreen	 	Connected outputs: QVector()
+2021/12/15 19:16	org.kde.KScreen	 	Geometry: QRect(0,0 0x0)
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetCrtcConfig (enable output)
+2021/12/15 19:16	org.kde.KScreen	 	Output: 88 ( "HDMI-A-0" )
+2021/12/15 19:16	org.kde.KScreen	 	New CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	Pos: QPoint(0,0)
+2021/12/15 19:16	org.kde.KScreen	 	Mode: KScreen::Mode(Id: "91" , Size: QSize(1920, 1080) @ 60 ) Preferred: "91"
+2021/12/15 19:16	org.kde.KScreen	 	Rotation: KScreen::Output::None
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: 	Result:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Connected output 88 to CRTC 79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: RRSetOutputPrimary
+2021/12/15 19:16	org.kde.KScreen	 	New primary: 88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandR::setConfig done!
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  1920 0 1680 1050
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  1920 0 1680 1050
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 1920 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 1920 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  89
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Window: 44040201
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1732
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  950 285
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  89
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 1920 1080
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  1920 0 1680 1050
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  81
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 0 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  82
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 0 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  83
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 0 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  84
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Geometry:  0 0 0 0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  85
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  86
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  87
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Output:  89
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  80
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  2033
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/15 19:16	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 2033
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 2033
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 85 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 85 : connected = false , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 86 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 86 : connected = false , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 87 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 1
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 0
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 0
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 1
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 87 : connected = false , enabled = false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 79
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 91
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 19:16	org.kde.KScreen	 	m_connected: 0
+2021/12/15 19:16	org.kde.KScreen	 	m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 19:16	org.kde.KScreen	 	CRTC: 80
+2021/12/15 19:16	org.kde.KScreen	 	MODE: 2033
+2021/12/15 19:16	org.kde.KScreen	 	Connection: 0
+2021/12/15 19:16	org.kde.KScreen	 	Primary: false
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 19:16	org.kde.KScreen	kscreen.xrandr: Emitting configChanged()
+2021/12/15 19:17	CRON	pam_unix(cron:session): session opened for user root by (uid=0)
+2021/12/15 19:17	CRON	(root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2021/12/15 19:17	CRON	pam_unix(cron:session): session closed for user root
+2021/12/15 19:21	smartd	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 63 to 64
+2021/12/15 19:27	systemd	Started Kate - Advanced Text Editor.
+2021/12/15 19:29	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/15 19:29	sudo	pam_unix(sudo:auth): conversation failed
+2021/12/15 19:29	sudo	pam_unix(sudo:auth): auth could not identify password for [dongsub]
+2021/12/15 19:29	systemd	app-org.kde.ksystemlog-6f27cdfb42e5441bb1a89314c2ed341f.scope: Deactivated successfully.
+2021/12/15 19:29	systemd	app-org.kde.ksystemlog-6f27cdfb42e5441bb1a89314c2ed341f.scope: Consumed 1min 26.046s CPU time.
+2021/12/15 19:29	dbus-daemon	[session uid=1000 pid=1051] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.26' (uid=1000 pid=1288 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/15 19:29	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/15 19:29	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/15 19:29	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/15 19:29	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/15 19:29	systemd	Started KSystemLog - System Log Viewer.
+2021/12/15 19:29	sudo	 dongsub : TTY=pts/3 ; PWD=/home/dongsub/Desktop ; USER=root ; COMMAND=/usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+2021/12/15 19:29	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/15 19:29	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/15 19:29	sudo	 dongsub : TTY=pts/3 ; PWD=/home/dongsub/Desktop ; USER=root ; COMMAND=/usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+2021/12/15 19:29	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/15 19:30	CRON	pam_unix(cron:session): session opened for user root by (uid=0)
+2021/12/15 19:30	CRON	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/15 19:30	CRON	pam_unix(cron:session): session closed for user root

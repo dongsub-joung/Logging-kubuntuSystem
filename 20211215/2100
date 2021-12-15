@@ -1,0 +1,1000 @@
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Change outputs: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011 (89)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Enable outputs: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011 (88)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetScreenSize
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011DPI: 96.2526
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Size: QSize(3600, 1080)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011SizeMM: QSize(950, 285)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Output: 89 ( "DVI-D-0" )
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Pos: QPoint(1920,0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Mode: 2033 KScreen::Mode(Id: "2033" , Size: QSize(1680, 1050) @ 59.9543 )
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Rotation: KScreen::Output::None
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Result:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: QMap((79, XRandRCrtc(0x5604690142f0))(80, XRandRCrtc(0x560469013b50))(81, XRandRCrtc(0x560469012420))(82, XRandRCrtc(0x56046900d790))(83, XRandRCrtc(0x56046900d630))(84, XRandRCrtc(0x56046901a820)))
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Testing CRTC 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Free: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Mode: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Possible outputs: QVector(85, 86, 87, 88, 89)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connected outputs: QVector()
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Geometry: QRect(0,0 0x0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetCrtcConfig (enable output)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Output: 88 ( "HDMI-A-0" )
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011New CRTC: 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Pos: QPoint(0,0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Mode: KScreen::Mode(Id: "91" , Size: QSize(1920, 1080) @ 60 ) Preferred: "91"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Rotation: KScreen::Output::None
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Result:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Connected output 88 to CRTC 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetOutputPrimary
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011New primary: 88
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandR::setConfig done!
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  81
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  82
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  83
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  84
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  85
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  86
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  87
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 85 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 85 : connected = false , enabled = false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 86 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 86 : connected = false , enabled = false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 87 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 87 : connected = false , enabled = false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:25	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Emitting configChanged()
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputProperty (ignored)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Property:  EDID#004V
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011State (newValue, Deleted):  1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputProperty (ignored)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Property:  EDID
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011State (newValue, Deleted):  1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = false , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = false , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Emitting configChanged()
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandR::setConfig
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Requested screen size is QSize(1680, 1050)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Needed CRTCs:  1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Actions to perform:
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary Output: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011Old: 88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011#011New: 89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Change Screen Size: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011Old: QSize(3600, 1080)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011#011Intermediate: QSize(3600, 1080)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011#011New: QSize(1680, 1050)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Disable outputs: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011 (88)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Change outputs: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011 (89)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Enable outputs: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetCrtcConfig (disable output)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Result: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Disconnected output 88 from CRTC 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Output: 89 ( "DVI-D-0" )
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Pos: QPoint(0,0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Mode: 2033 KScreen::Mode(Id: "2033" , Size: QSize(1680, 1050) @ 59.9543 )
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Rotation: KScreen::Output::None
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Result:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetOutputPrimary
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011New primary: 89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetScreenSize
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011DPI: 96.2526
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Size: QSize(1680, 1050)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011SizeMM: QSize(443, 277)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandR::setConfig done!
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1680 1050
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1680 1050
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  1680 1050
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  443 277
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  1680 1050
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  443 277
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Emitting configChanged()
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandR::setConfig
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Requested screen size is QSize(3600, 1080)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Needed CRTCs:  2
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Actions to perform:
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary Output: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011Old: 89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011#011New: 88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Change Screen Size: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011Old: QSize(1680, 1050)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011#011Intermediate: QSize(3600, 1080)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011#011New: QSize(3600, 1080)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Disable outputs: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Change outputs: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011 (89)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Enable outputs: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011#011 (88)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetScreenSize
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011DPI: 96.2526
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Size: QSize(3600, 1080)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011SizeMM: QSize(950, 285)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Output: 89 ( "DVI-D-0" )
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Pos: QPoint(1920,0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Mode: 2033 KScreen::Mode(Id: "2033" , Size: QSize(1680, 1050) @ 59.9543 )
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Rotation: KScreen::Output::None
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Result:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: QMap((79, XRandRCrtc(0x5604690142f0))(80, XRandRCrtc(0x560469013b50))(81, XRandRCrtc(0x560469012420))(82, XRandRCrtc(0x56046900d790))(83, XRandRCrtc(0x56046900d630))(84, XRandRCrtc(0x56046901a820)))
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Testing CRTC 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Free: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Mode: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Possible outputs: QVector(85, 86, 87, 88, 89)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connected outputs: QVector()
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Geometry: QRect(0,0 0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetCrtcConfig (enable output)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Output: 88 ( "HDMI-A-0" )
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011New CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Pos: QPoint(0,0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Mode: KScreen::Mode(Id: "91" , Size: QSize(1920, 1080) @ 60 ) Preferred: "91"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Rotation: KScreen::Output::None
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: #011Result:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Connected output 88 to CRTC 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: RRSetOutputPrimary
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011New primary: 88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandR::setConfig done!
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Window: 44040201
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Root: 1732
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  81
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  82
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  83
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  84
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  85
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  86
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  87
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  88
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Output:  89
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Mode:  2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 85 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 85 : connected = false , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 86 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 86 : connected = false , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 87 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc QObject(0x0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 1
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 87 : connected = false , enabled = false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 88 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x5604690142f0)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 79
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 91
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: XRandROutput 89 update
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_connected: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011m_crtc XRandRCrtc(0x560469013b50)
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011CRTC: 80
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011MODE: 2033
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Connection: 0
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	 #011Primary: false
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/15 20:26	dongsub-desktop	org.kde.KScreen[1436]	kscreen.xrandr: Emitting configChanged()
+2021/12/15 20:30	dongsub-desktop	CRON[26065]	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/15 20:31	dongsub-desktop	kernel	[17986.133953] device enp5s0 entered promiscuous mode
+2021/12/15 20:31	dongsub-desktop	kernel	[17987.979753] device enp5s0 left promiscuous mode
+2021/12/15 20:33	dongsub-desktop	systemd[1]	Started Run anacron jobs.
+2021/12/15 20:33	dongsub-desktop	anacron[26088]	Anacron 2.3 started on 2021-12-15
+2021/12/15 20:33	dongsub-desktop	anacron[26088]	Normal exit (0 jobs run)
+2021/12/15 20:33	dongsub-desktop	systemd[1]	anacron.service: Deactivated successfully.
+2021/12/15 20:39	dongsub-desktop	systemd[1]	fwupd.service: Deactivated successfully.
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9233] device (enp5s0): carrier: link connected
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9238] device (enp5s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/15 20:43	dongsub-desktop	kernel	[18720.269608] r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9251] policy: auto-activating connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9259] device (enp5s0): Activation: starting connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9261] device (enp5s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9266] manager: NetworkManager state is now CONNECTING
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9270] device (enp5s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9276] device (enp5s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568630.9280] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/15 20:43	dongsub-desktop	avahi-daemon[718]	Joining mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/15 20:43	dongsub-desktop	avahi-daemon[718]	New relevant interface enp5s0.IPv6 for mDNS.
+2021/12/15 20:43	dongsub-desktop	avahi-daemon[718]	Registering new address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.*.
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9650] dhcp4 (enp5s0): state changed unknown -> bound, address=192.168.123.100
+2021/12/15 20:43	dongsub-desktop	avahi-daemon[718]	Joining mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/15 20:43	dongsub-desktop	avahi-daemon[718]	New relevant interface enp5s0.IPv4 for mDNS.
+2021/12/15 20:43	dongsub-desktop	avahi-daemon[718]	Registering new address record for 192.168.123.100 on enp5s0.IPv4.
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9664] device (enp5s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2021/12/15 20:43	dongsub-desktop	whoopsie[1380]	[20:43:51] Cannot reach: https://daisy.ubuntu.com
+2021/12/15 20:43	dongsub-desktop	dbus-daemon[723]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 20:43	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/15 20:43	dongsub-desktop	dbus-daemon[723]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 20:43	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9757] device (enp5s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9761] device (enp5s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9768] manager: NetworkManager state is now CONNECTED_LOCAL
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9772] manager: NetworkManager state is now CONNECTED_SITE
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9774] policy: set 'Wired connection 1' (enp5s0) as default for IPv4 routing and DNS
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9781] device (enp5s0): Activation: successful, device activated.
+2021/12/15 20:43	dongsub-desktop	NetworkManager[725]	<info>  [1639568631.9790] manager: NetworkManager state is now CONNECTED_GLOBAL
+2021/12/15 20:43	dongsub-desktop	systemd-resolved[702]	enp5s0: Bus client set default route setting: yes
+2021/12/15 20:43	dongsub-desktop	systemd-resolved[702]	enp5s0: Bus client set DNS server list to: 192.168.123.254
+2021/12/15 20:43	dongsub-desktop	whoopsie[1380]	[20:43:51] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/3
+2021/12/15 20:43	dongsub-desktop	whoopsie[1380]	[20:43:51] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/3
+2021/12/15 20:43	dongsub-desktop	whoopsie[1380]	[20:43:51] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/3
+2021/12/15 20:43	dongsub-desktop	systemd-resolved[702]	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 219.250.36.130.
+2021/12/15 20:43	dongsub-desktop	whoopsie[1380]	[20:43:51] online
+2021/12/15 20:43	dongsub-desktop	PackageKit	get-updates transaction /72_eeeaeace from uid 1000 finished with success after 364ms
+2021/12/15 20:43	dongsub-desktop	kernel	[18725.689268] device enp5s0 entered promiscuous mode
+2021/12/15 20:44	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 20:44	dongsub-desktop	NetworkManager[725]	<info>  [1639568645.9749] dhcp4 (enp5s0): state changed bound -> extended, address=192.168.123.100
+2021/12/15 20:44	dongsub-desktop	dbus-daemon[723]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 20:44	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/15 20:44	dongsub-desktop	dbus-daemon[723]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 20:44	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/15 20:44	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 20:44	dongsub-desktop	NetworkManager[725]	<info>  [1639568660.9431] dhcp4 (enp5s0): state changed extended -> extended, address=192.168.123.100
+2021/12/15 20:44	dongsub-desktop	systemd-resolved[702]	enp5s0: Bus client set DNS server list to: 210.220.163.82, 219.250.36.130
+2021/12/15 20:44	dongsub-desktop	dbus-daemon[723]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 20:44	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/15 20:44	dongsub-desktop	dbus-daemon[723]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 20:44	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/15 20:44	dongsub-desktop	rtkit-daemon[944]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 20:44	dongsub-desktop	rtkit-daemon[944]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 20:44	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 20:46	dongsub-desktop	rtkit-daemon[944]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 20:51	dongsub-desktop	rtkit-daemon[944]	message repeated 13 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/15 20:51	dongsub-desktop	smartd[744]	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 71 to 70
+2021/12/15 20:52	dongsub-desktop	rtkit-daemon[944]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 20:57	dongsub-desktop	rtkit-daemon[944]	message repeated 23 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/15 20:59	dongsub-desktop	rtkit-daemon[944]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 21:04	dongsub-desktop	rtkit-daemon[944]	message repeated 7 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/15 21:04	dongsub-desktop	systemd[1039]	app-deepin\x2dvoice\x2drecorder-300b758821d94e0783ee4299a15588b3.scope: Deactivated successfully.
+2021/12/15 21:04	dongsub-desktop	systemd[1039]	app-deepin\x2dvoice\x2drecorder-300b758821d94e0783ee4299a15588b3.scope: Consumed 15min 22.577s CPU time.
+2021/12/15 21:06	dongsub-desktop	rtkit-daemon[944]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/15 21:06	dongsub-desktop	rtkit-daemon[944]	message repeated 3 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/15 21:06	dongsub-desktop	rtkit-daemon[944]	Successfully made thread 27645 of process 27415 owned by '1000' RT at priority 10.
+2021/12/15 21:06	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 21:12	dongsub-desktop	rtkit-daemon[944]	message repeated 6 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/15 21:15	dongsub-desktop	systemd-timesyncd[703]	Initial synchronization to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2021/12/15 21:15	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 21:15	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 21:17	dongsub-desktop	CRON[28020]	(root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2021/12/15 21:18	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 21:19	dongsub-desktop	rtkit-daemon[944]	message repeated 3 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/15 21:21	dongsub-desktop	smartd[744]	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 70 to 71
+2021/12/15 21:22	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 21:28	dongsub-desktop	rtkit-daemon[944]	message repeated 29 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/15 21:30	dongsub-desktop	CRON[28878]	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/15 21:30	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 21:32	dongsub-desktop	rtkit-daemon[944]	message repeated 21 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/15 21:33	dongsub-desktop	systemd[1]	Started Run anacron jobs.
+2021/12/15 21:33	dongsub-desktop	anacron[29386]	Anacron 2.3 started on 2021-12-15
+2021/12/15 21:33	dongsub-desktop	anacron[29386]	Normal exit (0 jobs run)
+2021/12/15 21:33	dongsub-desktop	systemd[1]	anacron.service: Deactivated successfully.
+2021/12/15 21:33	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 21:47	dongsub-desktop	rtkit-daemon[944]	message repeated 19 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/15 21:47	dongsub-desktop	rtkit-daemon[944]	Successfully made thread 29949 of process 29680 owned by '1000' RT at priority 10.
+2021/12/15 21:47	dongsub-desktop	rtkit-daemon[944]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/15 21:52	dongsub-desktop	rtkit-daemon[944]	message repeated 10 times: [ Supervising 11 threads of 7 processes of 1 users.]
+2021/12/15 21:53	dongsub-desktop	systemd[1]	Starting Daily apt download activities...
+2021/12/15 21:53	dongsub-desktop	systemd[1]	apt-daily.service: Deactivated successfully.
+2021/12/15 21:53	dongsub-desktop	systemd[1]	Finished Daily apt download activities.
+2021/12/15 21:58	dongsub-desktop	rtkit-daemon[944]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/15 22:00	dongsub-desktop	rtkit-daemon[944]	message repeated 5 times: [ Supervising 11 threads of 7 processes of 1 users.]
+2021/12/15 22:06	dongsub-desktop	kernel	[23706.522181] r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/15 22:07	dongsub-desktop	NetworkManager[725]	<info>  [1639573623.2095] device (enp5s0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/15 22:07	dongsub-desktop	NetworkManager[725]	<info>  [1639573623.2096] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/15 22:07	dongsub-desktop	NetworkManager[725]	<info>  [1639573623.2096] dhcp4 (enp5s0): state changed extended -> terminated
+2021/12/15 22:07	dongsub-desktop	avahi-daemon[718]	Withdrawing address record for 192.168.123.100 on enp5s0.
+2021/12/15 22:07	dongsub-desktop	avahi-daemon[718]	Leaving mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/15 22:07	dongsub-desktop	avahi-daemon[718]	Interface enp5s0.IPv4 no longer relevant for mDNS.
+2021/12/15 22:07	dongsub-desktop	avahi-daemon[718]	Withdrawing address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.
+2021/12/15 22:07	dongsub-desktop	avahi-daemon[718]	Leaving mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/15 22:07	dongsub-desktop	avahi-daemon[718]	Interface enp5s0.IPv6 no longer relevant for mDNS.
+2021/12/15 22:07	dongsub-desktop	NetworkManager[725]	<info>  [1639573623.2131] manager: NetworkManager state is now DISCONNECTED
+2021/12/15 22:07	dongsub-desktop	whoopsie[1380]	[22:07:03] offline
+2021/12/15 22:07	dongsub-desktop	dbus-daemon[723]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=725 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/15 22:07	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/15 22:07	dongsub-desktop	systemd-resolved[702]	enp5s0: Bus client set default route setting: no
+2021/12/15 22:07	dongsub-desktop	systemd-resolved[702]	enp5s0: Bus client reset DNS server list.
+2021/12/15 22:07	dongsub-desktop	dbus-daemon[723]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/15 22:07	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/15 22:07	dongsub-desktop	PackageKit	get-updates transaction /73_beadbdbd from uid 1000 finished with success after 374ms
+2021/12/15 22:07	dongsub-desktop	kernel	[23716.692161] device enp5s0 left promiscuous mode
+2021/12/15 22:07	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/15 22:07	dongsub-desktop	rtkit-daemon[944]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/15 22:07	dongsub-desktop	rtkit-daemon[944]	message repeated 3 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/15 22:07	dongsub-desktop	rtkit-daemon[944]	Successfully made thread 30630 of process 30145 owned by '1000' RT at priority 10.
+2021/12/15 22:07	dongsub-desktop	rtkit-daemon[944]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/15 22:11	dongsub-desktop	dbus-daemon[1051]	[session uid=1000 pid=1051] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.26' (uid=1000 pid=1288 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/15 22:11	dongsub-desktop	systemd[1039]	Starting KRunner provider for baloo file indexer...
+2021/12/15 22:11	dongsub-desktop	systemd[1039]	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/15 22:11	dongsub-desktop	systemd[1039]	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/15 22:11	dongsub-desktop	systemd[1039]	Failed to start KRunner provider for baloo file indexer.
+2021/12/15 22:11	dongsub-desktop	systemd[1039]	Started Deepin Voice Recorder - Voice Recorder.
+2021/12/15 22:11	dongsub-desktop	systemd[1039]	app-org.kde.kate-64066c790fc54d62b69162874980a104.scope: Deactivated successfully.
+2021/12/15 22:11	dongsub-desktop	systemd[1039]	app-org.kde.kate-64066c790fc54d62b69162874980a104.scope: Consumed 37.111s CPU time.
