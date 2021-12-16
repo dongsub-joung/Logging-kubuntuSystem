@@ -1,0 +1,1000 @@
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 1680 1050
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 1680 1050
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  89
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  89
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  1680 1050
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  443 277
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 89 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed55a00)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = false , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 89 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed55a00)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = true , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  1680 1050
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  443 277
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = true , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Emitting configChanged()
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandR::setConfig
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Requested screen size is QSize(3600, 1080)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Needed CRTCs:  2
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Actions to perform:
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary Output: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011#011Old: 89
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011#011New: 88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011Change Screen Size: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011#011Old: QSize(1680, 1050)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011#011Intermediate: QSize(3600, 1080)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011#011New: QSize(3600, 1080)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011Disable outputs: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011Change outputs: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011#011 (89)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011Enable outputs: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011#011 (88)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: RRSetScreenSize
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011DPI: 96.2526
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Size: QSize(3600, 1080)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011SizeMM: QSize(950, 285)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Output: 89 ( "DVI-D-0" )
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Pos: QPoint(1920,0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Mode: 116 KScreen::Mode(Id: "116" , Size: QSize(1680, 1050) @ 59.9543 )
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Rotation: KScreen::Output::None
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011Result:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 89 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed55a00)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: QMap((79, XRandRCrtc(0x5640fed5a3a0))(80, XRandRCrtc(0x5640fed55a00))(81, XRandRCrtc(0x5640fed55b10))(82, XRandRCrtc(0x7fa910008330))(83, XRandRCrtc(0x5640fed559b0))(84, XRandRCrtc(0x5640fed62b60)))
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Testing CRTC 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Free: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Mode: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Possible outputs: QVector(85, 86, 87, 88, 89)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connected outputs: QVector()
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Geometry: QRect(0,0 0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: RRSetCrtcConfig (enable output)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Output: 88 ( "HDMI-A-0" )
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011New CRTC: 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Pos: QPoint(0,0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Mode: KScreen::Mode(Id: "92" , Size: QSize(1920, 1080) @ 71.9104 ) Preferred: "91"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Rotation: KScreen::Output::None
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: #011Result:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Connected output 88 to CRTC 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: RRSetOutputPrimary
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011New primary: 88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandR::setConfig done!
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  89
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Window: 52428809
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Root: 1736
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size ID: 65535
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Size:  3600 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011SizeMM:  950 285
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  89
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 1920 1080
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  1920 0 1680 1050
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  81
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  82
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  83
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_CrtcChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  84
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Geometry:  0 0 0 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  85
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  86
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  87
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Disconnected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  88
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Output:  89
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011CRTC:  80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Mode:  116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Rotation:  "Rotate_0"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Connection:  "Connected"
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xcb.helper: #011Subpixel Order:  0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed5a3a0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed5a3a0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed5a3a0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 89 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed55a00)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed5a3a0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 89 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed55a00)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 85 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 85 : connected = false , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 86 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 86 : connected = false , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 87 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc QObject(0x0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 1
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 87 : connected = false , enabled = false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 88 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed5a3a0)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 79
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 92
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: XRandROutput 89 update
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_connected: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011m_crtc XRandRCrtc(0x5640fed55a00)
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011CRTC: 80
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011MODE: 116
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Connection: 0
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	 #011Primary: false
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Output 89 : connected = true , enabled = true
+2021/12/16 13:15	dongsub-desktop	org.kde.KScreen[1466]	kscreen.xrandr: Emitting configChanged()
+2021/12/16 13:16	dongsub-desktop	NetworkManager[712]	<info>  [1639628168.9128] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+2021/12/16 13:16	dongsub-desktop	NetworkManager[712]	<info>  [1639628168.9129] device (enp5s0): state change: unavailable -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+2021/12/16 13:16	dongsub-desktop	ModemManager[821]	<info>  [sleep-monitor] system is about to suspend
+2021/12/16 13:16	dongsub-desktop	NetworkManager[712]	<info>  [1639628168.9209] manager: NetworkManager state is now ASLEEP
+2021/12/16 13:16	dongsub-desktop	systemd[1]	Reached target Sleep.
+2021/12/16 13:16	dongsub-desktop	systemd[1]	Starting Record successful boot for GRUB...
+2021/12/16 13:16	dongsub-desktop	systemd[1]	Starting Suspend...
+2021/12/16 13:16	dongsub-desktop	systemd-sleep[3290]	Suspending system...
+2021/12/16 13:16	dongsub-desktop	systemd[1]	grub-common.service: Deactivated successfully.
+2021/12/16 13:16	dongsub-desktop	kernel	[ 5344.037729] PM: suspend entry (deep)
+2021/12/16 13:16	dongsub-desktop	systemd[1]	Finished Record successful boot for GRUB.
+2021/12/16 13:16	dongsub-desktop	systemd[1]	Starting GRUB failed boot detection...
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.042462] Filesystems sync: 0.004 seconds
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.042746] Freezing user space processes ... (elapsed 0.021 seconds) done.
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.064362] OOM killer disabled.
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.064362] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.065506] printk: Suspending console(s) (use no_console_suspend to debug)
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.066152] serial 00:03: disabled
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.100384] sd 0:0:0:0: [sda] Synchronizing SCSI cache
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.100430] sd 0:0:0:0: [sda] Stopping disk
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.572382] ccp 0000:07:00.2: refused to change power state from D0 to D3hot
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5344.632689] ACPI: Preparing to enter system sleep state S3
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.172839] PM: Saving platform NVS memory
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.172880] Disabling non-boot CPUs ...
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.175559] smpboot: CPU 1 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.178402] smpboot: CPU 2 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.181298] smpboot: CPU 3 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.183485] smpboot: CPU 4 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.185555] smpboot: CPU 5 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.187500] smpboot: CPU 6 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.188906] IRQ 26: no longer affine to CPU7
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.188916] IRQ 38: no longer affine to CPU7
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.188922] IRQ 44: no longer affine to CPU7
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.188930] IRQ 54: no longer affine to CPU7
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.189940] smpboot: CPU 7 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.191091] IRQ 48: no longer affine to CPU8
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.191100] IRQ 58: no longer affine to CPU8
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.192108] smpboot: CPU 8 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.193086] IRQ 42: no longer affine to CPU9
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.193094] IRQ 52: no longer affine to CPU9
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.193101] IRQ 55: no longer affine to CPU9
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.193106] IRQ 60: no longer affine to CPU9
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.194111] smpboot: CPU 9 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.195909] smpboot: CPU 10 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.197610] smpboot: CPU 11 is now offline
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.198560] ACPI: Low-level resume complete
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.198606] PM: Restoring platform NVS memory
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.199433] Enabling non-boot CPUs ...
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.199470] x86: Booting SMP configuration:
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.199471] smpboot: Booting Node 0 Processor 1 APIC 0x2
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.199571] microcode: CPU1: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.201747] ACPI: \_PR_.C002: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.202227] CPU1 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.202289] smpboot: Booting Node 0 Processor 2 APIC 0x4
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.202391] microcode: CPU2: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.204555] ACPI: \_PR_.C004: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.204784] CPU2 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.204802] smpboot: Booting Node 0 Processor 3 APIC 0x8
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.204934] microcode: CPU3: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.207124] ACPI: \_PR_.C006: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.207404] CPU3 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.207422] smpboot: Booting Node 0 Processor 4 APIC 0xa
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.207552] microcode: CPU4: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.209733] ACPI: \_PR_.C008: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.210030] CPU4 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.210047] smpboot: Booting Node 0 Processor 5 APIC 0xc
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.210176] microcode: CPU5: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.212353] ACPI: \_PR_.C00A: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.212683] CPU5 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.212701] smpboot: Booting Node 0 Processor 6 APIC 0x1
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.212833] microcode: CPU6: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.215043] ACPI: \_PR_.C001: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.215533] CPU6 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.215560] smpboot: Booting Node 0 Processor 7 APIC 0x3
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.215664] microcode: CPU7: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.217837] ACPI: \_PR_.C003: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.218277] CPU7 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.218292] smpboot: Booting Node 0 Processor 8 APIC 0x5
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.218395] microcode: CPU8: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.220568] ACPI: \_PR_.C005: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.221044] CPU8 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.221059] smpboot: Booting Node 0 Processor 9 APIC 0x9
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.221189] microcode: CPU9: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.223381] ACPI: \_PR_.C007: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.223960] CPU9 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.223978] smpboot: Booting Node 0 Processor 10 APIC 0xb
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.224111] microcode: CPU10: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.226297] ACPI: \_PR_.C009: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.226899] CPU10 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.226918] smpboot: Booting Node 0 Processor 11 APIC 0xd
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.227052] microcode: CPU11: patch_level=0x0800820d
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.229239] ACPI: \_PR_.C00B: Found 2 idle states
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.229921] CPU11 is up
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.231434] ACPI: Waking up from system sleep state S3
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.310545] usb usb1: root hub lost power or was reset
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.310548] usb usb2: root hub lost power or was reset
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.310692] sd 0:0:0:0: [sda] Starting disk
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.311224] serial 00:03: activated
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.431137] [drm] PCIE GART of 256M enabled (table at 0x000000F400000000).
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.625852] ata5: SATA link down (SStatus 0 SControl 300)
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.625862] ata9: SATA link down (SStatus 0 SControl 300)
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.625873] ata2: SATA link down (SStatus 0 SControl 300)
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.625893] ata6: SATA link down (SStatus 0 SControl 300)
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.785606] ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.785851] ata1.00: supports DRM functions and may not be fully accessible
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.786254] ata1.00: disabling queued TRIM support
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.788091] ata1.00: supports DRM functions and may not be fully accessible
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.788478] ata1.00: disabling queued TRIM support
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.790045] ata1.00: configured for UDMA/133
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5345.790213] ata1.00: Enabling discard_zeroes_data
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.117974] [drm] Fence fallback timer expired on ring sdma0
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.629992] [drm] Fence fallback timer expired on ring sdma0
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.661920] [drm] UVD and UVD ENC initialized successfully.
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.761999] [drm] VCE initialized successfully.
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.769169] OOM killer enabled.
+2021/12/16 13:32	dongsub-desktop	systemd-resolved[687]	Clock change detected. Flushing caches.
+2021/12/16 13:32	dongsub-desktop	systemd[1]	Started Run anacron jobs.
+2021/12/16 13:32	dongsub-desktop	systemd-sleep[3290]	System resumed.
+2021/12/16 13:32	dongsub-desktop	anacron[3393]	Anacron 2.3 started on 2021-12-16
+2021/12/16 13:32	dongsub-desktop	anacron[3393]	Normal exit (0 jobs run)
+2021/12/16 13:32	dongsub-desktop	systemd[1]	anacron.service: Deactivated successfully.
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.769170] Restarting tasks ... done.
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.774486] PM: suspend exit
+2021/12/16 13:32	dongsub-desktop	systemd[1]	grub-initrd-fallback.service: Deactivated successfully.
+2021/12/16 13:32	dongsub-desktop	systemd[1]	Finished GRUB failed boot detection.
+2021/12/16 13:32	dongsub-desktop	systemd[1]	systemd-suspend.service: Deactivated successfully.
+2021/12/16 13:32	dongsub-desktop	systemd[1]	Finished Suspend.
+2021/12/16 13:32	dongsub-desktop	systemd[1]	Stopped target Sleep.
+2021/12/16 13:32	dongsub-desktop	systemd[1]	Reached target Suspend.
+2021/12/16 13:32	dongsub-desktop	systemd[1]	Stopped target Suspend.
+2021/12/16 13:32	dongsub-desktop	ModemManager[821]	<info>  [sleep-monitor] system is resuming
+2021/12/16 13:32	dongsub-desktop	NetworkManager[712]	<info>  [1639629140.6092] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+2021/12/16 13:32	dongsub-desktop	NetworkManager[712]	<info>  [1639629140.6093] device (enp5s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5346.837617] Generic FE-GE Realtek PHY r8169-0-500:00: attached PHY driver (mii_bus:phy_addr=r8169-0-500:00, irq=MAC)
+2021/12/16 13:32	dongsub-desktop	NetworkManager[712]	<info>  [1639629140.8430] manager: NetworkManager state is now DISCONNECTED
+2021/12/16 13:32	dongsub-desktop	kernel	[ 5347.041721] r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/16 13:32	dongsub-desktop	ModemManager[821]	<info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.2/0000:02:07.0/0000:05:00.0': not supported by any plugin
+2021/12/16 13:33	dongsub-desktop	CRON[3492]	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/16 13:33	dongsub-desktop	smartd[728]	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 72 to 75
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	app-kcm_driver_manager-29fb79f1a69c4744adb68a412465f8ef.scope: Deactivated successfully.
+2021/12/16 13:34	dongsub-desktop	dbus-daemon[1053]	[session uid=1000 pid=1053] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.27' (uid=1000 pid=1292 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	Starting KRunner provider for baloo file indexer...
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	Failed to start KRunner provider for baloo file indexer.
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	Started Kate - Advanced Text Editor.
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	app-systemsettings-8c62c317105a4a438a22829ff7a4f048.scope: Deactivated successfully.
+2021/12/16 13:34	dongsub-desktop	systemd[1040]	app-systemsettings-8c62c317105a4a438a22829ff7a4f048.scope: Consumed 55.643s CPU time.
+2021/12/16 13:47	dongsub-desktop	systemd[1040]	Started Dolphin - File Manager.
+2021/12/16 13:47	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-e639e5ff10744a62b9e96da0f839c03b.scope: Deactivated successfully.
+2021/12/16 13:47	dongsub-desktop	systemd[1040]	Started Dolphin - File Manager.
+2021/12/16 13:47	dongsub-desktop	smartd[728]	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 75 to 71
+2021/12/16 13:47	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-29bdd99f26ef4dc09193a9a9b88b06cd.scope: Deactivated successfully.
+2021/12/16 13:47	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-29bdd99f26ef4dc09193a9a9b88b06cd.scope: Consumed 1.603s CPU time.
+2021/12/16 13:49	dongsub-desktop	systemd[1040]	Started Firefox Web Browser - Web Browser.
+2021/12/16 13:49	dongsub-desktop	rtkit-daemon[934]	Supervising 7 threads of 3 processes of 1 users.
+2021/12/16 13:49	dongsub-desktop	rtkit-daemon[934]	message repeated 5 times: [ Supervising 7 threads of 3 processes of 1 users.]
+2021/12/16 13:49	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 3912 of process 3716 owned by '1000' RT at priority 10.
+2021/12/16 13:49	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:49	dongsub-desktop	rtkit-daemon[934]	message repeated 8 times: [ Supervising 8 threads of 4 processes of 1 users.]
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8474] device (enp5s0): carrier: link connected
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8479] device (enp5s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8489] policy: auto-activating connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8496] device (enp5s0): Activation: starting connection 'Wired connection 1' (9256e2ac-3f42-3790-a0d1-0e0482d677f8)
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8498] device (enp5s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2021/12/16 13:49	dongsub-desktop	kernel	[ 6387.046385] r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/16 13:49	dongsub-desktop	kernel	[ 6387.046409] IPv6: ADDRCONF(NETDEV_CHANGE): enp5s0: link becomes ready
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8502] manager: NetworkManager state is now CONNECTING
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8505] device (enp5s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8512] device (enp5s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630180.8517] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/16 13:49	dongsub-desktop	avahi-daemon[706]	Joining mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/16 13:49	dongsub-desktop	avahi-daemon[706]	New relevant interface enp5s0.IPv6 for mDNS.
+2021/12/16 13:49	dongsub-desktop	avahi-daemon[706]	Registering new address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.*.
+2021/12/16 13:49	dongsub-desktop	kernel	[ 6388.721518] r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630184.2593] device (enp5s0): carrier: link connected
+2021/12/16 13:49	dongsub-desktop	kernel	[ 6390.458425] r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3679] dhcp4 (enp5s0): state changed unknown -> bound, address=192.168.123.100
+2021/12/16 13:49	dongsub-desktop	avahi-daemon[706]	Joining mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/16 13:49	dongsub-desktop	avahi-daemon[706]	New relevant interface enp5s0.IPv4 for mDNS.
+2021/12/16 13:49	dongsub-desktop	avahi-daemon[706]	Registering new address record for 192.168.123.100 on enp5s0.IPv4.
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3697] device (enp5s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2021/12/16 13:49	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=712 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/16 13:49	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/16 13:49	dongsub-desktop	whoopsie[1224]	[13:49:46] Cannot reach: https://daisy.ubuntu.com
+2021/12/16 13:49	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/16 13:49	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3848] device (enp5s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3851] device (enp5s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3859] manager: NetworkManager state is now CONNECTED_LOCAL
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3865] manager: NetworkManager state is now CONNECTED_SITE
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3867] policy: set 'Wired connection 1' (enp5s0) as default for IPv4 routing and DNS
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3875] device (enp5s0): Activation: successful, device activated.
+2021/12/16 13:49	dongsub-desktop	NetworkManager[712]	<info>  [1639630186.3886] manager: NetworkManager state is now CONNECTED_GLOBAL
+2021/12/16 13:49	dongsub-desktop	systemd-resolved[687]	enp5s0: Bus client set default route setting: yes
+2021/12/16 13:49	dongsub-desktop	systemd-resolved[687]	enp5s0: Bus client set DNS server list to: 168.126.63.1, 168.126.63.2
+2021/12/16 13:49	dongsub-desktop	whoopsie[1224]	[13:49:46] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/16 13:49	dongsub-desktop	whoopsie[1224]	[13:49:46] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/16 13:49	dongsub-desktop	whoopsie[1224]	[13:49:46] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/16 13:49	dongsub-desktop	systemd-resolved[687]	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 168.126.63.1.
+2021/12/16 13:49	dongsub-desktop	whoopsie[1224]	[13:49:46] online
+2021/12/16 13:49	dongsub-desktop	PackageKit	get-updates transaction /84_eabeecca from uid 1000 finished with success after 390ms
+2021/12/16 13:49	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:49	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:49	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/16 13:50	dongsub-desktop	NetworkManager[712]	<info>  [1639630200.3840] dhcp4 (enp5s0): state changed bound -> extended, address=192.168.123.100
+2021/12/16 13:50	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=712 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/16 13:50	dongsub-desktop	systemd-resolved[687]	enp5s0: Bus client set DNS server list to: 192.168.123.254
+2021/12/16 13:50	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/16 13:50	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/16 13:50	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/16 13:50	dongsub-desktop	systemd-resolved[687]	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 168.126.63.2.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	systemd-timesyncd[688]	Timed out waiting for reply from 192.168.123.254:123 (ntp.ubuntu.com).
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/16 13:50	dongsub-desktop	NetworkManager[712]	<info>  [1639630215.3704] dhcp4 (enp5s0): state changed extended -> extended, address=192.168.123.100
+2021/12/16 13:50	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=712 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/16 13:50	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/16 13:50	dongsub-desktop	systemd-resolved[687]	enp5s0: Bus client set DNS server list to: 210.220.163.82, 219.250.36.130
+2021/12/16 13:50	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/16 13:50	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 8 threads of 4 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	message repeated 5 times: [ Supervising 8 threads of 4 processes of 1 users.]
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 4350 of process 4119 owned by '1000' RT at priority 10.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 13:50	dongsub-desktop	systemd-resolved[687]	Clock change detected. Flushing caches.
+2021/12/16 13:50	dongsub-desktop	systemd-timesyncd[688]	Initial synchronization to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2021/12/16 13:51	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 13:51	dongsub-desktop	rtkit-daemon[934]	message repeated 3 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 13:51	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 4452 of process 4016 owned by '1000' RT at priority 10.
+2021/12/16 13:51	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 13:51	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 13:51	dongsub-desktop	rtkit-daemon[934]	message repeated 3 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 13:51	dongsub-desktop	systemd[1040]	Started Dolphin - File Manager.
+2021/12/16 13:52	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 13:55	dongsub-desktop	rtkit-daemon[934]	message repeated 21 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 13:55	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.149' (uid=1000 pid=3716 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/16 13:55	dongsub-desktop	systemd[1]	Starting Hostname Service...
+2021/12/16 13:55	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/16 13:55	dongsub-desktop	systemd[1]	Started Hostname Service.
+2021/12/16 13:55	dongsub-desktop	systemd[1]	systemd-hostnamed.service: Deactivated successfully.
+2021/12/16 13:57	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.151' (uid=1000 pid=3716 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/16 13:57	dongsub-desktop	systemd[1]	Starting Hostname Service...
+2021/12/16 13:57	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/16 13:57	dongsub-desktop	systemd[1]	Started Hostname Service.
+2021/12/16 13:57	dongsub-desktop	systemd[1]	systemd-hostnamed.service: Deactivated successfully.
+2021/12/16 13:58	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 14:00	dongsub-desktop	rtkit-daemon[934]	message repeated 17 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 14:00	dongsub-desktop	systemd[1040]	Started Dolphin - File Manager.
+2021/12/16 14:00	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-29ae3cd1150244ffafea487eba2b99ff.scope: Deactivated successfully.
+2021/12/16 14:01	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-fdb58c41da5b45da8c99bd73a2484b19.scope: Deactivated successfully.
+2021/12/16 14:01	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-fdb58c41da5b45da8c99bd73a2484b19.scope: Consumed 2.207s CPU time.
+2021/12/16 14:01	dongsub-desktop	systemd[1040]	Started Dolphin - File Manager.
+2021/12/16 14:01	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.164' (uid=1000 pid=3716 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/16 14:01	dongsub-desktop	systemd[1]	Starting Hostname Service...
+2021/12/16 14:01	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/16 14:01	dongsub-desktop	systemd[1]	Started Hostname Service.
+2021/12/16 14:01	dongsub-desktop	systemd[1]	systemd-hostnamed.service: Deactivated successfully.
+2021/12/16 14:02	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 14:02	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 14:02	dongsub-desktop	systemd-resolved[687]	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 192.168.123.254.
+2021/12/16 14:02	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.167' (uid=1000 pid=3716 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/16 14:02	dongsub-desktop	systemd[1]	Starting Hostname Service...
+2021/12/16 14:02	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/16 14:02	dongsub-desktop	systemd[1]	Started Hostname Service.
+2021/12/16 14:02	dongsub-desktop	systemd[1]	systemd-hostnamed.service: Deactivated successfully.
+2021/12/16 14:03	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 14:08	dongsub-desktop	rtkit-daemon[934]	message repeated 9 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 14:08	dongsub-desktop	systemd-resolved[687]	Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 192.168.123.254.
+2021/12/16 14:08	dongsub-desktop	systemd-resolved[687]	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 192.168.123.254.
+2021/12/16 14:08	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 14:09	dongsub-desktop	rtkit-daemon[934]	message repeated 5 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 14:09	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 6108 of process 5892 owned by '1000' RT at priority 10.
+2021/12/16 14:09	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:12	dongsub-desktop	rtkit-daemon[934]	message repeated 8 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:12	dongsub-desktop	systemd[1040]	Started Firefox Web Browser - Web Browser.
+2021/12/16 14:12	dongsub-desktop	systemd[1040]	app-firefox-a5e24c4111114d13bce45dff5fdadc4b.scope: Deactivated successfully.
+2021/12/16 14:12	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:12	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:14	dongsub-desktop	systemd[1040]	Started VLC media player - Media player.
+2021/12/16 14:14	dongsub-desktop	systemd[1040]	app-vlc-0fe0bbdc0ffc4331b853b3b2b45ca73f.scope: Deactivated successfully.
+2021/12/16 14:14	dongsub-desktop	systemd[1040]	Started VLC media player - Media player.
+2021/12/16 14:14	dongsub-desktop	systemd[1040]	app-vlc-aa1ea29834fb41f4a2bef8470be09de9.scope: Deactivated successfully.
+2021/12/16 14:15	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:16	dongsub-desktop	rtkit-daemon[934]	message repeated 7 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:17	dongsub-desktop	CRON[6940]	(root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2021/12/16 14:17	dongsub-desktop	smartd[728]	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 71 to 67
+2021/12/16 14:17	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:17	dongsub-desktop	rtkit-daemon[934]	message repeated 3 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:17	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 6951 of process 6331 owned by '1000' RT at priority 10.
+2021/12/16 14:17	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:17	dongsub-desktop	rtkit-daemon[934]	message repeated 8 times: [ Supervising 11 threads of 7 processes of 1 users.]
+2021/12/16 14:17	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 7063 of process 6789 owned by '1000' RT at priority 10.
+2021/12/16 14:17	dongsub-desktop	rtkit-daemon[934]	Supervising 12 threads of 8 processes of 1 users.
+2021/12/16 14:18	dongsub-desktop	rtkit-daemon[934]	message repeated 6 times: [ Supervising 12 threads of 8 processes of 1 users.]
+2021/12/16 14:18	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 7123 of process 6398 owned by '1000' RT at priority 10.
+2021/12/16 14:18	dongsub-desktop	rtkit-daemon[934]	Supervising 13 threads of 9 processes of 1 users.
+2021/12/16 14:19	dongsub-desktop	dbus-daemon[1053]	[session uid=1000 pid=1053] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.27' (uid=1000 pid=1292 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/16 14:19	dongsub-desktop	systemd[1040]	Starting KRunner provider for baloo file indexer...
+2021/12/16 14:19	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/16 14:19	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/16 14:19	dongsub-desktop	systemd[1040]	Failed to start KRunner provider for baloo file indexer.
+2021/12/16 14:19	dongsub-desktop	systemd[1040]	Started Deepin Voice Recorder - Voice Recorder.
+2021/12/16 14:19	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:19	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:19	dongsub-desktop	systemd[1040]	Started Ark - Archiving Tool.
+2021/12/16 14:20	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:20	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:20	dongsub-desktop	kernel	[ 8257.570548] device enp5s0 left promiscuous mode
+2021/12/16 14:21	dongsub-desktop	systemd[1040]	app-org.kde.ark-7eb7045803024833829f44dafd43e384.scope: Deactivated successfully.
+2021/12/16 14:21	dongsub-desktop	systemd[1040]	app-org.kde.ark-7eb7045803024833829f44dafd43e384.scope: Consumed 21.382s CPU time.
+2021/12/16 14:21	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:21	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:21	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:21	dongsub-desktop	rtkit-daemon[934]	message repeated 3 times: [ Supervising 11 threads of 7 processes of 1 users.]
+2021/12/16 14:21	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 7589 of process 7104 owned by '1000' RT at priority 10.
+2021/12/16 14:21	dongsub-desktop	rtkit-daemon[934]	Supervising 12 threads of 8 processes of 1 users.
+2021/12/16 14:21	dongsub-desktop	kernel	[ 8322.815957] device enp5s0 entered promiscuous mode
+2021/12/16 14:22	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:23	dongsub-desktop	rtkit-daemon[934]	message repeated 13 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:23	dongsub-desktop	dbus-daemon[1053]	[session uid=1000 pid=1053] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.27' (uid=1000 pid=1292 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/16 14:23	dongsub-desktop	systemd[1040]	Starting KRunner provider for baloo file indexer...
+2021/12/16 14:23	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/16 14:23	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/16 14:23	dongsub-desktop	systemd[1040]	Failed to start KRunner provider for baloo file indexer.
+2021/12/16 14:23	dongsub-desktop	systemd[1040]	Started Discover - Software Center.
+2021/12/16 14:23	dongsub-desktop	systemd[1]	Starting Snap Daemon...
+2021/12/16 14:23	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.216' (uid=1000 pid=7978 comm="/usr/bin/plasma-discover " label="unconfined")
+2021/12/16 14:23	dongsub-desktop	systemd[1]	Starting Firmware update daemon...
+2021/12/16 14:23	dongsub-desktop	snapd[8024]	AppArmor status: apparmor is enabled and all features are available
+2021/12/16 14:23	dongsub-desktop	snapd[8024]	daemon.go:242: started snapd/2.53+21.10ubuntu1 (series 16; classic) ubuntu/21.10 (amd64) linux/5.13.0-22-generic.
+2021/12/16 14:23	dongsub-desktop	kernel	[ 8434.213433] loop0: detected capacity change from 0 to 8
+2021/12/16 14:23	dongsub-desktop	systemd[1040]	tmp-sanity\x2dmountpoint\x2d1899750565.mount: Deactivated successfully.
+2021/12/16 14:23	dongsub-desktop	snapd[8024]	daemon.go:335: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2021/12/16 14:23	dongsub-desktop	systemd[1]	Started Snap Daemon.
+2021/12/16 14:23	dongsub-desktop	fwupd[8027]	05:23:49:0408 FuPluginUefiCapsule  failed to add /sys/firmware/efi/esrt/entries/entry0: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+2021/12/16 14:23	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.fwupd'
+2021/12/16 14:23	dongsub-desktop	systemd[1]	Started Firmware update daemon.
+2021/12/16 14:23	dongsub-desktop	PackageKit	refresh-cache transaction /85_abebbeea from uid 1000 finished with success after 5864ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	resolve transaction /86_aedcdeae from uid 1000 finished with success after 1040ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	resolve transaction /87_bedaceba from uid 1000 finished with success after 265ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	get-updates transaction /88_eddbcabc from uid 1000 finished with success after 488ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	resolve transaction /89_ebedacdc from uid 1000 finished with success after 263ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	resolve transaction /90_eebcdeed from uid 1000 finished with success after 250ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	get-updates transaction /91_aeeadbde from uid 1000 finished with success after 458ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	get-updates transaction /92_ecdcddac from uid 1000 finished with success after 473ms
+2021/12/16 14:23	dongsub-desktop	PackageKit	resolve transaction /93_babbbedc from uid 1000 finished with success after 302ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	resolve transaction /94_bbbebedb from uid 1000 finished with success after 277ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	new install-packages transaction /95_ccdeecdd scheduled from uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package ffmpeg;7:4.4-6ubuntu5;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package libavdevice58;7:4.4-6ubuntu5;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package libcdio-cdda2;10.2+2.0.0-1build2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package libcdio-paranoia2;10.2+2.0.0-1build2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package libcdio19;2.1.0-2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package libmujs1;1.1.0-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package libsdl2-2.0-0;2.0.14+dfsg2-3;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package libsixel1;1.8.6-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package mpv;0.33.1-1ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package python3-pyxattr;0.7.2-1ubuntu2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package rtmpdump;2.4+20151223.gitfa8646d.1-2build3;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /95_ccdeecdd for install-packages package youtube-dl;2021.06.06-1;all;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	install-packages transaction /95_ccdeecdd from uid 1000 finished with success after 371ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	new install-packages transaction /96_abddbabb scheduled from uid 1000
+2021/12/16 14:24	dongsub-desktop	packagekitd[1406]	PARENT process running...
+2021/12/16 14:24	dongsub-desktop	packagekitd[1406]	Parent finished...
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libcdio19;2.1.0-2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libcdio-cdda2;10.2+2.0.0-1build2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libcdio-paranoia2;10.2+2.0.0-1build2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libsdl2-2.0-0;2.0.14+dfsg2-3;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libavdevice58;7:4.4-6ubuntu5;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package ffmpeg;7:4.4-6ubuntu5;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libmujs1;1.1.0-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libsixel1;1.8.6-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package mpv;0.33.1-1ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package python3-pyxattr;0.7.2-1ubuntu2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package rtmpdump;2.4+20151223.gitfa8646d.1-2build3;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package youtube-dl;2021.06.06-1;all;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libmujs1;1.1.0-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package youtube-dl;2021.06.06-1;all;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libcdio19;2.1.0-2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libsixel1;1.8.6-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package rtmpdump;2.4+20151223.gitfa8646d.1-2build3;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libsdl2-2.0-0;2.0.14+dfsg2-3;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package python3-pyxattr;0.7.2-1ubuntu2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libcdio-cdda2;10.2+2.0.0-1build2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libcdio-paranoia2;10.2+2.0.0-1build2;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package libavdevice58;7:4.4-6ubuntu5;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package mpv;0.33.1-1ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /96_abddbabb for install-packages package ffmpeg;7:4.4-6ubuntu5;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	install-packages transaction /96_abddbabb from uid 1000 finished with success after 9617ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	get-updates transaction /97_cccaedbc from uid 1000 finished with success after 462ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	get-updates transaction /98_aacdebdc from uid 1000 finished with success after 393ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	resolve transaction /99_ebeddbdd from uid 1000 finished with success after 272ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	resolve transaction /100_ebceabbe from uid 1000 finished with success after 294ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	new install-packages transaction /101_cadbdcbd scheduled from uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /101_cadbdcbd for install-packages package simplescreenrecorder;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /101_cadbdcbd for install-packages package simplescreenrecorder-lib;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	install-packages transaction /101_cadbdcbd from uid 1000 finished with success after 396ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	new install-packages transaction /102_eaadbcea scheduled from uid 1000
+2021/12/16 14:24	dongsub-desktop	packagekitd[1406]	PARENT process running...
+2021/12/16 14:24	dongsub-desktop	packagekitd[1406]	Parent finished...
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /102_eaadbcea for install-packages package simplescreenrecorder-lib;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /102_eaadbcea for install-packages package simplescreenrecorder;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /102_eaadbcea for install-packages package simplescreenrecorder-lib;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	in /102_eaadbcea for install-packages package simplescreenrecorder;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/16 14:24	dongsub-desktop	PackageKit	install-packages transaction /102_eaadbcea from uid 1000 finished with success after 3607ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	get-updates transaction /103_ceeaabab from uid 1000 finished with success after 386ms
+2021/12/16 14:24	dongsub-desktop	PackageKit	get-updates transaction /104_abadcebe from uid 1000 finished with success after 412ms
+2021/12/16 14:24	dongsub-desktop	systemd[1040]	app-org.kde.discover-60f60f2007fc41a8b4df68566797553f.scope: Deactivated successfully.
+2021/12/16 14:24	dongsub-desktop	systemd[1040]	app-org.kde.discover-60f60f2007fc41a8b4df68566797553f.scope: Consumed 4.245s CPU time.
+2021/12/16 14:24	dongsub-desktop	systemd[1040]	Started SimpleScreenRecorder.
+2021/12/16 14:25	dongsub-desktop	snapd[8024]	daemon.go:502: gracefully waiting for running hooks
+2021/12/16 14:25	dongsub-desktop	snapd[8024]	daemon.go:504: done waiting for running hooks
+2021/12/16 14:25	dongsub-desktop	snapd[8024]	daemon stop requested to wait for socket activation
+2021/12/16 14:25	dongsub-desktop	systemd[1]	snapd.service: Deactivated successfully.
+2021/12/16 14:25	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:25	dongsub-desktop	rtkit-daemon[934]	message repeated 3 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:25	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 9744 of process 6995 owned by '1000' RT at priority 10.
+2021/12/16 14:25	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:26	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:26	dongsub-desktop	rtkit-daemon[934]	message repeated 7 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:28	dongsub-desktop	kernel	[ 8703.241436] r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/16 14:28	dongsub-desktop	kernel	[ 8708.931467] r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/16 14:28	dongsub-desktop	NetworkManager[712]	<info>  [1639632504.0374] device (enp5s0): carrier: link connected
+2021/12/16 14:28	dongsub-desktop	NetworkManager[712]	<info>  [1639632504.0400] device (enp5s0): DHCPv4 lease renewal requested
+2021/12/16 14:28	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=712 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/16 14:28	dongsub-desktop	NetworkManager[712]	<info>  [1639632504.0401] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/16 14:28	dongsub-desktop	NetworkManager[712]	<info>  [1639632504.0401] dhcp4 (enp5s0): state changed extended -> terminated
+2021/12/16 14:28	dongsub-desktop	NetworkManager[712]	<info>  [1639632504.0406] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/16 14:28	dongsub-desktop	NetworkManager[712]	<info>  [1639632504.0556] dhcp4 (enp5s0): state changed unknown -> bound, address=192.168.123.100
+2021/12/16 14:28	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/16 14:28	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/16 14:28	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/16 14:28	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/16 14:28	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 14:28	dongsub-desktop	rtkit-daemon[934]	message repeated 5 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 14:30	dongsub-desktop	CRON[10103]	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/16 14:31	dongsub-desktop	systemd[1]	Started Run anacron jobs.
+2021/12/16 14:31	dongsub-desktop	anacron[10107]	Anacron 2.3 started on 2021-12-16
+2021/12/16 14:31	dongsub-desktop	anacron[10107]	Normal exit (0 jobs run)
+2021/12/16 14:31	dongsub-desktop	systemd[1]	anacron.service: Deactivated successfully.
+2021/12/16 14:34	dongsub-desktop	rtkit-daemon[934]	Supervising 9 threads of 5 processes of 1 users.
+2021/12/16 14:34	dongsub-desktop	rtkit-daemon[934]	message repeated 5 times: [ Supervising 9 threads of 5 processes of 1 users.]
+2021/12/16 14:34	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 10214 of process 10021 owned by '1000' RT at priority 10.
+2021/12/16 14:34	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:35	dongsub-desktop	rtkit-daemon[934]	message repeated 4 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:35	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 10247 of process 7034 owned by '1000' RT at priority 10.
+2021/12/16 14:35	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:35	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:35	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:35	dongsub-desktop	systemd[1040]	Started Discover - Software Center.
+2021/12/16 14:35	dongsub-desktop	systemd[1]	Starting Snap Daemon...
+2021/12/16 14:35	dongsub-desktop	snapd[10369]	AppArmor status: apparmor is enabled and all features are available
+2021/12/16 14:35	dongsub-desktop	snapd[10369]	daemon.go:242: started snapd/2.53+21.10ubuntu1 (series 16; classic) ubuntu/21.10 (amd64) linux/5.13.0-22-generic.
+2021/12/16 14:35	dongsub-desktop	kernel	[ 9154.192293] loop0: detected capacity change from 0 to 8
+2021/12/16 14:35	dongsub-desktop	systemd[1040]	tmp-sanity\x2dmountpoint\x2d3830025232.mount: Deactivated successfully.
+2021/12/16 14:35	dongsub-desktop	snapd[10369]	daemon.go:335: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2021/12/16 14:35	dongsub-desktop	systemd[1]	Started Snap Daemon.
+2021/12/16 14:35	dongsub-desktop	PackageKit	get-updates transaction /105_dbcedded from uid 1000 finished with success after 422ms
+2021/12/16 14:35	dongsub-desktop	PackageKit	get-details transaction /106_ccdeedcd from uid 1000 finished with success after 252ms
+2021/12/16 14:35	dongsub-desktop	PackageKit	resolve transaction /107_bbaeccda from uid 1000 finished with success after 267ms
+2021/12/16 14:35	dongsub-desktop	PackageKit	resolve transaction /108_ddddeace from uid 1000 finished with success after 257ms
+2021/12/16 14:36	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:36	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:36	dongsub-desktop	dbus-daemon[1053]	[session uid=1000 pid=1053] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.27' (uid=1000 pid=1292 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/16 14:36	dongsub-desktop	systemd[1040]	Starting KRunner provider for baloo file indexer...
+2021/12/16 14:36	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/16 14:36	dongsub-desktop	systemd[1040]	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/16 14:36	dongsub-desktop	systemd[1040]	Failed to start KRunner provider for baloo file indexer.
+2021/12/16 14:38	dongsub-desktop	rtkit-daemon[934]	Supervising 10 threads of 6 processes of 1 users.
+2021/12/16 14:38	dongsub-desktop	rtkit-daemon[934]	message repeated 3 times: [ Supervising 10 threads of 6 processes of 1 users.]
+2021/12/16 14:38	dongsub-desktop	rtkit-daemon[934]	Successfully made thread 10490 of process 10029 owned by '1000' RT at priority 10.
+2021/12/16 14:38	dongsub-desktop	rtkit-daemon[934]	Supervising 11 threads of 7 processes of 1 users.
+2021/12/16 14:38	dongsub-desktop	PackageKit	new update-packages transaction /109_cbbabbea scheduled from uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /109_cbbabbea for update-packages package xserver-common;2:1.20.13-1ubuntu1.1;all;ubuntu-impish-updates-main was updating for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /109_cbbabbea for update-packages package xserver-xorg-core;2:1.20.13-1ubuntu1.1;amd64;ubuntu-impish-updates-main was updating for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /109_cbbabbea for update-packages package xserver-xorg-legacy;2:1.20.13-1ubuntu1.1;amd64;ubuntu-impish-updates-main was updating for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /109_cbbabbea for update-packages package xwayland;2:21.1.2-0ubuntu1.1;amd64;ubuntu-impish-updates-main was updating for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	update-packages transaction /109_cbbabbea from uid 1000 finished with success after 324ms
+2021/12/16 14:38	dongsub-desktop	PackageKit	new update-packages transaction /110_bacecdac scheduled from uid 1000
+2021/12/16 14:38	dongsub-desktop	packagekitd[1406]	PARENT process running...
+2021/12/16 14:38	dongsub-desktop	packagekitd[1406]	Parent finished...
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xserver-common;2:1.20.13-1ubuntu1.1;all;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xserver-xorg-legacy;2:1.20.13-1ubuntu1.1;amd64;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xserver-xorg-core;2:1.20.13-1ubuntu1.1;amd64;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xwayland;2:21.1.2-0ubuntu1.1;amd64;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xserver-common;2:1.20.13-1ubuntu1.1;all;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xwayland;2:21.1.2-0ubuntu1.1;amd64;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xserver-xorg-legacy;2:1.20.13-1ubuntu1.1;amd64;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	in /110_bacecdac for update-packages package xserver-xorg-core;2:1.20.13-1ubuntu1.1;amd64;ubuntu-impish-updates-main was installing for uid 1000
+2021/12/16 14:38	dongsub-desktop	PackageKit	update-packages transaction /110_bacecdac from uid 1000 finished with success after 6246ms
+2021/12/16 14:38	dongsub-desktop	PackageKit	get-updates transaction /111_aadeedcb from uid 1000 finished with success after 379ms
+2021/12/16 14:38	dongsub-desktop	PackageKit	get-updates transaction /112_bacceccd from uid 1000 finished with success after 358ms
+2021/12/16 14:38	dongsub-desktop	kernel	[ 9325.359089] r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/16 14:38	dongsub-desktop	PackageKit	get-updates transaction /113_bcadbead from uid 1000 finished with success after 350ms
+2021/12/16 14:38	dongsub-desktop	kernel	[ 9327.860734] device enp5s0 left promiscuous mode
+2021/12/16 14:38	dongsub-desktop	NetworkManager[712]	<info>  [1639633126.4696] device (enp5s0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/16 14:38	dongsub-desktop	NetworkManager[712]	<info>  [1639633126.4850] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/16 14:38	dongsub-desktop	NetworkManager[712]	<info>  [1639633126.4851] dhcp4 (enp5s0): state changed bound -> terminated
+2021/12/16 14:38	dongsub-desktop	avahi-daemon[706]	Withdrawing address record for 192.168.123.100 on enp5s0.
+2021/12/16 14:38	dongsub-desktop	avahi-daemon[706]	Leaving mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/16 14:38	dongsub-desktop	NetworkManager[712]	<info>  [1639633126.4874] manager: NetworkManager state is now DISCONNECTED
+2021/12/16 14:38	dongsub-desktop	whoopsie[1224]	[14:38:46] offline
+2021/12/16 14:38	dongsub-desktop	avahi-daemon[706]	Interface enp5s0.IPv4 no longer relevant for mDNS.
+2021/12/16 14:38	dongsub-desktop	systemd[1]	Starting Network Manager Script Dispatcher Service...
+2021/12/16 14:38	dongsub-desktop	avahi-daemon[706]	Withdrawing address record for fe80::f0e3:1b00:1641:7a35 on enp5s0.
+2021/12/16 14:38	dongsub-desktop	systemd-resolved[687]	enp5s0: Bus client set default route setting: no
+2021/12/16 14:38	dongsub-desktop	avahi-daemon[706]	Leaving mDNS multicast group on interface enp5s0.IPv6 with address fe80::f0e3:1b00:1641:7a35.
+2021/12/16 14:38	dongsub-desktop	systemd-resolved[687]	enp5s0: Bus client reset DNS server list.
+2021/12/16 14:38	dongsub-desktop	avahi-daemon[706]	Interface enp5s0.IPv6 no longer relevant for mDNS.
+2021/12/16 14:38	dongsub-desktop	dbus-daemon[709]	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.10' (uid=0 pid=712 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/16 14:38	dongsub-desktop	dbus-daemon[709]	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/16 14:38	dongsub-desktop	systemd[1]	Started Network Manager Script Dispatcher Service.
+2021/12/16 14:38	dongsub-desktop	PackageKit	get-updates transaction /114_ccebcbaa from uid 1000 finished with success after 359ms
+2021/12/16 14:38	dongsub-desktop	systemd[1040]	app-org.kde.discover-e49c00c0d9f74303aae9914b52af3e41.scope: Deactivated successfully.
+2021/12/16 14:38	dongsub-desktop	systemd[1040]	app-org.kde.discover-e49c00c0d9f74303aae9914b52af3e41.scope: Consumed 1.983s CPU time.
+2021/12/16 14:38	dongsub-desktop	systemd[1]	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/16 14:39	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-9928df4a99b54f9586f8a98fea135b2d.scope: Deactivated successfully.
+2021/12/16 14:39	dongsub-desktop	systemd[1040]	app-org.kde.dolphin-9928df4a99b54f9586f8a98fea135b2d.scope: Consumed 1min 6.801s CPU time.
+2021/12/16 14:41	dongsub-desktop	snapd[10369]	daemon.go:502: gracefully waiting for running hooks
+2021/12/16 14:41	dongsub-desktop	snapd[10369]	daemon.go:504: done waiting for running hooks
+2021/12/16 14:41	dongsub-desktop	snapd[10369]	daemon stop requested to wait for socket activation
+2021/12/16 14:41	dongsub-desktop	systemd[1]	snapd.service: Deactivated successfully.
