@@ -1,0 +1,5 @@
+2021/12/18 10:02	rtkit-daemon	Supervising 6 threads of 4 processes of 2 users.
+2021/12/18 10:02	systemd	Reached target Paths.
+2021/12/18 10:02	sddm-helper	pam_kwallet5(sddm:session): pam_kwallet5: pam_sm_open_session
+2021/12/18 10:02	systemd	Reached target Timers.
+2021/12/18 10:02	rtkit-daemon	Supervising 6 threads of 4 processes of 2 users.
