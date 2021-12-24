@@ -1,0 +1,244 @@
+signal time=1640080980.498275 sender=org.freedesktop.DBus -> destination=:1.143 serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired
+   string ":1.143"
+signal time=1640080980.498340 sender=org.freedesktop.DBus -> destination=:1.143 serial=4 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameLost
+   string ":1.143"
+method call time=1640081024.788747 sender=:1.15 -> destination=org.freedesktop.Notifications serial=476 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "Network Management"
+   uint32 0
+   string "network-wired-activated"
+   string "Wired connection 1"
+   string "Connection 'Wired connection 1' activated."
+   array [
+   ]
+   array [
+      dict entry(
+         string "urgency"
+         variant             int32 0
+      )
+      dict entry(
+         string "x-kde-appname"
+         variant             string "networkmanagement"
+      )
+      dict entry(
+         string "x-kde-eventId"
+         variant             string "ConnectionDeactivated"
+      )
+   ]
+   int32 -1
+method call time=1640081024.800283 sender=:1.27 -> destination=org.freedesktop.DBus serial=4002 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=GetConnectionUnixProcessID
+   string ":1.15"
+method return time=1640081024.800301 sender=org.freedesktop.DBus -> destination=:1.27 serial=1353 reply_serial=4002
+   uint32 1343
+method return time=1640081024.826478 sender=:1.27 -> destination=:1.15 serial=4003 reply_serial=476
+   uint32 7
+signal time=1640081028.757380 sender=:1.27 -> destination=(null destination) serial=4004 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=NotificationClosed
+   uint32 7
+   uint32 1
+method call time=1640081029.045019 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4005 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081029.045205 sender=:1.16 -> destination=:1.27 serial=1187 reply_serial=4005
+method call time=1640081029.063974 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4006 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081029.064042 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4007 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081029.064143 sender=:1.16 -> destination=:1.27 serial=1188 reply_serial=4006
+method return time=1640081029.064173 sender=:1.16 -> destination=:1.27 serial=1189 reply_serial=4007
+method call time=1640081029.091343 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4008 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081029.091454 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4009 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081029.091499 sender=:1.16 -> destination=:1.27 serial=1190 reply_serial=4008
+method return time=1640081029.091542 sender=:1.16 -> destination=:1.27 serial=1191 reply_serial=4009
+method call time=1640081029.360025 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4010 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081029.360149 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4011 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081029.360273 sender=:1.16 -> destination=:1.27 serial=1192 reply_serial=4010
+method return time=1640081029.360317 sender=:1.16 -> destination=:1.27 serial=1193 reply_serial=4011
+method call time=1640081029.565488 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4012 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081029.598838 sender=:1.16 -> destination=:1.27 serial=1194 reply_serial=4012
+method call time=1640081030.088044 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4013 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081030.088213 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4014 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081030.088249 sender=:1.16 -> destination=:1.27 serial=1195 reply_serial=4013
+method return time=1640081030.088402 sender=:1.16 -> destination=:1.27 serial=1196 reply_serial=4014
+method call time=1640081030.100990 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4015 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081030.101116 sender=:1.16 -> destination=:1.27 serial=1197 reply_serial=4015
+signal time=1640081032.128418 sender=:1.20 -> destination=(null destination) serial=1101 path=/component/kwin; interface=org.kde.kglobalaccel.Component; member=globalShortcutPressed
+   string "kwin"
+   string "Window Quick Tile Left"
+   int64 13793497
+signal time=1640081033.935661 sender=:1.20 -> destination=(null destination) serial=1102 path=/component/kwin; interface=org.kde.kglobalaccel.Component; member=globalShortcutPressed
+   string "kwin"
+   string "Window Quick Tile Right"
+   int64 13795305
+signal time=1640081034.638130 sender=:1.34 -> destination=(null destination) serial=31 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewIcon
+signal time=1640081034.638168 sender=:1.34 -> destination=(null destination) serial=32 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewToolTip
+method call time=1640081034.648593 sender=:1.27 -> destination=:1.34 serial=4016 path=/StatusNotifierItem; interface=org.freedesktop.DBus.Properties; member=GetAll
+   string "org.kde.StatusNotifierItem"
+method return time=1640081034.648923 sender=:1.34 -> destination=:1.27 serial=33 reply_serial=4016
+   array [
+      dict entry(
+         string "AttentionIconName"
+         variant             string ""
+      )
+      dict entry(
+         string "AttentionIconPixmap"
+         variant             array [
+            ]
+      )
+      dict entry(
+         string "AttentionMovieName"
+         variant             string ""
+      )
+      dict entry(
+         string "Category"
+         variant             string "ApplicationStatus"
+      )
+      dict entry(
+         string "IconName"
+         variant             string "update-none"
+      )
+      dict entry(
+         string "IconPixmap"
+         variant             array [
+            ]
+      )
+      dict entry(
+         string "IconThemePath"
+         variant             string ""
+      )
+      dict entry(
+         string "Id"
+         variant             string "Discover Notifier_org.kde.DiscoverNotifier"
+      )
+      dict entry(
+         string "ItemIsMenu"
+         variant             boolean false
+      )
+      dict entry(
+         string "Menu"
+         variant             object path "/MenuBar"
+      )
+      dict entry(
+         string "OverlayIconName"
+         variant             string ""
+      )
+      dict entry(
+         string "OverlayIconPixmap"
+         variant             array [
+            ]
+      )
+      dict entry(
+         string "Status"
+         variant             string "Passive"
+      )
+      dict entry(
+         string "Title"
+         variant             string "Updates"
+      )
+      dict entry(
+         string "ToolTip"
+         variant             struct {
+               string ""
+               array [
+               ]
+               string "Updates"
+               string "System up to date"
+            }
+      )
+      dict entry(
+         string "WindowId"
+         variant             int32 0
+      )
+   ]
+signal time=1640081566.137155 sender=:1.20 -> destination=(null destination) serial=1103 path=/component/kwin; interface=org.kde.kglobalaccel.Component; member=globalShortcutPressed
+   string "kwin"
+   string "Window Quick Tile Left"
+   int64 14327506
+method call time=1640081641.574948 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4017 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081641.575202 sender=:1.16 -> destination=:1.27 serial=1198 reply_serial=4017
+method call time=1640081641.752089 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4018 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081641.752143 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4019 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081641.752286 sender=:1.16 -> destination=:1.27 serial=1199 reply_serial=4018
+method return time=1640081641.752298 sender=:1.16 -> destination=:1.27 serial=1200 reply_serial=4019
+method call time=1640081642.026281 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4020 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081642.026337 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4021 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081642.026469 sender=:1.16 -> destination=:1.27 serial=1201 reply_serial=4020
+method return time=1640081642.026481 sender=:1.16 -> destination=:1.27 serial=1202 reply_serial=4021
+method call time=1640081642.314494 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4022 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081642.339657 sender=:1.16 -> destination=:1.27 serial=1203 reply_serial=4022
+method call time=1640081642.743157 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4023 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081642.743271 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4024 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081642.743340 sender=:1.16 -> destination=:1.27 serial=1204 reply_serial=4023
+method return time=1640081642.743365 sender=:1.16 -> destination=:1.27 serial=1205 reply_serial=4024
+method call time=1640081642.744944 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4025 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081642.745297 sender=:1.16 -> destination=:1.27 serial=1206 reply_serial=4025
+method call time=1640081647.248135 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4026 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081647.248345 sender=:1.16 -> destination=:1.27 serial=1207 reply_serial=4026
+method call time=1640081647.330050 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4027 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081647.330116 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4028 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081647.330215 sender=:1.16 -> destination=:1.27 serial=1208 reply_serial=4027
+method return time=1640081647.330232 sender=:1.16 -> destination=:1.27 serial=1209 reply_serial=4028
+method call time=1640081647.915529 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4029 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081647.921557 sender=:1.16 -> destination=:1.27 serial=1210 reply_serial=4029
+method call time=1640081648.739259 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4030 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081648.739342 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4031 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081648.739457 sender=:1.16 -> destination=:1.27 serial=1211 reply_serial=4030
+method return time=1640081648.739472 sender=:1.16 -> destination=:1.27 serial=1212 reply_serial=4031
+method call time=1640081648.757114 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4032 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method call time=1640081648.757232 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4033 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081648.757301 sender=:1.16 -> destination=:1.27 serial=1213 reply_serial=4032
+method return time=1640081648.757345 sender=:1.16 -> destination=:1.27 serial=1214 reply_serial=4033
+method call time=1640081648.762100 sender=:1.27 -> destination=org.kde.KWin.HighlightWindow serial=4034 path=/org/kde/KWin/HighlightWindow; interface=org.kde.KWin.HighlightWindow; member=highlightWindows
+   array [
+   ]
+method return time=1640081648.762452 sender=:1.16 -> destination=:1.27 serial=1215 reply_serial=4034
