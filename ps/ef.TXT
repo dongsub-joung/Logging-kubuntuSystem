@@ -1,0 +1,298 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 13:07 ?        00:00:01 /sbin/init splash
+root           2       0  0 13:07 ?        00:00:00 [kthreadd]
+root           3       2  0 13:07 ?        00:00:00 [rcu_gp]
+root           4       2  0 13:07 ?        00:00:00 [rcu_par_gp]
+root           6       2  0 13:07 ?        00:00:00 [kworker/0:0H-events_highpri]
+root           9       2  0 13:07 ?        00:00:00 [mm_percpu_wq]
+root          10       2  0 13:07 ?        00:00:00 [rcu_tasks_rude_]
+root          11       2  0 13:07 ?        00:00:00 [rcu_tasks_trace]
+root          12       2  0 13:07 ?        00:00:00 [ksoftirqd/0]
+root          13       2  0 13:07 ?        00:00:15 [rcu_sched]
+root          14       2  0 13:07 ?        00:00:00 [migration/0]
+root          15       2  0 13:07 ?        00:00:00 [idle_inject/0]
+root          16       2  0 13:07 ?        00:00:00 [cpuhp/0]
+root          17       2  0 13:07 ?        00:00:00 [cpuhp/1]
+root          18       2  0 13:07 ?        00:00:00 [idle_inject/1]
+root          19       2  0 13:07 ?        00:00:00 [migration/1]
+root          20       2  0 13:07 ?        00:00:00 [ksoftirqd/1]
+root          22       2  0 13:07 ?        00:00:00 [kworker/1:0H-kblockd]
+root          23       2  0 13:07 ?        00:00:00 [cpuhp/2]
+root          24       2  0 13:07 ?        00:00:00 [idle_inject/2]
+root          25       2  0 13:07 ?        00:00:00 [migration/2]
+root          26       2  0 13:07 ?        00:00:00 [ksoftirqd/2]
+root          28       2  0 13:07 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          29       2  0 13:07 ?        00:00:00 [cpuhp/3]
+root          30       2  0 13:07 ?        00:00:00 [idle_inject/3]
+root          31       2  0 13:07 ?        00:00:00 [migration/3]
+root          32       2  0 13:07 ?        00:00:00 [ksoftirqd/3]
+root          34       2  0 13:07 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          35       2  0 13:07 ?        00:00:00 [cpuhp/4]
+root          36       2  0 13:07 ?        00:00:00 [idle_inject/4]
+root          37       2  0 13:07 ?        00:00:00 [migration/4]
+root          38       2  0 13:07 ?        00:00:00 [ksoftirqd/4]
+root          40       2  0 13:07 ?        00:00:00 [kworker/4:0H-kblockd]
+root          41       2  0 13:07 ?        00:00:00 [cpuhp/5]
+root          42       2  0 13:07 ?        00:00:00 [idle_inject/5]
+root          43       2  0 13:07 ?        00:00:00 [migration/5]
+root          44       2  0 13:07 ?        00:00:00 [ksoftirqd/5]
+root          46       2  0 13:07 ?        00:00:00 [kworker/5:0H-kblockd]
+root          47       2  0 13:07 ?        00:00:00 [cpuhp/6]
+root          48       2  0 13:07 ?        00:00:00 [idle_inject/6]
+root          49       2  0 13:07 ?        00:00:00 [migration/6]
+root          50       2  0 13:07 ?        00:00:00 [ksoftirqd/6]
+root          52       2  0 13:07 ?        00:00:00 [kworker/6:0H-kblockd]
+root          53       2  0 13:07 ?        00:00:00 [cpuhp/7]
+root          54       2  0 13:07 ?        00:00:00 [idle_inject/7]
+root          55       2  0 13:07 ?        00:00:00 [migration/7]
+root          56       2  0 13:07 ?        00:00:00 [ksoftirqd/7]
+root          58       2  0 13:07 ?        00:00:00 [kworker/7:0H-events_highpri]
+root          59       2  0 13:07 ?        00:00:00 [cpuhp/8]
+root          60       2  0 13:07 ?        00:00:00 [idle_inject/8]
+root          61       2  0 13:07 ?        00:00:00 [migration/8]
+root          62       2  0 13:07 ?        00:00:00 [ksoftirqd/8]
+root          64       2  0 13:07 ?        00:00:00 [kworker/8:0H-events_highpri]
+root          65       2  0 13:07 ?        00:00:00 [cpuhp/9]
+root          66       2  0 13:07 ?        00:00:00 [idle_inject/9]
+root          67       2  0 13:07 ?        00:00:00 [migration/9]
+root          68       2  0 13:07 ?        00:00:00 [ksoftirqd/9]
+root          70       2  0 13:07 ?        00:00:00 [kworker/9:0H-kblockd]
+root          71       2  0 13:07 ?        00:00:00 [cpuhp/10]
+root          72       2  0 13:07 ?        00:00:00 [idle_inject/10]
+root          73       2  0 13:07 ?        00:00:00 [migration/10]
+root          74       2  0 13:07 ?        00:00:00 [ksoftirqd/10]
+root          76       2  0 13:07 ?        00:00:00 [kworker/10:0H-events_highpri]
+root          77       2  0 13:07 ?        00:00:00 [cpuhp/11]
+root          78       2  0 13:07 ?        00:00:00 [idle_inject/11]
+root          79       2  0 13:07 ?        00:00:00 [migration/11]
+root          80       2  0 13:07 ?        00:00:00 [ksoftirqd/11]
+root          82       2  0 13:07 ?        00:00:00 [kworker/11:0H-events_highpri]
+root          83       2  0 13:07 ?        00:00:00 [kdevtmpfs]
+root          84       2  0 13:07 ?        00:00:00 [netns]
+root          85       2  0 13:07 ?        00:00:00 [inet_frag_wq]
+root          86       2  0 13:07 ?        00:00:00 [kauditd]
+root          90       2  0 13:07 ?        00:00:00 [khungtaskd]
+root          91       2  0 13:07 ?        00:00:00 [oom_reaper]
+root          92       2  0 13:07 ?        00:00:00 [writeback]
+root          93       2  0 13:07 ?        00:00:02 [kcompactd0]
+root          94       2  0 13:07 ?        00:00:00 [ksmd]
+root          95       2  0 13:07 ?        00:00:00 [khugepaged]
+root         142       2  0 13:07 ?        00:00:00 [kintegrityd]
+root         143       2  0 13:07 ?        00:00:00 [kblockd]
+root         144       2  0 13:07 ?        00:00:00 [blkcg_punt_bio]
+root         145       2  0 13:07 ?        00:00:00 [tpm_dev_wq]
+root         146       2  0 13:07 ?        00:00:00 [ata_sff]
+root         147       2  0 13:07 ?        00:00:00 [md]
+root         148       2  0 13:07 ?        00:00:00 [edac-poller]
+root         149       2  0 13:07 ?        00:00:00 [devfreq_wq]
+root         150       2  0 13:07 ?        00:00:00 [watchdogd]
+root         152       2  0 13:07 ?        00:00:00 [kworker/0:1H-kblockd]
+root         154       2  0 13:07 ?        00:00:00 [irq/25-AMD-Vi]
+root         156       2  0 13:07 ?        00:00:11 [kswapd0]
+root         157       2  0 13:07 ?        00:00:00 [ecryptfs-kthrea]
+root         159       2  0 13:07 ?        00:00:00 [kthrotld]
+root         160       2  0 13:07 ?        00:00:00 [irq/26-aerdrv]
+root         161       2  0 13:07 ?        00:00:00 [irq/27-aerdrv]
+root         162       2  0 13:07 ?        00:00:00 [irq/28-aerdrv]
+root         163       2  0 13:07 ?        00:00:00 [irq/30-aerdrv]
+root         172       2  0 13:07 ?        00:00:00 [acpi_thermal_pm]
+root         177       2  0 13:07 ?        00:00:00 [vfio-irqfd-clea]
+root         178       2  0 13:07 ?        00:00:00 [mld]
+root         179       2  0 13:07 ?        00:00:00 [ipv6_addrconf]
+root         181       2  0 13:07 ?        00:00:00 [kworker/2:1H-kblockd]
+root         189       2  0 13:07 ?        00:00:00 [kstrp]
+root         192       2  0 13:07 ?        00:00:00 [zswap-shrink]
+root         193       2  0 13:07 ?        00:00:00 [kworker/u65:0]
+root         200       2  0 13:07 ?        00:00:00 [charger_manager]
+root         232       2  0 13:07 ?        00:00:00 [kworker/11:1H-kblockd]
+root         254       2  0 13:07 ?        00:00:00 [kworker/10:1H-kblockd]
+root         266       2  0 13:07 ?        00:00:00 [cryptd]
+root         287       2  0 13:07 ?        00:00:00 [scsi_eh_0]
+root         288       2  0 13:07 ?        00:00:00 [scsi_tmf_0]
+root         289       2  0 13:07 ?        00:00:00 [scsi_eh_1]
+root         290       2  0 13:07 ?        00:00:00 [scsi_tmf_1]
+root         291       2  0 13:07 ?        00:00:00 [scsi_eh_2]
+root         292       2  0 13:07 ?        00:00:00 [scsi_tmf_2]
+root         293       2  0 13:07 ?        00:00:00 [scsi_eh_3]
+root         294       2  0 13:07 ?        00:00:00 [scsi_tmf_3]
+root         295       2  0 13:07 ?        00:00:00 [scsi_eh_4]
+root         296       2  0 13:07 ?        00:00:00 [scsi_tmf_4]
+root         297       2  0 13:07 ?        00:00:00 [scsi_eh_5]
+root         298       2  0 13:07 ?        00:00:00 [scsi_tmf_5]
+root         299       2  0 13:07 ?        00:00:00 [scsi_eh_6]
+root         300       2  0 13:07 ?        00:00:00 [scsi_tmf_6]
+root         301       2  0 13:07 ?        00:00:00 [scsi_eh_7]
+root         302       2  0 13:07 ?        00:00:00 [scsi_tmf_7]
+root         310       2  0 13:07 ?        00:00:00 [scsi_eh_8]
+root         311       2  0 13:07 ?        00:00:00 [scsi_tmf_8]
+root         313       2  0 13:07 ?        00:00:00 [amd_iommu_v2]
+root         316       2  0 13:07 ?        00:01:01 [gfx]
+root         317       2  0 13:07 ?        00:00:00 [comp_1.0.0]
+root         318       2  0 13:07 ?        00:00:00 [comp_1.1.0]
+root         319       2  0 13:07 ?        00:00:00 [comp_1.2.0]
+root         320       2  0 13:07 ?        00:00:00 [comp_1.3.0]
+root         321       2  0 13:07 ?        00:00:00 [comp_1.0.1]
+root         322       2  0 13:07 ?        00:00:00 [comp_1.1.1]
+root         323       2  0 13:07 ?        00:00:00 [comp_1.2.1]
+root         324       2  0 13:07 ?        00:00:00 [comp_1.3.1]
+root         325       2  0 13:07 ?        00:00:00 [sdma0]
+root         326       2  0 13:07 ?        00:00:00 [sdma1]
+root         327       2  0 13:07 ?        00:00:00 [uvd]
+root         328       2  0 13:07 ?        00:00:00 [uvd_enc0]
+root         329       2  0 13:07 ?        00:00:00 [uvd_enc1]
+root         330       2  0 13:07 ?        00:00:00 [vce0]
+root         331       2  0 13:07 ?        00:00:00 [vce1]
+root         332       2  0 13:07 ?        00:00:00 [vce2]
+root         334       2  0 13:07 ?        00:00:00 [card0-crtc0]
+root         335       2  0 13:07 ?        00:00:00 [card0-crtc1]
+root         336       2  0 13:07 ?        00:00:00 [card0-crtc2]
+root         337       2  0 13:07 ?        00:00:00 [card0-crtc3]
+root         338       2  0 13:07 ?        00:00:00 [card0-crtc4]
+root         339       2  0 13:07 ?        00:00:00 [card0-crtc5]
+root         340       2  0 13:07 ?        00:00:00 [kworker/6:1H-kblockd]
+root         359       2  0 13:07 ?        00:00:00 [kworker/7:1H-kblockd]
+root         372       2  0 13:07 ?        00:00:00 [kworker/8:1H-kblockd]
+root         390       2  0 13:07 ?        00:00:00 [kworker/5:1H-kblockd]
+root         391       2  0 13:07 ?        00:00:00 [kworker/1:1H-kblockd]
+root         405       2  0 13:07 ?        00:00:00 [kworker/9:1H-kblockd]
+root         406       2  0 13:07 ?        00:00:01 [jbd2/sda2-8]
+root         407       2  0 13:07 ?        00:00:00 [ext4-rsv-conver]
+root         417       2  0 13:07 ?        00:00:00 [kworker/3:1H-kblockd]
+root         448       2  0 13:07 ?        00:00:00 [kworker/4:1H-kblockd]
+root         453       1  0 13:07 ?        00:00:00 /lib/systemd/systemd-journald
+root         486       1  0 13:07 ?        00:00:00 /lib/systemd/systemd-udevd
+root         557       2  0 13:07 ?        00:00:00 [ccp-1-q2]
+root         559       2  0 13:07 ?        00:00:00 [ccp-1-q3]
+root         561       2  0 13:07 ?        00:00:00 [ccp-1-q4]
+systemd+     703       1  0 13:07 ?        00:00:05 /lib/systemd/systemd-resolved
+systemd+     704       1  0 13:07 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         709       1  0 13:07 ?        00:00:00 /usr/sbin/haveged --Foreground --verbose=1
+root         717       1  0 13:07 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         718       1  0 13:07 ?        00:00:00 /usr/sbin/acpid
+avahi        723       1  0 13:07 ?        00:00:00 avahi-daemon: running [dongsub-desktop.local]
+root         724       1  0 13:07 ?        00:00:00 /usr/sbin/cron -f -P
+message+     725       1  0 13:07 ?        00:00:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         729       1  0 13:07 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         740       1  0 13:07 ?        00:00:01 /usr/sbin/irqbalance --foreground
+root         743       1  0 13:07 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         745       1  0 13:07 ?        00:00:00 /usr/libexec/polkitd --no-debug
+syslog       747       1  0 13:07 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         750       1  0 13:07 ?        00:00:00 /usr/sbin/smartd -n
+root         767       1  0 13:07 ?        00:00:00 /lib/systemd/systemd-logind
+root         772       1  0 13:07 ?        00:00:01 /usr/libexec/udisks2/udisksd
+root         773       1  0 13:07 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        779     723  0 13:07 ?        00:00:00 avahi-daemon: chroot helper
+root         843       1  0 13:07 ?        00:00:00 /usr/sbin/cupsd -l
+root         846       1  0 13:07 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         850       1  0 13:07 ?        00:00:00 /usr/sbin/ModemManager
+root         871       1  0 13:07 ?        00:00:00 /usr/bin/sddm
+lp           884     843  0 13:07 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp           885     843  0 13:07 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         900     871  3 13:07 tty1     00:14:18 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{b641ec81-a2ec-41c9-b4b7-082c12298590} -background none -noreset -displayfd 17 -seat seat0 vt1
+rtkit        956       1  0 13:07 ?        00:00:00 /usr/libexec/rtkit-daemon
+root         984       1  0 13:07 ?        00:00:00 /usr/libexec/upowerd
+root        1060       1  0 13:07 ?        00:00:00 /usr/sbin/cups-browsed
+whoopsie    1062       1  0 13:07 ?        00:00:00 /usr/bin/whoopsie -f
+kernoops    1063       1  0 13:07 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops    1065       1  0 13:07 ?        00:00:00 /usr/sbin/kerneloops
+root        1071     871  0 13:07 ?        00:00:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-authdb7fda62-d498-4c3c-b89a-1d9b01f3eaa5 --id 1 --start /usr/bin/startplasma-x11 --user dongsub
+dongsub     1073       1  0 13:07 ?        00:00:00 /lib/systemd/systemd --user
+dongsub     1074    1073  0 13:07 ?        00:00:00 (sd-pam)
+dongsub     1080    1073  0 13:07 ?        00:00:00 /usr/bin/pipewire
+dongsub     1081    1073  0 13:07 ?        00:00:00 /usr/bin/pipewire-media-session
+dongsub     1082    1073  0 13:07 ?        00:01:34 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+dongsub     1086    1073  0 13:07 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+dongsub     1089       1  0 13:07 ?        00:00:01 /usr/bin/kwalletd5 --pam-login 7 8
+dongsub     1090    1071  0 13:07 ?        00:00:00 /usr/bin/startplasma-x11
+dongsub     1207    1090  0 13:07 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch /usr/bin/startplasma-x11
+dongsub     1277    1082  0 13:07 ?        00:00:00 /usr/libexec/pulse/gsettings-helper
+dongsub     1324       1  0 13:07 ?        00:00:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit
+dongsub     1325       1  0 13:07 ?        00:00:00 kdeinit5: Running...
+dongsub     1326    1325  0 13:07 ?        00:00:01 /usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher --fd=9
+dongsub     1343       1  0 13:07 ?        00:00:05 /usr/bin/kded5
+dongsub     1347       1  2 13:07 ?        00:12:19 /usr/bin/kwin_x11
+dongsub     1354    1073  0 13:07 ?        00:00:00 /usr/libexec/dconf-service
+dongsub     1359       1  0 13:07 ?        00:00:00 /usr/bin/xsettingsd
+dongsub     1387       1  0 13:07 ?        00:00:03 /usr/bin/ksmserver
+dongsub     1388    1073  0 13:07 ?        00:00:01 /usr/bin/kglobalaccel5
+dongsub     1390    1073  0 13:07 ?        00:00:02 /usr/lib/x86_64-linux-gnu/libexec/kactivitymanagerd
+dongsub     1412       1  0 13:07 ?        00:00:01 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+dongsub     1416       1  0 13:07 ?        00:00:01 /usr/bin/xembedsniproxy
+dongsub     1418       1  0 13:07 ?        00:00:02 /usr/bin/kaccess
+dongsub     1420       1  0 13:07 ?        00:02:14 /usr/bin/plasmashell
+dongsub     1424       1  0 13:07 ?        00:00:02 /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil
+dongsub     1465       1  0 13:07 ?        00:00:01 /usr/bin/gmenudbusmenuproxy
+dongsub     1471       1  0 13:07 ?        00:00:02 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+dongsub     1473       1  0 13:07 ?        00:00:02 /usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+dongsub     1510    1073  0 13:07 ?        00:00:01 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+root        1517       1  0 13:07 ?        00:00:04 /usr/libexec/packagekitd
+dongsub     1563    1073  0 13:07 ?        00:00:00 /usr/lib/bluetooth/obexd
+dongsub     1603       1  0 13:07 ?        00:00:00 /usr/libexec/geoclue-2.0/demos/agent
+dongsub     1610       1  0 13:07 ?        00:00:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+dongsub     1624    1610  0 13:07 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+dongsub     2064    1420  0 13:07 ?        00:00:05 /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu -u root -c /usr/bin/ksystemlog -qwindowtitle KSystemLog
+root        2068    2064  0 13:07 pts/1    00:00:00 /usr/bin/sudo -u root /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+root        2092    2064  0 13:07 pts/2    00:00:00 /usr/bin/sudo -u root /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+root        2093    2092  0 13:07 pts/2    00:00:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+root        2096    2093  0 13:07 ?        00:00:00 sh -c /usr/bin/ksystemlog -qwindowtitle KSystemLog
+root        2097    2096  1 13:07 ?        00:04:22 /usr/bin/ksystemlog -qwindowtitle KSystemLog
+root        2103       1  0 13:07 ?        00:00:00 dbus-launch --autolaunch eded80ff959445f39c4e5d6309e67ff6 --binary-syntax --close-stderr
+root        2104       1  0 13:07 ?        00:00:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+dongsub     2122    1420  0 13:08 ?        00:00:21 /usr/bin/konsole
+dongsub     2145    2122  0 13:08 pts/3    00:00:00 /bin/bash
+root        2153    2145  0 13:08 pts/3    00:00:00 sudo wireshark
+root        2154    2153  2 13:08 pts/3    00:10:42 wireshark
+root        2163       2  0 13:08 ?        00:00:00 [cfg80211]
+dongsub     2254       1  0 13:08 ?        00:00:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/kded5SoVDfh.1.slave-socket
+dongsub     2635    1420 11 13:58 ?        00:45:01 /usr/lib/firefox/firefox
+dongsub     2771    2635  0 13:58 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20211129150630 -prefsLen 1 -prefMapSize 245884 -appDir /usr/lib/firefox/browser 2635 true socket
+dongsub     2800    2635  0 13:58 ?        00:00:16 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 139 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+dongsub     2852    2635  0 13:58 ?        00:02:21 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 4917 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+dongsub     2919    2635  0 13:58 ?        00:00:05 /usr/bin/plasma-browser-integration-host /usr/lib/mozilla/native-messaging-hosts/org.kde.plasma.browser_integration.json plasma-browser-integration@kde.org
+dongsub     2937    2635  0 13:58 ?        00:02:23 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 5616 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+dongsub     3059    2635  3 13:58 ?        00:12:07 /usr/lib/firefox/firefox -contentproc -parentBuildID 20211129150630 -prefsLen 8173 -prefMapSize 245884 -appDir /usr/lib/firefox/browser 2635 true rdd
+dongsub     3102    2635  0 13:59 ?        00:03:11 /usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 8542 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+dongsub     3172       1  0 13:59 ?        00:00:08 /usr/lib/x86_64-linux-gnu/libexec/kf5/kio_http_cache_cleaner
+dongsub     7618    2122  0 15:37 pts/6    00:00:00 /bin/bash
+dongsub    10107    1073  0 16:32 ?        00:00:02 /usr/bin/krunner
+root       10512       2  0 16:45 ?        00:00:00 [kworker/7:2-mm_percpu_wq]
+root       11327    2154  0 18:22 pts/3    00:00:00 /usr/bin/dumpcap -n -i enp5s0 -y EN10MB -Z none
+dongsub    11793    2635  0 18:56 ?        00:00:01 /usr/lib/firefox/firefox -contentproc -childID 74 -isForBrowser -prefsLen 9308 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+dongsub    11922    1420  0 18:57 ?        00:00:01 /usr/bin/simplescreenrecorder --logfile
+root       12044       2  0 19:03 ?        00:00:00 [kworker/9:1-rcu_par_gp]
+root       12438       2  0 19:10 ?        00:00:00 [kworker/11:1-mm_percpu_wq]
+root       12439       2  0 19:10 ?        00:00:00 [kworker/0:1-events]
+dongsub    12933    2635  0 19:24 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 90 -isForBrowser -prefsLen 9874 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+dongsub    12975    2635  0 19:24 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 91 -isForBrowser -prefsLen 9873 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+dongsub    13035    2635  0 19:25 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 92 -isForBrowser -prefsLen 9873 -prefMapSize 245884 -jsInitLen 278884 -parentBuildID 20211129150630 -appDir /usr/lib/firefox/browser 2635 true tab
+root       13116       2  0 19:30 ?        00:00:00 [kworker/3:1-rcu_par_gp]
+root       13165       2  0 19:30 ?        00:00:00 [kworker/0:0-events]
+root       13183       2  0 19:30 ?        00:00:00 [kworker/8:3-mm_percpu_wq]
+root       13189       2  0 19:30 ?        00:00:00 [kworker/2:0-events]
+root       13194       2  0 19:30 ?        00:00:00 [kworker/10:2-rcu_par_gp]
+root       13588       2  0 19:39 ?        00:00:00 [kworker/7:0-rcu_par_gp]
+root       13648       2  0 19:39 ?        00:00:00 [kworker/11:0-inet_frag_wq]
+root       13649       2  0 19:39 ?        00:00:00 [kworker/1:0-rcu_par_gp]
+root       13650       2  0 19:39 ?        00:00:00 [kworker/5:0-events]
+root       13651       2  0 19:39 ?        00:00:00 [kworker/5:3-events]
+root       13652       2  0 19:39 ?        00:00:00 [kworker/8:0-rcu_par_gp]
+root       13657       2  0 19:39 ?        00:00:00 [kworker/2:2-mm_percpu_wq]
+root       13658       2  0 19:39 ?        00:00:00 [kworker/3:0-events]
+root       13659       2  0 19:39 ?        00:00:00 [kworker/4:0-mm_percpu_wq]
+root       13660       2  0 19:39 ?        00:00:00 [kworker/6:2-events]
+root       13663       2  0 19:59 ?        00:00:00 [kworker/1:2-mm_percpu_wq]
+root       13684       2  0 19:59 ?        00:00:05 [kworker/u64:47-events_unbound]
+root       13686       2  0 19:59 ?        00:00:03 [kworker/u64:49-flush-8:0]
+root       13694       2  0 19:59 ?        00:00:04 [kworker/u64:57-ext4-rsv-conversion]
+root       13705       2  0 19:59 ?        00:00:03 [kworker/u64:68-events_unbound]
+root       13748       2  0 19:59 ?        00:00:00 [kworker/6:5-events]
+root       13907       2  0 20:17 ?        00:00:00 [kworker/4:1-events]
+root       13908       2  0 20:17 ?        00:00:00 [kworker/9:0-events]
+root       13909       2  0 20:17 ?        00:00:00 [kworker/10:1-rcu_par_gp]
+root       13937       2  0 20:24 ?        00:00:00 [kworker/5:1-events]
+root       13938       2  0 20:24 ?        00:00:00 [kworker/9:2-mm_percpu_wq]
+root       13939       2  0 20:24 ?        00:00:00 [kworker/10:0-events]
+root       13943       2  0 20:24 ?        00:00:00 [kworker/2:1]
+root       13944       2  0 20:24 ?        00:00:00 [kworker/11:2-events]
+root       13956       2  0 20:24 ?        00:00:00 [kworker/u64:0+events_unbound]
+dongsub    13959    7618  0 20:24 pts/6    00:00:00 ps -ef

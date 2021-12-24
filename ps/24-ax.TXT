@@ -1,0 +1,320 @@
+    PID TTY      STAT   TIME COMMAND
+      1 ?        Ss     0:00 /sbin/init splash
+      2 ?        S      0:00 [kthreadd]
+      3 ?        I<     0:00 [rcu_gp]
+      4 ?        I<     0:00 [rcu_par_gp]
+      6 ?        I<     0:00 [kworker/0:0H-events_highpri]
+      9 ?        I<     0:00 [mm_percpu_wq]
+     10 ?        S      0:00 [rcu_tasks_rude_]
+     11 ?        S      0:00 [rcu_tasks_trace]
+     12 ?        S      0:00 [ksoftirqd/0]
+     13 ?        I      0:13 [rcu_sched]
+     14 ?        S      0:00 [migration/0]
+     15 ?        S      0:00 [idle_inject/0]
+     16 ?        S      0:00 [cpuhp/0]
+     17 ?        S      0:00 [cpuhp/1]
+     18 ?        S      0:00 [idle_inject/1]
+     19 ?        S      0:00 [migration/1]
+     20 ?        S      0:00 [ksoftirqd/1]
+     22 ?        I<     0:00 [kworker/1:0H]
+     23 ?        S      0:00 [cpuhp/2]
+     24 ?        S      0:00 [idle_inject/2]
+     25 ?        S      0:00 [migration/2]
+     26 ?        S      0:00 [ksoftirqd/2]
+     28 ?        I<     0:00 [kworker/2:0H-kblockd]
+     29 ?        S      0:00 [cpuhp/3]
+     30 ?        S      0:00 [idle_inject/3]
+     31 ?        S      0:00 [migration/3]
+     32 ?        S      0:00 [ksoftirqd/3]
+     34 ?        I<     0:00 [kworker/3:0H-kblockd]
+     35 ?        S      0:00 [cpuhp/4]
+     36 ?        S      0:00 [idle_inject/4]
+     37 ?        S      0:00 [migration/4]
+     38 ?        S      0:00 [ksoftirqd/4]
+     40 ?        I<     0:00 [kworker/4:0H-kblockd]
+     41 ?        S      0:00 [cpuhp/5]
+     42 ?        S      0:00 [idle_inject/5]
+     43 ?        S      0:00 [migration/5]
+     44 ?        S      0:00 [ksoftirqd/5]
+     46 ?        I<     0:00 [kworker/5:0H-events_highpri]
+     47 ?        S      0:00 [cpuhp/6]
+     48 ?        S      0:00 [idle_inject/6]
+     49 ?        S      0:00 [migration/6]
+     50 ?        S      0:00 [ksoftirqd/6]
+     52 ?        I<     0:00 [kworker/6:0H-events_highpri]
+     53 ?        S      0:00 [cpuhp/7]
+     54 ?        S      0:00 [idle_inject/7]
+     55 ?        S      0:00 [migration/7]
+     56 ?        S      0:00 [ksoftirqd/7]
+     58 ?        I<     0:00 [kworker/7:0H-events_highpri]
+     59 ?        S      0:00 [cpuhp/8]
+     60 ?        S      0:00 [idle_inject/8]
+     61 ?        S      0:00 [migration/8]
+     62 ?        S      0:00 [ksoftirqd/8]
+     64 ?        I<     0:00 [kworker/8:0H-events_highpri]
+     65 ?        S      0:00 [cpuhp/9]
+     66 ?        S      0:00 [idle_inject/9]
+     67 ?        S      0:00 [migration/9]
+     68 ?        S      0:00 [ksoftirqd/9]
+     70 ?        I<     0:00 [kworker/9:0H-kblockd]
+     71 ?        S      0:00 [cpuhp/10]
+     72 ?        S      0:00 [idle_inject/10]
+     73 ?        S      0:00 [migration/10]
+     74 ?        S      0:00 [ksoftirqd/10]
+     76 ?        I<     0:00 [kworker/10:0H-kblockd]
+     77 ?        S      0:00 [cpuhp/11]
+     78 ?        S      0:00 [idle_inject/11]
+     79 ?        S      0:00 [migration/11]
+     80 ?        S      0:00 [ksoftirqd/11]
+     82 ?        I<     0:00 [kworker/11:0H-kblockd]
+     83 ?        S      0:00 [kdevtmpfs]
+     84 ?        I<     0:00 [netns]
+     85 ?        I<     0:00 [inet_frag_wq]
+     86 ?        S      0:00 [kauditd]
+     90 ?        S      0:00 [khungtaskd]
+     91 ?        S      0:00 [oom_reaper]
+     92 ?        I<     0:00 [writeback]
+     93 ?        S      0:02 [kcompactd0]
+     94 ?        SN     0:00 [ksmd]
+     95 ?        SN     0:00 [khugepaged]
+    142 ?        I<     0:00 [kintegrityd]
+    143 ?        I<     0:00 [kblockd]
+    144 ?        I<     0:00 [blkcg_punt_bio]
+    145 ?        I<     0:00 [tpm_dev_wq]
+    146 ?        I<     0:00 [ata_sff]
+    147 ?        I<     0:00 [md]
+    148 ?        I<     0:00 [edac-poller]
+    149 ?        I<     0:00 [devfreq_wq]
+    150 ?        S      0:00 [watchdogd]
+    152 ?        I<     0:00 [kworker/0:1H-kblockd]
+    154 ?        S      0:00 [irq/25-AMD-Vi]
+    157 ?        S      0:23 [kswapd0]
+    158 ?        S      0:00 [ecryptfs-kthrea]
+    160 ?        I<     0:00 [kthrotld]
+    161 ?        S      0:00 [irq/26-aerdrv]
+    162 ?        S      0:00 [irq/27-aerdrv]
+    163 ?        S      0:00 [irq/28-aerdrv]
+    164 ?        S      0:00 [irq/30-aerdrv]
+    172 ?        I<     0:00 [acpi_thermal_pm]
+    175 ?        I<     0:00 [vfio-irqfd-clea]
+    176 ?        I<     0:00 [mld]
+    177 ?        I<     0:00 [ipv6_addrconf]
+    186 ?        I<     0:00 [kstrp]
+    189 ?        I<     0:00 [zswap-shrink]
+    190 ?        I<     0:00 [kworker/u65:0]
+    197 ?        I<     0:00 [charger_manager]
+    232 ?        I<     0:00 [kworker/5:1H-kblockd]
+    244 ?        I<     0:00 [kworker/8:1H-kblockd]
+    257 ?        I<     0:00 [cryptd]
+    284 ?        S      0:00 [scsi_eh_0]
+    285 ?        I<     0:00 [scsi_tmf_0]
+    286 ?        S      0:00 [scsi_eh_1]
+    287 ?        I<     0:00 [scsi_tmf_1]
+    288 ?        S      0:00 [scsi_eh_2]
+    289 ?        I<     0:00 [scsi_tmf_2]
+    290 ?        S      0:00 [scsi_eh_3]
+    291 ?        I<     0:00 [scsi_tmf_3]
+    292 ?        S      0:00 [scsi_eh_4]
+    293 ?        I<     0:00 [scsi_tmf_4]
+    294 ?        S      0:00 [scsi_eh_5]
+    295 ?        I<     0:00 [scsi_tmf_5]
+    296 ?        S      0:00 [scsi_eh_6]
+    297 ?        I<     0:00 [scsi_tmf_6]
+    298 ?        S      0:00 [scsi_eh_7]
+    299 ?        I<     0:00 [scsi_tmf_7]
+    307 ?        S      0:00 [scsi_eh_8]
+    308 ?        I<     0:00 [scsi_tmf_8]
+    310 ?        I<     0:00 [amd_iommu_v2]
+    312 ?        S      1:33 [gfx]
+    313 ?        S      0:00 [comp_1.0.0]
+    314 ?        S      0:00 [comp_1.1.0]
+    315 ?        S      0:00 [comp_1.2.0]
+    316 ?        S      0:00 [comp_1.3.0]
+    317 ?        S      0:00 [comp_1.0.1]
+    318 ?        S      0:00 [comp_1.1.1]
+    319 ?        S      0:00 [comp_1.2.1]
+    320 ?        S      0:00 [comp_1.3.1]
+    321 ?        S      0:00 [sdma0]
+    322 ?        S      0:00 [sdma1]
+    323 ?        S      0:00 [uvd]
+    324 ?        S      0:00 [uvd_enc0]
+    325 ?        S      0:00 [uvd_enc1]
+    326 ?        S      0:00 [vce0]
+    327 ?        S      0:00 [vce1]
+    328 ?        S      0:00 [vce2]
+    329 ?        I<     0:00 [kworker/7:1H-kblockd]
+    331 ?        S      0:00 [card0-crtc0]
+    332 ?        S      0:00 [card0-crtc1]
+    333 ?        S      0:00 [card0-crtc2]
+    334 ?        S      0:00 [card0-crtc3]
+    335 ?        S      0:00 [card0-crtc4]
+    336 ?        S      0:00 [card0-crtc5]
+    337 ?        I<     0:00 [kworker/4:1H-kblockd]
+    340 ?        I<     0:00 [kworker/1:1H-kblockd]
+    358 ?        I<     0:00 [kworker/6:1H-kblockd]
+    388 ?        I<     0:00 [kworker/9:1H-kblockd]
+    402 ?        S      0:01 [jbd2/sda2-8]
+    403 ?        I<     0:00 [ext4-rsv-conver]
+    418 ?        I<     0:00 [kworker/3:1H-kblockd]
+    424 ?        I<     0:00 [kworker/11:1H-kblockd]
+    433 ?        I<     0:00 [kworker/10:1H-kblockd]
+    447 ?        I<     0:00 [kworker/2:1H-kblockd]
+    452 ?        S<s    0:00 /lib/systemd/systemd-journald
+    486 ?        Ss     0:00 /lib/systemd/systemd-udevd
+    551 ?        S      0:00 [ccp-1-q2]
+    552 ?        S      0:00 [ccp-1-q3]
+    553 ?        S      0:00 [ccp-1-q4]
+    715 ?        Ss     0:01 /lib/systemd/systemd-resolved
+    716 ?        Ssl    0:00 /lib/systemd/systemd-timesyncd
+    718 ?        Ss     0:00 /usr/sbin/haveged --Foreground --verbose=1
+    726 ?        Ssl    0:00 /usr/lib/accountsservice/accounts-daemon
+    727 ?        Ss     0:00 /usr/sbin/acpid
+    731 ?        Ss     0:00 avahi-daemon: running [dongsub-desktop.local]
+    733 ?        Ss     0:00 /usr/sbin/cron -f -P
+    734 ?        Ss     0:04 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+    737 ?        Ssl    0:00 /usr/sbin/NetworkManager --no-daemon
+    747 ?        Ssl    0:00 /usr/sbin/irqbalance --foreground
+    748 ?        Ss     0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+    749 ?        Ssl    0:10 /usr/libexec/polkitd --no-debug
+    750 ?        Ssl    0:00 /usr/sbin/rsyslogd -n -iNONE
+    751 ?        Ss     0:00 /usr/sbin/smartd -n
+    755 ?        Ss     0:00 /lib/systemd/systemd-logind
+    757 ?        Ssl    0:01 /usr/libexec/udisks2/udisksd
+    758 ?        Ss     0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+    762 ?        S      0:00 avahi-daemon: chroot helper
+    829 ?        Ss     0:00 /usr/sbin/cupsd -l
+    832 ?        Ssl    0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+    840 ?        Ssl    0:00 /usr/sbin/ModemManager
+    864 ?        Ssl    0:00 /usr/bin/sddm
+    878 ?        S      0:00 /usr/lib/cups/notifier/dbus dbus://
+    896 tty1     Ssl+  23:55 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{0bdffeac-2546-434d-a235-54f9920c71fb} -background none -noreset -displayfd 17 -seat seat0 vt1
+    955 ?        SNsl   0:00 /usr/libexec/rtkit-daemon
+    983 ?        Ssl    0:00 /usr/libexec/upowerd
+   1059 ?        Ssl    0:00 /usr/sbin/cups-browsed
+   1061 ?        Ssl    0:00 /usr/bin/whoopsie -f
+   1062 ?        Ss     0:00 /usr/sbin/kerneloops --test
+   1066 ?        Ss     0:00 /usr/sbin/kerneloops
+   1070 ?        S      0:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-authce6a4b26-93ca-4303-b7fb-92177825bf49 --id 1 --start /usr/bin/startplasma-x11 --user dongsub
+   1072 ?        Ss     0:00 /lib/systemd/systemd --user
+   1073 ?        S      0:00 (sd-pam)
+   1079 ?        S<sl   0:00 /usr/bin/pipewire
+   1080 ?        S<sl   0:00 /usr/bin/pipewire-media-session
+   1081 ?        S<sl   6:57 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+   1085 ?        Ss     0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+   1088 ?        Sl     0:00 /usr/bin/kwalletd5 --pam-login 7 8
+   1089 ?        Sl     0:00 /usr/bin/startplasma-x11
+   1206 ?        Ss     0:00 /usr/bin/ssh-agent /usr/bin/im-launch /usr/bin/startplasma-x11
+   1243 ?        Sl     0:00 /usr/libexec/pulse/gsettings-helper
+   1324 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit
+   1325 ?        Ss     0:00 kdeinit5: Running...
+   1326 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher --fd=9
+   1339 ?        Sl     0:04 /usr/bin/kded5
+   1343 ?        Sl    11:54 /usr/bin/kwin_x11
+   1350 ?        Ssl    0:00 /usr/libexec/dconf-service
+   1355 ?        S      0:00 /usr/bin/xsettingsd
+   1381 ?        Sl     0:01 /usr/bin/ksmserver
+   1382 ?        Ssl    0:01 /usr/bin/kglobalaccel5
+   1386 ?        Ssl    0:01 /usr/lib/x86_64-linux-gnu/libexec/kactivitymanagerd
+   1395 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil
+   1409 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+   1411 ?        Sl     2:52 /usr/bin/plasmashell
+   1413 ?        Sl     0:00 /usr/bin/xembedsniproxy
+   1421 ?        Sl     0:01 /usr/bin/kaccess
+   1450 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+   1460 ?        Sl     0:00 /usr/bin/gmenudbusmenuproxy
+   1466 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+   1505 ?        Ssl    0:03 /usr/libexec/packagekitd
+   1507 ?        Sl     0:06 /usr/bin/konsole -session 101af1b81b3ff000164022579400000013790010_1640256724_790093
+   1523 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+   1575 ?        Ss     0:00 /usr/lib/bluetooth/obexd
+   1577 ?        SLl    0:09 /usr/bin/ktorrent -session 101af1b81b3ff000164024795300000013790047_1640256724_789585
+   1590 pts/1    Ss     0:00 /bin/bash
+   1636 ?        Sl     0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+   1644 ?        Sl     0:00 /usr/libexec/geoclue-2.0/demos/agent
+   1645 ?        S      0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+   2274 pts/1    S      0:00 dbus-launch --autolaunch eded80ff959445f39c4e5d6309e67ff6 --binary-syntax --close-stderr
+   2275 ?        Ss     0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+   2278 ?        I<     0:00 [cfg80211]
+   2365 pts/2    Ss     0:00 /bin/bash
+   2386 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/kded5erfZGQ.1.slave-socket
+   2388 pts/3    Ss     0:00 /bin/bash
+   2783 pts/3    SLl+ 201:15 obs
+   3216 pts/3    S+     0:00 sh -c "/usr/bin/obs-ffmpeg-mux" "/home/dongsub/2021-12-24 16-37-25.mkv" 1 1 h264 2500 1920 1080 1 1 1 1 30 1 aac "simple_aac" 160 48000 2 "" "" 
+   3217 pts/3    SL+    0:41 /usr/bin/obs-ffmpeg-mux /home/dongsub/2021-12-24 16-37-25.mkv 1 1 h264 2500 1920 1080 1 1 1 1 30 1 aac simple_aac 160 48000 2
+   8637 ?        I      0:17 [kworker/u64:4-events_unbound]
+   9945 ?        I      0:00 [kworker/0:0-events]
+  10293 ?        I      0:00 [kworker/3:1-events]
+  10565 ?        I      0:00 [kworker/2:2-events]
+  10566 ?        I      0:00 [kworker/6:0-events]
+  10979 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu -u root -c /usr/bin/ksystemlog -qwindowtitle KSystemLog
+  10983 pts/4    Ss+    0:00 /usr/bin/sudo -u root /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+  11007 pts/5    Ss+    0:00 /usr/bin/sudo -u root /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+  11008 pts/5    S+     0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+  11011 ?        Ss     0:00 sh -c /usr/bin/ksystemlog -qwindowtitle KSystemLog
+  11012 ?        Sl     1:11 /usr/bin/ksystemlog -qwindowtitle KSystemLog
+  11263 ?        I      0:00 [kworker/1:0-events]
+  11264 ?        I      0:00 [kworker/7:1-mm_percpu_wq]
+  11265 ?        I      0:00 [kworker/6:2-events]
+  11782 ?        I      0:08 [kworker/u64:2-events_unbound]
+  11908 ?        I      0:00 [kworker/9:2-events]
+  11912 ?        I      0:00 [kworker/0:1-events]
+  12312 ?        I      0:00 [kworker/8:2-events]
+  12313 ?        I      0:00 [kworker/1:1-events]
+  12323 ?        I      0:00 [kworker/3:0-rcu_par_gp]
+  12324 ?        I      0:00 [kworker/4:1-events]
+  12331 ?        I      0:00 [kworker/7:2]
+  12336 ?        I      0:00 [kworker/5:1-rcu_par_gp]
+  12337 ?        I      0:00 [kworker/11:0-events]
+  12356 ?        I      0:00 [kworker/11:3-events]
+  12467 pts/1    S+     0:00 sudo wireshark
+  12468 pts/1    Sl+    4:53 wireshark
+  12863 ?        I      0:00 [kworker/8:3-events]
+  13743 ?        I      0:00 [kworker/2:1-mm_percpu_wq]
+  14900 ?        Sl     7:35 /usr/lib/firefox/firefox
+  15037 ?        Sl     0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20211215221728 -prefsLen 1 -prefMapSize 246551 -appDir /usr/lib/firefox/browser 14900 true socket
+  15072 ?        Sl     0:04 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 139 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15130 ?        Sl     0:33 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 4917 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15196 ?        Sl     1:43 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 5616 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15203 ?        Sl     0:16 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 5616 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15267 ?        I      0:00 [kworker/5:0-rcu_gp]
+  15268 ?        I      0:00 [kworker/10:0-rcu_par_gp]
+  15342 ?        I      0:00 [kworker/4:2-events]
+  15343 pts/1    S+     0:12 /usr/bin/dumpcap -n -i enp5s0 -y EN10MB -Z none
+  15374 ?        Sl     2:14 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 6038 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15442 ?        I      0:01 [kworker/u64:3-events_unbound]
+  15602 ?        Sl     0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20211215221728 -prefsLen 6202 -prefMapSize 246551 -appDir /usr/lib/firefox/browser 14900 true rdd
+  15609 ?        Sl     0:01 /usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 6202 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15692 ?        Sl     0:01 /usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 6202 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15760 ?        Sl     1:48 /usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 6202 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  15798 ?        Sl     0:03 /usr/lib/firefox/firefox -contentproc -childID 10 -isForBrowser -prefsLen 6202 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  16110 ?        I      0:00 [kworker/9:0-inet_frag_wq]
+  16111 ?        I      0:00 [kworker/10:2-mm_percpu_wq]
+  16558 ?        I      0:01 [kworker/u64:5-events_unbound]
+  16560 ?        I      0:01 [kworker/u64:8-events_unbound]
+  17043 ?        Sl     0:00 /usr/lib/firefox/firefox -contentproc -childID 13 -isForBrowser -prefsLen 6358 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  17173 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_trash.so trash  local:/run/user/1000/plasmashellePDUZg.22.slave-socket
+  17181 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so desktop  local:/run/user/1000/plasmashellMcLDTF.23.slave-socket
+  17184 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/kio_desktopgbQjcA.1.slave-socket
+  17202 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so tags  local:/run/user/1000/plasmashellwkvtUd.24.slave-socket
+  17238 ?        I      0:00 [kworker/u64:0-ext4-rsv-conversion]
+  17239 ?        I      0:00 [kworker/u64:1-flush-8:0]
+  17240 ?        I      0:00 [kworker/u64:6-ext4-rsv-conversion]
+  17241 ?        I      0:00 [kworker/u64:7-flush-8:0]
+  17242 ?        I      0:00 [kworker/u64:9]
+  17265 ?        Sl     0:00 /usr/lib/firefox/firefox -contentproc -childID 14 -isForBrowser -prefsLen 6512 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  17289 ?        I      0:00 [kworker/6:1]
+  17290 ?        I      0:00 [kworker/10:1-rcu_par_gp]
+  17291 ?        I      0:00 [kworker/9:1-mm_percpu_wq]
+  17322 ?        Sl     0:00 /usr/lib/firefox/firefox -contentproc -childID 15 -isForBrowser -prefsLen 6513 -prefMapSize 246551 -jsInitLen 278884 -parentBuildID 20211215221728 -appDir /usr/lib/firefox/browser 14900 true tab
+  17528 ?        I      0:00 [kworker/4:0]
+  17529 ?        I      0:00 [kworker/3:2-mm_percpu_wq]
+  17530 ?        I      0:00 [kworker/5:2-events]
+  17585 ?        Sl     0:01 /usr/bin/dolphin /home/dongsub/Desktop/2021-12-20
+  17619 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so tags  local:/run/user/1000/dolphinySODkG.1.slave-socket
+  17621 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_trash.so trash  local:/run/user/1000/dolphinVSIbvj.2.slave-socket
+  17623 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/dolphinjbITJn.3.slave-socket
+  17627 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/dolphinIqWLoo.4.slave-socket
+  17629 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/dolphinuvwnWS.5.slave-socket
+  17631 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/dolphinsWJGCc.6.slave-socket
+  17682 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so thumbnail  local:/run/user/1000/dolphinCxNkqa.11.slave-socket
+  17735 pts/2    R+     0:00 ps -ax

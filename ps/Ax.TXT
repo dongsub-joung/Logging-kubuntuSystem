@@ -1,0 +1,292 @@
+    PID TTY      STAT   TIME COMMAND
+      1 ?        Ss     0:00 /sbin/init splash
+      2 ?        S      0:00 [kthreadd]
+      3 ?        I<     0:00 [rcu_gp]
+      4 ?        I<     0:00 [rcu_par_gp]
+      6 ?        I<     0:00 [kworker/0:0H-events_highpri]
+      9 ?        I<     0:00 [mm_percpu_wq]
+     10 ?        S      0:00 [rcu_tasks_rude_]
+     11 ?        S      0:00 [rcu_tasks_trace]
+     12 ?        S      0:00 [ksoftirqd/0]
+     13 ?        I      0:05 [rcu_sched]
+     14 ?        S      0:00 [migration/0]
+     15 ?        S      0:00 [idle_inject/0]
+     16 ?        S      0:00 [cpuhp/0]
+     17 ?        S      0:00 [cpuhp/1]
+     18 ?        S      0:00 [idle_inject/1]
+     19 ?        S      0:00 [migration/1]
+     20 ?        S      0:00 [ksoftirqd/1]
+     22 ?        I<     0:00 [kworker/1:0H-events_highpri]
+     23 ?        S      0:00 [cpuhp/2]
+     24 ?        S      0:00 [idle_inject/2]
+     25 ?        S      0:00 [migration/2]
+     26 ?        S      0:00 [ksoftirqd/2]
+     28 ?        I<     0:00 [kworker/2:0H-kblockd]
+     29 ?        S      0:00 [cpuhp/3]
+     30 ?        S      0:00 [idle_inject/3]
+     31 ?        S      0:00 [migration/3]
+     32 ?        S      0:00 [ksoftirqd/3]
+     34 ?        I<     0:00 [kworker/3:0H-events_highpri]
+     35 ?        S      0:00 [cpuhp/4]
+     36 ?        S      0:00 [idle_inject/4]
+     37 ?        S      0:00 [migration/4]
+     38 ?        S      0:00 [ksoftirqd/4]
+     40 ?        I<     0:00 [kworker/4:0H-kblockd]
+     41 ?        S      0:00 [cpuhp/5]
+     42 ?        S      0:00 [idle_inject/5]
+     43 ?        S      0:00 [migration/5]
+     44 ?        S      0:00 [ksoftirqd/5]
+     46 ?        I<     0:00 [kworker/5:0H-kblockd]
+     47 ?        S      0:00 [cpuhp/6]
+     48 ?        S      0:00 [idle_inject/6]
+     49 ?        S      0:00 [migration/6]
+     50 ?        S      0:00 [ksoftirqd/6]
+     52 ?        I<     0:00 [kworker/6:0H-kblockd]
+     53 ?        S      0:00 [cpuhp/7]
+     54 ?        S      0:00 [idle_inject/7]
+     55 ?        S      0:00 [migration/7]
+     56 ?        S      0:00 [ksoftirqd/7]
+     58 ?        I<     0:00 [kworker/7:0H-events_highpri]
+     59 ?        S      0:00 [cpuhp/8]
+     60 ?        S      0:00 [idle_inject/8]
+     61 ?        S      0:00 [migration/8]
+     62 ?        S      0:00 [ksoftirqd/8]
+     64 ?        I<     0:00 [kworker/8:0H-events_highpri]
+     65 ?        S      0:00 [cpuhp/9]
+     66 ?        S      0:00 [idle_inject/9]
+     67 ?        S      0:00 [migration/9]
+     68 ?        S      0:00 [ksoftirqd/9]
+     70 ?        I<     0:00 [kworker/9:0H-kblockd]
+     71 ?        S      0:00 [cpuhp/10]
+     72 ?        S      0:00 [idle_inject/10]
+     73 ?        S      0:00 [migration/10]
+     74 ?        S      0:00 [ksoftirqd/10]
+     76 ?        I<     0:00 [kworker/10:0H-events_highpri]
+     77 ?        S      0:00 [cpuhp/11]
+     78 ?        S      0:00 [idle_inject/11]
+     79 ?        S      0:00 [migration/11]
+     80 ?        S      0:00 [ksoftirqd/11]
+     82 ?        I<     0:00 [kworker/11:0H-events_highpri]
+     83 ?        S      0:00 [kdevtmpfs]
+     84 ?        I<     0:00 [netns]
+     85 ?        I<     0:00 [inet_frag_wq]
+     86 ?        S      0:00 [kauditd]
+     90 ?        S      0:00 [khungtaskd]
+     91 ?        S      0:00 [oom_reaper]
+     92 ?        I<     0:00 [writeback]
+     93 ?        S      0:00 [kcompactd0]
+     94 ?        SN     0:00 [ksmd]
+     95 ?        SN     0:00 [khugepaged]
+    142 ?        I<     0:00 [kintegrityd]
+    143 ?        I<     0:00 [kblockd]
+    144 ?        I<     0:00 [blkcg_punt_bio]
+    145 ?        I<     0:00 [tpm_dev_wq]
+    146 ?        I<     0:00 [ata_sff]
+    147 ?        I<     0:00 [md]
+    148 ?        I<     0:00 [edac-poller]
+    149 ?        I<     0:00 [devfreq_wq]
+    150 ?        S      0:00 [watchdogd]
+    152 ?        I<     0:00 [kworker/0:1H-kblockd]
+    154 ?        S      0:00 [irq/25-AMD-Vi]
+    157 ?        S      0:00 [kswapd0]
+    158 ?        S      0:00 [ecryptfs-kthrea]
+    160 ?        I<     0:00 [kthrotld]
+    161 ?        S      0:00 [irq/26-aerdrv]
+    162 ?        S      0:00 [irq/27-aerdrv]
+    163 ?        S      0:00 [irq/28-aerdrv]
+    164 ?        S      0:00 [irq/30-aerdrv]
+    172 ?        I<     0:00 [acpi_thermal_pm]
+    177 ?        I<     0:00 [vfio-irqfd-clea]
+    178 ?        I<     0:00 [mld]
+    179 ?        I<     0:00 [ipv6_addrconf]
+    188 ?        I<     0:00 [kstrp]
+    191 ?        I<     0:00 [zswap-shrink]
+    192 ?        I<     0:00 [kworker/u65:0]
+    199 ?        I<     0:00 [charger_manager]
+    232 ?        I<     0:00 [kworker/11:1H-kblockd]
+    248 ?        I<     0:00 [kworker/8:1H-kblockd]
+    253 ?        I<     0:00 [cryptd]
+    273 ?        S      0:00 [scsi_eh_0]
+    274 ?        I<     0:00 [scsi_tmf_0]
+    275 ?        S      0:00 [scsi_eh_1]
+    276 ?        I<     0:00 [scsi_tmf_1]
+    277 ?        S      0:00 [scsi_eh_2]
+    278 ?        I<     0:00 [scsi_tmf_2]
+    279 ?        S      0:00 [scsi_eh_3]
+    280 ?        I<     0:00 [scsi_tmf_3]
+    281 ?        S      0:00 [scsi_eh_4]
+    282 ?        I<     0:00 [scsi_tmf_4]
+    283 ?        S      0:00 [scsi_eh_5]
+    284 ?        I<     0:00 [scsi_tmf_5]
+    285 ?        S      0:00 [scsi_eh_6]
+    286 ?        I<     0:00 [scsi_tmf_6]
+    287 ?        S      0:00 [scsi_eh_7]
+    289 ?        I<     0:00 [scsi_tmf_7]
+    301 ?        S      0:00 [scsi_eh_8]
+    302 ?        I<     0:00 [scsi_tmf_8]
+    313 ?        I<     0:00 [amd_iommu_v2]
+    316 ?        S      0:20 [gfx]
+    317 ?        S      0:00 [comp_1.0.0]
+    318 ?        S      0:00 [comp_1.1.0]
+    319 ?        S      0:00 [comp_1.2.0]
+    320 ?        S      0:00 [comp_1.3.0]
+    321 ?        S      0:00 [comp_1.0.1]
+    322 ?        S      0:00 [comp_1.1.1]
+    323 ?        S      0:00 [comp_1.2.1]
+    324 ?        S      0:00 [comp_1.3.1]
+    325 ?        S      0:00 [sdma0]
+    326 ?        S      0:00 [sdma1]
+    327 ?        S      0:00 [uvd]
+    328 ?        S      0:00 [uvd_enc0]
+    329 ?        S      0:00 [uvd_enc1]
+    330 ?        S      0:00 [vce0]
+    331 ?        S      0:00 [vce1]
+    332 ?        S      0:00 [vce2]
+    333 ?        I<     0:00 [kworker/3:1H-kblockd]
+    335 ?        S      0:00 [card0-crtc0]
+    336 ?        S      0:00 [card0-crtc1]
+    337 ?        S      0:00 [card0-crtc2]
+    338 ?        S      0:00 [card0-crtc3]
+    339 ?        S      0:00 [card0-crtc4]
+    340 ?        S      0:00 [card0-crtc5]
+    359 ?        I<     0:00 [kworker/1:1H-kblockd]
+    369 ?        I<     0:00 [kworker/7:1H-kblockd]
+    390 ?        S      0:00 [jbd2/sda2-8]
+    391 ?        I<     0:00 [ext4-rsv-conver]
+    393 ?        I<     0:00 [kworker/5:1H-kblockd]
+    394 ?        I<     0:00 [kworker/9:1H-kblockd]
+    403 ?        I<     0:00 [kworker/10:1H-kblockd]
+    421 ?        I<     0:00 [kworker/2:1H-kblockd]
+    436 ?        I<     0:00 [kworker/4:1H-kblockd]
+    441 ?        S<s    0:00 /lib/systemd/systemd-journald
+    475 ?        Ss     0:00 /lib/systemd/systemd-udevd
+    479 ?        I<     0:00 [kworker/6:1H-kblockd]
+    545 ?        S      0:00 [ccp-1-q2]
+    546 ?        S      0:00 [ccp-1-q3]
+    547 ?        S      0:00 [ccp-1-q4]
+    695 ?        Ss     0:01 /lib/systemd/systemd-resolved
+    696 ?        Ssl    0:00 /lib/systemd/systemd-timesyncd
+    701 ?        Ss     0:00 /usr/sbin/haveged --Foreground --verbose=1
+    714 ?        Ssl    0:00 /usr/lib/accountsservice/accounts-daemon
+    715 ?        Ss     0:00 /usr/sbin/acpid
+    721 ?        Ss     0:00 avahi-daemon: running [dongsub-desktop.local]
+    722 ?        Ss     0:00 /usr/sbin/cron -f -P
+    723 ?        Ss     0:01 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+    728 ?        Ssl    0:00 /usr/sbin/NetworkManager --no-daemon
+    738 ?        Ssl    0:00 /usr/sbin/irqbalance --foreground
+    739 ?        Ss     0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+    741 ?        Ssl    0:00 /usr/libexec/polkitd --no-debug
+    743 ?        Ssl    0:00 /usr/sbin/rsyslogd -n -iNONE
+    746 ?        Ss     0:00 /usr/sbin/smartd -n
+    756 ?        Ss     0:00 /lib/systemd/systemd-logind
+    761 ?        Ssl    0:01 /usr/libexec/udisks2/udisksd
+    762 ?        Ss     0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+    769 ?        S      0:00 avahi-daemon: chroot helper
+    828 ?        Ss     0:00 /usr/sbin/cupsd -l
+    832 ?        Ssl    0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+    834 ?        Ssl    0:00 /usr/sbin/ModemManager
+    856 ?        Ssl    0:00 /usr/bin/sddm
+    883 tty1     Ssl+   6:47 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{fab7dd06-fdc1-4f5a-90ab-a969fbe4b64b} -background none -noreset -displayfd 17 -seat seat0 vt1
+    942 ?        SNsl   0:00 /usr/libexec/rtkit-daemon
+    970 ?        Ssl    0:00 /usr/libexec/upowerd
+   1042 ?        Ssl    0:00 /usr/sbin/cups-browsed
+   1044 ?        Ssl    0:00 /usr/bin/whoopsie -f
+   1045 ?        Ss     0:00 /usr/sbin/kerneloops --test
+   1047 ?        Ss     0:00 /usr/sbin/kerneloops
+   1053 ?        S      0:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-auth1017dc67-4491-49da-9125-d8f90cd3103a --id 1 --start /usr/bin/startplasma-x11 --user dongsub
+   1055 ?        Ss     0:00 /lib/systemd/systemd --user
+   1056 ?        S      0:00 (sd-pam)
+   1062 ?        S<sl   0:00 /usr/bin/pipewire
+   1063 ?        S<sl   0:00 /usr/bin/pipewire-media-session
+   1064 ?        S<sl   0:12 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+   1066 ?        Ss     0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+   1071 ?        Sl     0:01 /usr/bin/kwalletd5 --pam-login 7 8
+   1072 ?        Sl     0:00 /usr/bin/startplasma-x11
+   1186 ?        Ss     0:00 /usr/bin/ssh-agent /usr/bin/im-launch /usr/bin/startplasma-x11
+   1223 ?        Sl     0:00 /usr/libexec/pulse/gsettings-helper
+   1303 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit
+   1304 ?        Ss     0:00 kdeinit5: Running...
+   1305 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher --fd=9
+   1322 ?        Sl     0:04 /usr/bin/kded5
+   1326 ?        Rl     4:39 /usr/bin/kwin_x11
+   1333 ?        Ssl    0:00 /usr/libexec/dconf-service
+   1338 ?        S      0:00 /usr/bin/xsettingsd
+   1366 ?        Sl     0:02 /usr/bin/ksmserver
+   1367 ?        Ssl    0:01 /usr/bin/kglobalaccel5
+   1369 ?        Ssl    0:01 /usr/lib/x86_64-linux-gnu/libexec/kactivitymanagerd
+   1390 ?        Sl     0:01 /usr/bin/xembedsniproxy
+   1392 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil
+   1394 ?        Sl     0:01 /usr/bin/kaccess
+   1403 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+   1406 ?        Sl     1:24 /usr/bin/plasmashell
+   1429 ?        Sl     0:02 /usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+   1432 ?        Sl     0:01 /usr/bin/gmenudbusmenuproxy
+   1437 ?        Sl     0:02 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+   1490 ?        Ssl    0:02 /usr/libexec/packagekitd
+   1525 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+   1556 ?        Ss     0:00 /usr/lib/bluetooth/obexd
+   1648 ?        Sl     0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+   1650 ?        Sl     0:00 /usr/libexec/geoclue-2.0/demos/agent
+   1661 ?        S      0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+   2320 ?        I<     0:00 [uas]
+   2385 ?        S      0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/kded5bDyFno.1.slave-socket
+   4125 ?        Sl     0:08 /usr/bin/konsole
+   4148 pts/1    Ss     0:00 /bin/bash
+   4157 pts/1    S+     0:00 sudo wireshark
+   4158 pts/1    Sl+    8:20 wireshark
+   4166 pts/1    S+     0:00 dbus-launch --autolaunch eded80ff959445f39c4e5d6309e67ff6 --binary-syntax --close-stderr
+   4167 ?        Ss     0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+   4170 ?        I<     0:00 [cfg80211]
+   4620 ?        Sl     0:03 /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu -u root -c /usr/bin/ksystemlog -qwindowtitle KSystemLog
+   4624 pts/2    Ss+    0:00 /usr/bin/sudo -u root /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+   4651 pts/3    Ss+    0:00 /usr/bin/sudo -u root /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+   4652 pts/3    S+     0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+   4655 ?        Ss     0:00 sh -c /usr/bin/ksystemlog -qwindowtitle KSystemLog
+   4656 ?        Sl     2:37 /usr/bin/ksystemlog -qwindowtitle KSystemLog
+   4945 ?        S      0:00 [scsi_eh_9]
+   4946 ?        I<     0:00 [scsi_tmf_9]
+   4947 ?        S      0:00 [usb-storage]
+   5264 pts/4    Ss     0:00 /bin/bash
+   6891 ?        Sl     0:05 /usr/lib/x86_64-linux-gnu/libexec/kf5/kio_http_cache_cleaner
+   7585 ?        I      0:00 [kworker/8:2-mm_percpu_wq]
+   8613 ?        I      0:00 [kworker/9:1-events]
+   8752 ?        I      0:00 [kworker/8:0-rcu_par_gp]
+   8753 ?        I      0:00 [kworker/0:0-events]
+   8915 ?        Sl     0:04 /usr/bin/kate -b
+   9017 ?        I      0:00 [kworker/7:0-mm_percpu_wq]
+   9018 ?        I      0:00 [kworker/7:3-events]
+   9057 ?        I      0:00 [kworker/3:0-rcu_par_gp]
+   9123 ?        I      0:00 [kworker/2:2-rcu_par_gp]
+   9124 ?        I      0:00 [kworker/6:1-rcu_par_gp]
+   9149 ?        I      0:00 [kworker/11:2-events]
+   9150 ?        I      0:00 [kworker/10:3-events]
+   9152 ?        I      0:00 [kworker/4:0-rcu_par_gp]
+   9153 ?        I      0:00 [kworker/5:2-rcu_par_gp]
+   9187 ?        I      0:00 [kworker/0:1-events]
+   9359 ?        I      0:00 [kworker/5:1-mm_percpu_wq]
+   9360 ?        I      0:00 [kworker/4:1-events]
+   9361 ?        I      0:00 [kworker/10:0-rcu_par_gp]
+   9433 ?        D      0:00 [kworker/u64:11+events_unbound]
+   9448 ?        I      0:00 [kworker/9:3-mm_percpu_wq]
+   9449 ?        I      0:00 [kworker/11:3-rcu_gp]
+   9450 ?        I      0:00 [kworker/1:0-rcu_par_gp]
+   9451 ?        I      0:00 [kworker/2:0-mm_percpu_wq]
+   9452 ?        I      0:00 [kworker/3:2-rcu_gp]
+   9453 ?        I      0:00 [kworker/6:0-events]
+   9456 ?        I      0:00 [kworker/1:1-events]
+   9504 ?        D      0:00 [kworker/u64:75+events_unbound]
+   9681 ?        I      0:00 [kworker/u64:0-flush-8:0]
+   9697 ?        I      0:00 [kworker/u64:1-flush-8:0]
+   9740 ?        I      0:00 [kworker/u64:2-flush-8:0]
+   9741 ?        I      0:00 [kworker/11:0-events]
+   9742 ?        I      0:00 [kworker/10:1-mm_percpu_wq]
+   9744 ?        I      0:00 [kworker/7:1]
+   9745 ?        I      0:00 [kworker/3:1-events]
+   9749 ?        I      0:00 [kworker/1:2-mm_percpu_wq]
+   9751 ?        I      0:00 [kworker/2:1-rcu_par_gp]
+   9752 ?        I      0:00 [kworker/8:1-rcu_gp]
+   9754 ?        I      0:00 [kworker/8:3-events]
+   9755 ?        I      0:00 [kworker/1:3-rcu_par_gp]
+   9756 ?        I      0:00 [kworker/u64:3]
+   9757 ?        I      0:00 [kworker/0:2-events]
+   9759 pts/4    R+     0:00 ps -ax
