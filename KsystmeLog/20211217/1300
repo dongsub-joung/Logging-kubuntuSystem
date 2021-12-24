@@ -1,0 +1,1002 @@
+2021/12/17 13:48	kernel	audit: type=1400 audit(1639716485.619:24): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-soffice//gpg" pid=627 comm="apparmor_parser"
+2021/12/17 13:48	systemd	Finished Load AppArmor profiles.
+2021/12/17 13:48	systemd	Started Entropy Daemon based on the HAVEGE algorithm.
+2021/12/17 13:48	systemd	Starting Load AppArmor profiles managed internally by snapd...
+2021/12/17 13:48	snapd-apparmor	find: ‘/var/lib/snapd/apparmor/profiles/’: No such file or directory
+2021/12/17 13:48	systemd	Finished Load AppArmor profiles managed internally by snapd.
+2021/12/17 13:48	systemd	Reached target System Initialization.
+2021/12/17 13:48	systemd	Started ACPI Events Check.
+2021/12/17 13:48	systemd	Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+2021/12/17 13:48	systemd	Started CUPS Scheduler.
+2021/12/17 13:48	systemd	Started Trigger anacron every hour.
+2021/12/17 13:48	systemd	Started Daily apt download activities.
+2021/12/17 13:48	systemd	Started Daily apt upgrade and clean activities.
+2021/12/17 13:48	systemd	Started Periodic ext4 Online Metadata Check for All Filesystems.
+2021/12/17 13:48	systemd	Started Discard unused blocks once a week.
+2021/12/17 13:48	systemd	Started Refresh fwupd metadata regularly.
+2021/12/17 13:48	systemd	Started Daily rotation of log files.
+2021/12/17 13:48	systemd	Started Daily man-db regeneration.
+2021/12/17 13:48	systemd	Started Updates mlocate database every day.
+2021/12/17 13:48	systemd	Started Message of the Day.
+2021/12/17 13:48	systemd	Condition check resulted in Timer to automatically fetch and run repair assertions being skipped.
+2021/12/17 13:48	systemd	Started Daily Cleanup of Temporary Directories.
+2021/12/17 13:48	systemd	Started Ubuntu Advantage update messaging.
+2021/12/17 13:48	systemd	Reached target Paths.
+2021/12/17 13:48	systemd	Reached target Timers.
+2021/12/17 13:48	systemd	Listening on ACPID Listen Socket.
+2021/12/17 13:48	systemd	Condition check resulted in Unix socket for apport crash forwarding being skipped.
+2021/12/17 13:48	systemd	Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+2021/12/17 13:48	systemd	Listening on CUPS Scheduler.
+2021/12/17 13:48	systemd	Listening on D-Bus System Message Bus Socket.
+2021/12/17 13:48	systemd	Starting Socket activation for snappy daemon.
+2021/12/17 13:48	systemd	Listening on UUID daemon activation socket.
+2021/12/17 13:48	systemd	Listening on Socket activation for snappy daemon.
+2021/12/17 13:48	systemd	Reached target Sockets.
+2021/12/17 13:48	systemd	Reached target Basic System.
+2021/12/17 13:48	systemd	Starting Accounts Service...
+2021/12/17 13:48	systemd	Started ACPI event daemon.
+2021/12/17 13:48	systemd	Condition check resulted in Manage Sound Card State (restore and store) being skipped.
+2021/12/17 13:48	systemd	Starting Save/Restore Sound Card State...
+2021/12/17 13:48	systemd	Started Run anacron jobs.
+2021/12/17 13:48	systemd	Starting LSB: automatic crash report generation...
+2021/12/17 13:48	anacron	Anacron 2.3 started on 2021-12-17
+2021/12/17 13:48	anacron	Will run job `cron.daily' in 5 min.
+2021/12/17 13:48	anacron	Will run job `cron.weekly' in 10 min.
+2021/12/17 13:48	systemd	Starting Avahi mDNS/DNS-SD Stack...
+2021/12/17 13:48	anacron	Will run job `cron.monthly' in 15 min.
+2021/12/17 13:48	anacron	Jobs will be executed sequentially
+2021/12/17 13:48	systemd	Started Regular background program processing daemon.
+2021/12/17 13:48	systemd	Started D-Bus System Message Bus.
+2021/12/17 13:48	cron	(CRON) INFO (pidfile fd = 3)
+2021/12/17 13:48	systemd	Starting Network Manager...
+2021/12/17 13:48	systemd	Started Save initial kernel messages after boot.
+2021/12/17 13:48	cron	(CRON) INFO (Running @reboot jobs)
+2021/12/17 13:48	systemd	Starting Remove Stale Online ext4 Metadata Check Snapshots...
+2021/12/17 13:48	systemd	Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+2021/12/17 13:48	systemd	Reached target Login Prompts.
+2021/12/17 13:48	systemd	Starting Detect the available GPUs and deal with any system changes...
+2021/12/17 13:48	avahi-daemon	Found user 'avahi' (UID 114) and group 'avahi' (GID 122).
+2021/12/17 13:48	systemd	Starting Record successful boot for GRUB...
+2021/12/17 13:48	haveged	haveged: command socket is listening at fd 3
+2021/12/17 13:48	systemd	Started irqbalance daemon.
+2021/12/17 13:48	systemd	Starting Dispatcher daemon for systemd-networkd...
+2021/12/17 13:48	systemd	Starting Authorization Manager...
+2021/12/17 13:48	systemd	Starting System Logging Service...
+2021/12/17 13:48	systemd	Condition check resulted in Secure Boot updates for DB and DBX being skipped.
+2021/12/17 13:48	systemd	Starting Self Monitoring and Reporting Technology (SMART) Daemon...
+2021/12/17 13:48	systemd	Condition check resulted in Automatically repair incorrect owner/permissions on core devices being skipped.
+2021/12/17 13:48	systemd	Condition check resulted in Wait for the Ubuntu Core chooser trigger being skipped.
+2021/12/17 13:48	systemd	Starting Snap Daemon...
+2021/12/17 13:48	systemd	Starting User Login Management...
+2021/12/17 13:48	systemd	Starting Thermal Daemon Service...
+2021/12/17 13:48	systemd	Condition check resulted in Ubuntu Advantage reboot cmds being skipped.
+2021/12/17 13:48	systemd	Starting Disk Manager...
+2021/12/17 13:48	systemd	Starting WPA supplicant...
+2021/12/17 13:48	alsactl	/usr/sbin/alsactl: load_state:1683: Cannot open /var/lib/alsa/asound.state for reading: No such file or directory
+2021/12/17 13:48	avahi-daemon	Successfully dropped root privileges.
+2021/12/17 13:48	avahi-daemon	avahi-daemon 0.8 starting up.
+2021/12/17 13:48	alsactl	alsa-lib parser.c:260:(error_node) UCM is not supported for this HDA model (HDA ATI HDMI at 0xfcf60000 irq 65)
+2021/12/17 13:48	alsactl	alsa-lib main.c:1014:(snd_use_case_mgr_open) error: failed to import hw:0 use case configuration -6
+2021/12/17 13:48	alsactl	Found hardware: "HDA-Intel" "ATI R6xx HDMI" "HDA:1002aa01,00aa0100,00100700" "0x1458" "0xaaf0"
+2021/12/17 13:48	alsactl	Hardware is initialized using a generic method
+2021/12/17 13:48	alsactl	alsa-lib parser.c:260:(error_node) UCM is not supported for this HDA model (HD-Audio Generic at 0xfce00000 irq 67)
+2021/12/17 13:48	alsactl	alsa-lib main.c:1014:(snd_use_case_mgr_open) error: failed to import hw:1 use case configuration -6
+2021/12/17 13:48	alsactl	Found hardware: "HDA-Intel" "Realtek ALC887-VD" "HDA:10ec0887,1849d887,00100302" "0x1849" "0xd887"
+2021/12/17 13:48	alsactl	Hardware is initialized using a generic method
+2021/12/17 13:48	haveged	haveged starting up
+2021/12/17 13:48	systemd	Finished Save/Restore Sound Card State.
+2021/12/17 13:48	systemd	Reached target Sound Card.
+2021/12/17 13:48	apport	 * Starting automatic crash report generation: apport
+2021/12/17 13:48	systemd	e2scrub_reap.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Finished Remove Stale Online ext4 Metadata Check Snapshots.
+2021/12/17 13:48	systemd-logind	New seat seat0.
+2021/12/17 13:48	systemd	grub-common.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Finished Record successful boot for GRUB.
+2021/12/17 13:48	apport	   ...done.
+2021/12/17 13:48	systemd	Started LSB: automatic crash report generation.
+2021/12/17 13:48	systemd	Starting GRUB failed boot detection...
+2021/12/17 13:48	systemd-logind	Watching system buttons on /dev/input/event1 (Power Button)
+2021/12/17 13:48	systemd-logind	Watching system buttons on /dev/input/event0 (Power Button)
+2021/12/17 13:48	systemd-logind	Watching system buttons on /dev/input/event3 (Logitech G102 Prodigy Gaming Mouse Keyboard)
+2021/12/17 13:48	systemd-logind	Watching system buttons on /dev/input/event4 (Logitech USB Keyboard)
+2021/12/17 13:48	systemd-logind	Watching system buttons on /dev/input/event6 (Logitech USB Keyboard System Control)
+2021/12/17 13:48	rsyslogd	imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2102.0]
+2021/12/17 13:48	rsyslogd	rsyslogd's groupid changed to 111
+2021/12/17 13:48	systemd	Started System Logging Service.
+2021/12/17 13:48	rsyslogd	rsyslogd's userid changed to 104
+2021/12/17 13:48	udisks2.service	udisks daemon version 2.9.4 starting
+2021/12/17 13:48	rsyslogd	[origin software="rsyslogd" swVersion="8.2102.0" x-pid="678" x-info="https://www.rsyslog.com"] start
+2021/12/17 13:48	smartd	smartd 7.2 2020-12-30 r5155 [x86_64-linux-5.13.0-19-generic] (local build)
+2021/12/17 13:48	smartd	Copyright (C) 2002-20, Bruce Allen, Christian Franke, www.smartmontools.org
+2021/12/17 13:48	smartd	Opened configuration file /etc/smartd.conf
+2021/12/17 13:48	smartd	Drive: DEVICESCAN, implied '-a' Directive on line 21 of file /etc/smartd.conf
+2021/12/17 13:48	smartd	Configuration file /etc/smartd.conf was parsed, found DEVICESCAN, scanning devices
+2021/12/17 13:48	systemd	grub-initrd-fallback.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Finished GRUB failed boot detection.
+2021/12/17 13:48	smartd	Device: /dev/sda, type changed from 'scsi' to 'sat'
+2021/12/17 13:48	smartd	Device: /dev/sda [SAT], opened
+2021/12/17 13:48	smartd	Device: /dev/sda [SAT], Samsung SSD 860 EVO 250GB, S/N:S4G2NF0M700063Y, WWN:5-002538-e497222cc, FW:RVT03B6Q, 250 GB
+2021/12/17 13:48	smartd	Device: /dev/sda [SAT], found in smartd database: Samsung based SSDs
+2021/12/17 13:48	smartd	Device: /dev/sda [SAT], can't monitor Current_Pending_Sector count - no Attribute 197
+2021/12/17 13:48	smartd	Device: /dev/sda [SAT], can't monitor Offline_Uncorrectable count - no Attribute 198
+2021/12/17 13:48	systemd	gpu-manager.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Finished Detect the available GPUs and deal with any system changes.
+2021/12/17 13:48	smartd	Device: /dev/sda [SAT], is SMART capable. Adding to "monitor" list.
+2021/12/17 13:48	smartd	Monitoring 1 ATA/SATA, 0 SCSI/SAS and 0 NVMe devices
+2021/12/17 13:48	smartd	Device: /dev/sda [SAT], state written to /var/lib/smartmontools/smartd.Samsung_SSD_860_EVO_250GB-S4G2NF0M700063Y.ata.state
+2021/12/17 13:48	systemd	Started Self Monitoring and Reporting Technology (SMART) Daemon.
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.7485] NetworkManager (version 1.32.12) is starting... (for the first time)
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.7490] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+2021/12/17 13:48	dbus-daemon	dbus[663]: Unknown group "power" in message bus configuration file
+2021/12/17 13:48	dbus-daemon	[system] AppArmor D-Bus mediation is enabled
+2021/12/17 13:48	systemd	Started User Login Management.
+2021/12/17 13:48	systemd	Started Thermal Daemon Service.
+2021/12/17 13:48	systemd	Started Avahi mDNS/DNS-SD Stack.
+2021/12/17 13:48	systemd	Started WPA supplicant.
+2021/12/17 13:48	systemd	Started Network Manager.
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.7792] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+2021/12/17 13:48	systemd	Reached target Network.
+2021/12/17 13:48	wpa_supplicant	Successfully initialized wpa_supplicant
+2021/12/17 13:48	avahi-daemon	Successfully called chroot().
+2021/12/17 13:48	avahi-daemon	Successfully dropped remaining capabilities.
+2021/12/17 13:48	systemd	Starting Network Manager Wait Online...
+2021/12/17 13:48	avahi-daemon	No service file found in /etc/avahi/services.
+2021/12/17 13:48	snapd	AppArmor status: apparmor is enabled and all features are available
+2021/12/17 13:48	thermald	Unsupported cpu model or platform
+2021/12/17 13:48	avahi-daemon	Joining mDNS multicast group on interface lo.IPv6 with address ::1.
+2021/12/17 13:48	avahi-daemon	New relevant interface lo.IPv6 for mDNS.
+2021/12/17 13:48	avahi-daemon	Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+2021/12/17 13:48	avahi-daemon	New relevant interface lo.IPv4 for mDNS.
+2021/12/17 13:48	avahi-daemon	Network interface enumeration completed.
+2021/12/17 13:48	avahi-daemon	Registering new address record for ::1 on lo.*.
+2021/12/17 13:48	avahi-daemon	Registering new address record for 127.0.0.1 on lo.IPv4.
+2021/12/17 13:48	systemd	Starting CUPS Scheduler...
+2021/12/17 13:48	systemd	Condition check resulted in fast remote file copy program daemon being skipped.
+2021/12/17 13:48	systemd	Starting Permit User Sessions...
+2021/12/17 13:48	systemd	Started Unattended Upgrades Shutdown.
+2021/12/17 13:48	polkitd	started daemon version 0.105 using authority implementation `local' version `0.105'
+2021/12/17 13:48	systemd	thermald.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Started Authorization Manager.
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.7851] manager[0x55fd817e0020]: monitoring kernel firmware directory '/lib/firmware'.
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.7851] monitoring ifupdown state file '/run/network/ifstate'.
+2021/12/17 13:48	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 13:48	systemd	Starting Modem Manager...
+2021/12/17 13:48	systemd	Finished Permit User Sessions.
+2021/12/17 13:48	systemd	Starting Terminate Plymouth Boot Screen...
+2021/12/17 13:48	systemd	Starting Set console scheme...
+2021/12/17 13:48	systemd	Starting Hostname Service...
+2021/12/17 13:48	systemd	Finished Set console scheme.
+2021/12/17 13:48	systemd	Created slice system-getty.slice.
+2021/12/17 13:48	systemd	Received SIGRTMIN+21 from PID 357 (plymouthd).
+2021/12/17 13:48	acpid	starting up with netlink and the input layer
+2021/12/17 13:48	udisks2.service	failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+2021/12/17 13:48	systemd	Received SIGRTMIN+21 from PID 357 (plymouthd).
+2021/12/17 13:48	systemd	Finished Terminate Plymouth Boot Screen.
+2021/12/17 13:48	acpid	8 rules loaded
+2021/12/17 13:48	acpid	waiting for events: event logging is off
+2021/12/17 13:48	systemd	Starting Simple Desktop Display Manager...
+2021/12/17 13:48	systemd	Started Simple Desktop Display Manager.
+2021/12/17 13:48	ModemManager	<info>  ModemManager (version 1.16.6) starting in system bus...
+2021/12/17 13:48	udisks2.service	Failed to load the 'mdraid' libblockdev plugin
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/17 13:48	systemd	Started Hostname Service.
+2021/12/17 13:48	accounts-daemon	started daemon version 0.6.55
+2021/12/17 13:48	systemd	Started Accounts Service.
+2021/12/17 13:48	audit	AVC apparmor="DENIED" operation="capable" profile="/usr/sbin/cupsd" pid=756 comm="cupsd" capability=12  capname="net_admin"
+2021/12/17 13:48	systemd	Started CUPS Scheduler.
+2021/12/17 13:48	kernel	audit: type=1400 audit(1639716485.827:25): apparmor="DENIED" operation="capable" profile="/usr/sbin/cupsd" pid=756 comm="cupsd" capability=12  capname="net_admin"
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8405] hostname: hostname: using hostnamed
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8406] hostname: hostname changed from (none) to "dongsub-desktop"
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8408] dns-mgr[0x55fd817c5270]: init: dns=systemd-resolved rc-manager=unmanaged (auto), plugin=systemd-resolved
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8411] manager[0x55fd817e0020]: rfkill: Wi-Fi hardware radio set enabled
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8411] manager[0x55fd817e0020]: rfkill: WWAN hardware radio set enabled
+2021/12/17 13:48	haveged	haveged: ver: 1.9.14; arch: x86; vend: ; build: (gcc 11.2.0 ITV); collect: 128K
+2021/12/17 13:48	haveged	haveged: cpu: (VC); data: 32K (V); inst: 64K (V); idx: 39/40; sz: 55167/55167
+2021/12/17 13:48	haveged	haveged: tot tests(BA8): A:1/1 B:1/1 continuous tests(B):  last entropy estimate 7.99503
+2021/12/17 13:48	haveged	haveged: fills: 0, generated: 0
+2021/12/17 13:48	snapd	daemon.go:242: started snapd/2.53+21.10ubuntu1 (series 16; classic) ubuntu/21.10 (amd64) linux/5.13.0-19-generic.
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8542] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.32.12/libnm-device-plugin-bluetooth.so)
+2021/12/17 13:48	kernel	loop0: detected capacity change from 0 to 8
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8575] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.32.12/libnm-device-plugin-wifi.so)
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8586] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.32.12/libnm-device-plugin-adsl.so)
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8600] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.32.12/libnm-device-plugin-wwan.so)
+2021/12/17 13:48	systemd	Started Disk Manager.
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8644] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.32.12/libnm-device-plugin-team.so)
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8647] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8647] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8648] manager: Networking is enabled by state file
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8665] dhcp-init: Using DHCP client 'internal'
+2021/12/17 13:48	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 13:48	udisks2.service	Acquired the name org.freedesktop.UDisks2 on the system message bus
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8683] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.32.12/libnm-settings-plugin-ifupdown.so")
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8684] settings: Loaded settings plugin: keyfile (internal)
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8684] ifupdown: management mode: unmanaged
+2021/12/17 13:48	NetworkManager	<warn>  [1639716485.8687] ifupdown: interfaces file /etc/network/interfaces doesn't exist
+2021/12/17 13:48	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8720] device (lo): carrier: link connected
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8723] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8732] manager: (enp5s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 13:48	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8743] settings: (enp5s0): created default wired connection 'Wired connection 1'
+2021/12/17 13:48	NetworkManager	<info>  [1639716485.8746] device (enp5s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+2021/12/17 13:48	networkd-dispatcher	WARNING: systemd-networkd is not running, output will be incomplete.
+2021/12/17 13:48	systemd	tmp-sanity\x2dmountpoint\x2d1337712490.mount: Deactivated successfully.
+2021/12/17 13:48	systemd	Started Modem Manager.
+2021/12/17 13:48	sddm	Initializing...
+2021/12/17 13:48	sddm	Starting...
+2021/12/17 13:48	sddm	Logind interface found
+2021/12/17 13:48	sddm	Adding new display on vt 1 ...
+2021/12/17 13:48	sddm	Loading theme configuration from ""
+2021/12/17 13:48	sddm	Display server starting...
+2021/12/17 13:48	sddm	Adding cookie to "/var/run/sddm/{360a0a6b-e8a0-470f-b201-c93e08b1d454}"
+2021/12/17 13:48	sddm	Running: /usr/bin/X -nolisten tcp -auth /var/run/sddm/{360a0a6b-e8a0-470f-b201-c93e08b1d454} -background none -noreset -displayfd 17 -seat seat0 vt1
+2021/12/17 13:48	kernel	Generic FE-GE Realtek PHY r8169-0-500:00: attached PHY driver (mii_bus:phy_addr=r8169-0-500:00, irq=MAC)
+2021/12/17 13:48	snapd	daemon.go:335: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2021/12/17 13:48	snapd	helpers.go:105: error trying to compare the snap system key: system-key missing on disk
+2021/12/17 13:48	systemd	Started Snap Daemon.
+2021/12/17 13:48	systemd	Starting Wait until snapd is fully seeded...
+2021/12/17 13:48	NetworkManager	<warn>  [1639716486.1066] Error: failed to open /run/network/ifstate
+2021/12/17 13:48	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 13:48	systemd	Started Dispatcher daemon for systemd-networkd.
+2021/12/17 13:48	NetworkManager	<info>  [1639716486.1102] modem-manager: ModemManager available
+2021/12/17 13:48	avahi-daemon	Server startup complete. Host name is dongsub-desktop.local. Local service cookie is 4022411533.
+2021/12/17 13:48	sddm	Setting default cursor
+2021/12/17 13:48	sddm	Running display setup script  "/usr/share/sddm/scripts/Xsetup"
+2021/12/17 13:48	sddm	Display server started.
+2021/12/17 13:48	sddm	Socket server starting...
+2021/12/17 13:48	sddm	Socket server started.
+2021/12/17 13:48	sddm	Loading theme configuration from "/usr/share/sddm/themes/ubuntu-theme/theme.conf"
+2021/12/17 13:48	sddm	Greeter starting...
+2021/12/17 13:48	sddm-helper	[PAM] Starting...
+2021/12/17 13:48	sddm-helper	[PAM] Authenticating...
+2021/12/17 13:48	sddm-helper	[PAM] returning.
+2021/12/17 13:48	sddm-helper	pam_unix(sddm-greeter:session): session opened for user sddm by (uid=0)
+2021/12/17 13:48	systemd	Created slice User Slice of UID 119.
+2021/12/17 13:48	systemd	Starting User Runtime Directory /run/user/119...
+2021/12/17 13:48	systemd-logind	New session 1 of user sddm.
+2021/12/17 13:48	systemd	Finished User Runtime Directory /run/user/119.
+2021/12/17 13:48	systemd	Starting User Manager for UID 119...
+2021/12/17 13:48	systemd	pam_unix(systemd-user:session): session opened for user sddm by (uid=0)
+2021/12/17 13:48	systemd	Queued start job for default target Main User Target.
+2021/12/17 13:48	systemd	Created slice User Application Slice.
+2021/12/17 13:48	systemd	Created slice User Core Session Slice.
+2021/12/17 13:48	systemd	Reached target Paths.
+2021/12/17 13:48	systemd	Reached target Timers.
+2021/12/17 13:48	systemd	Starting D-Bus User Message Bus Socket.
+2021/12/17 13:48	systemd	Listening on GnuPG network certificate management daemon.
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent (ssh-agent emulation).
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent and passphrase cache.
+2021/12/17 13:48	systemd	Listening on Multimedia System.
+2021/12/17 13:48	systemd	Listening on debconf communication socket.
+2021/12/17 13:48	systemd	Listening on Sound System.
+2021/12/17 13:48	systemd	Listening on REST API socket for snapd user session agent.
+2021/12/17 13:48	systemd	Listening on D-Bus User Message Bus Socket.
+2021/12/17 13:48	systemd	Reached target Sockets.
+2021/12/17 13:48	systemd	Reached target Basic System.
+2021/12/17 13:48	systemd	Started User Manager for UID 119.
+2021/12/17 13:48	systemd	Started Multimedia Service.
+2021/12/17 13:48	systemd	Started Session 1 of user sddm.
+2021/12/17 13:48	systemd	Started Multimedia Service Session Manager.
+2021/12/17 13:48	systemd	Starting Sound Service...
+2021/12/17 13:48	sddm	Greeter session started successfully
+2021/12/17 13:48	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.23' (uid=119 pid=874 comm="/usr/bin/pipewire " label="unconfined")
+2021/12/17 13:48	systemd	Starting RealtimeKit Scheduling Policy Service...
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+2021/12/17 13:48	systemd	Started RealtimeKit Scheduling Policy Service.
+2021/12/17 13:48	rtkit-daemon	Successfully called chroot.
+2021/12/17 13:48	rtkit-daemon	Successfully dropped privileges.
+2021/12/17 13:48	rtkit-daemon	Successfully limited resources.
+2021/12/17 13:48	rtkit-daemon	Canary thread running.
+2021/12/17 13:48	rtkit-daemon	Watchdog thread running.
+2021/12/17 13:48	rtkit-daemon	Running.
+2021/12/17 13:48	sddm-greeter	High-DPI autoscaling not Enabled
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 874 of process 874 owned by '119' high priority at nice level -11.
+2021/12/17 13:48	rtkit-daemon	Supervising 1 threads of 1 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 875 of process 875 owned by '119' high priority at nice level -11.
+2021/12/17 13:48	rtkit-daemon	Supervising 2 threads of 2 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 876 of process 876 owned by '119' high priority at nice level -11.
+2021/12/17 13:48	rtkit-daemon	Supervising 3 threads of 3 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 3 threads of 3 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 3 threads of 3 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 3 threads of 3 processes of 1 users.
+2021/12/17 13:48	systemd	Started D-Bus User Message Bus.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 882 of process 875 owned by '119' RT at priority 20.
+2021/12/17 13:48	rtkit-daemon	Supervising 4 threads of 3 processes of 1 users.
+2021/12/17 13:48	dbus-daemon	[session uid=119 pid=883] AppArmor D-Bus mediation is enabled
+2021/12/17 13:48	rtkit-daemon	Supervising 4 threads of 3 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 884 of process 874 owned by '119' RT at priority 20.
+2021/12/17 13:48	rtkit-daemon	Supervising 5 threads of 3 processes of 1 users.
+2021/12/17 13:48	sddm-greeter	Reading from "/usr/share/xsessions/plasma.desktop"
+2021/12/17 13:48	sddm-greeter	Reading from "/usr/share/wayland-sessions/plasmawayland.desktop"
+2021/12/17 13:48	sddm-greeter	Loading theme configuration from "/usr/share/sddm/themes/ubuntu-theme/theme.conf"
+2021/12/17 13:48	sddm-greeter	Connected to the daemon.
+2021/12/17 13:48	sddm-greeter	QFont::fromString: Invalid description '(empty)'
+2021/12/17 13:48	sddm	Message received from greeter: Connect
+2021/12/17 13:48	sddm-greeter	Loading file:///usr/share/sddm/themes/ubuntu-theme/Main.qml...
+2021/12/17 13:48	sddm-greeter	QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QGuiApplication(0x7ffc569b0cf0), parent's thread is QThread(0x561b9bf690e0), current thread is QThread(0x561b9c128900)
+2021/12/17 13:48	sddm-greeter	QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QGuiApplication(0x7ffc569b0cf0), parent's thread is QThread(0x561b9bf690e0), current thread is QThread(0x561b9c128900)
+2021/12/17 13:48	sddm-greeter	QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QGuiApplication(0x7ffc569b0cf0), parent's thread is QThread(0x561b9bf690e0), current thread is QThread(0x561b9c128900)
+2021/12/17 13:48	sddm-greeter	QObject::installEventFilter(): Cannot filter events for objects in a different thread.
+2021/12/17 13:48	rtkit-daemon	Supervising 5 threads of 3 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 903 of process 876 owned by '119' RT at priority 5.
+2021/12/17 13:48	rtkit-daemon	Supervising 6 threads of 3 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 6 threads of 3 processes of 1 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 904 of process 876 owned by '119' RT at priority 5.
+2021/12/17 13:48	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:48	dbus-daemon	[system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.29' (uid=119 pid=876 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+2021/12/17 13:48	systemd	Condition check resulted in Bluetooth service being skipped.
+2021/12/17 13:48	pulseaudio	Failed to open cookie file '/var/lib/sddm/.config/pulse/cookie': No such file or directory
+2021/12/17 13:48	pulseaudio	Failed to load authentication key '/var/lib/sddm/.config/pulse/cookie': No such file or directory
+2021/12/17 13:48	pulseaudio	Failed to open cookie file '/var/lib/sddm/.pulse-cookie': No such file or directory
+2021/12/17 13:48	pulseaudio	Failed to load authentication key '/var/lib/sddm/.pulse-cookie': No such file or directory
+2021/12/17 13:48	systemd	Started Sound Service.
+2021/12/17 13:48	systemd	Reached target Main User Target.
+2021/12/17 13:48	systemd	Startup finished in 735ms.
+2021/12/17 13:48	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.30' (uid=119 pid=877 comm="/usr/bin/sddm-greeter --socket /tmp/sddm-:0-UbueyV" label="unconfined")
+2021/12/17 13:48	systemd	Starting Daemon for power management...
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.freedesktop.UPower'
+2021/12/17 13:48	systemd	Started Daemon for power management.
+2021/12/17 13:48	sddm-greeter	<input>:406:376: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:407:130: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:408:130: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:408:393: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:409:130: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:410:129: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:411:129: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:412:129: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:413:129: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:413:379: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	<input>:413:631: Could not add child element to parent element because the types are incorrect.
+2021/12/17 13:48	sddm-greeter	libpng warning: iCCP: known incorrect sRGB profile
+2021/12/17 13:48	sddm-greeter	Adding view for "HDMI-A-0" QRect(0,0 1920x1080)
+2021/12/17 13:48	sddm-greeter	Loading file:///usr/share/sddm/themes/ubuntu-theme/Main.qml...
+2021/12/17 13:48	sddm-greeter	QQmlEngine::setContextForObject(): Object already has a QQmlContext
+2021/12/17 13:48	sddm-greeter	QQmlEngine::setContextForObject(): Object already has a QQmlContext
+2021/12/17 13:48	ModemManager	<info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.2/0000:02:07.0/0000:05:00.0': not supported by any plugin
+2021/12/17 13:48	sddm-greeter	libpng warning: iCCP: known incorrect sRGB profile
+2021/12/17 13:48	sddm-greeter	Adding view for "DVI-D-0" QRect(1920,0 1680x1050)
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	sddm-greeter	Message received from daemon: Capabilities
+2021/12/17 13:48	sddm-greeter	Message received from daemon: HostName
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	sddm-greeter	qrc:/QtQuick/VirtualKeyboard/content/components/Keyboard.qml:807:9: QML QQuickItem: Binding loop detected for property "width"
+2021/12/17 13:48	systemd	dmesg.service: Deactivated successfully.
+2021/12/17 13:48	sddm-greeter	Reading from "/usr/share/xsessions/plasma.desktop"
+2021/12/17 13:48	sddm	Message received from greeter: Login
+2021/12/17 13:48	sddm	Reading from "/usr/share/xsessions/plasma.desktop"
+2021/12/17 13:48	sddm	Reading from "/usr/share/xsessions/plasma.desktop"
+2021/12/17 13:48	sddm	Session "/usr/share/xsessions/plasma.desktop" selected, command: "/usr/bin/startplasma-x11"
+2021/12/17 13:48	sddm-helper	[PAM] Starting...
+2021/12/17 13:48	sddm-helper	[PAM] Authenticating...
+2021/12/17 13:48	sddm-helper	[PAM] Preparing to converse...
+2021/12/17 13:48	sddm-helper	[PAM] Conversation with 1 messages
+2021/12/17 13:48	sddm-helper	pam_kwallet5(sddm:auth): (null): pam_sm_authenticate
+2021/12/17 13:48	sddm-helper	[PAM] returning.
+2021/12/17 13:48	sddm	Authenticated successfully
+2021/12/17 13:48	sddm-greeter	Message received from daemon: LoginSucceeded
+2021/12/17 13:48	sddm-helper	pam_kwallet5(sddm:setcred): pam_kwallet5: pam_sm_setcred
+2021/12/17 13:48	sddm-helper	pam_unix(sddm:session): session opened for user dongsub by (uid=0)
+2021/12/17 13:48	systemd	Created slice User Slice of UID 1000.
+2021/12/17 13:48	systemd	Starting User Runtime Directory /run/user/1000...
+2021/12/17 13:48	systemd-logind	New session 3 of user dongsub.
+2021/12/17 13:48	NetworkManager	<info>  [1639716492.1044] manager: startup complete
+2021/12/17 13:48	systemd	Finished User Runtime Directory /run/user/1000.
+2021/12/17 13:48	systemd	Finished Network Manager Wait Online.
+2021/12/17 13:48	systemd	Reached target Network is Online.
+2021/12/17 13:48	systemd	Started Make remote CUPS printers available locally.
+2021/12/17 13:48	systemd	Starting Tool to automatically collect and submit kernel crash signatures...
+2021/12/17 13:48	systemd	Starting User Manager for UID 1000...
+2021/12/17 13:48	systemd	Started crash report submission daemon.
+2021/12/17 13:48	systemd	pam_unix(systemd-user:session): session opened for user dongsub by (uid=0)
+2021/12/17 13:48	systemd	kerneloops.service: Found left-over process 975 (kerneloops) in control group while starting unit. Ignoring.
+2021/12/17 13:48	systemd	This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+2021/12/17 13:48	whoopsie	[13:48:12] Using lock path: /var/lock/whoopsie/lock
+2021/12/17 13:48	systemd	Started Tool to automatically collect and submit kernel crash signatures.
+2021/12/17 13:48	whoopsie	[13:48:12] offline
+2021/12/17 13:48	audit	AVC apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=969 comm="cups-browsed" capability=23  capname="sys_nice"
+2021/12/17 13:48	kernel	audit: type=1400 audit(1639716492.123:26): apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=969 comm="cups-browsed" capability=23  capname="sys_nice"
+2021/12/17 13:48	systemd	Queued start job for default target Main User Target.
+2021/12/17 13:48	systemd	Created slice User Application Slice.
+2021/12/17 13:48	systemd	Created slice User Core Session Slice.
+2021/12/17 13:48	systemd	Reached target Paths.
+2021/12/17 13:48	systemd	Reached target Timers.
+2021/12/17 13:48	systemd	Starting D-Bus User Message Bus Socket.
+2021/12/17 13:48	systemd	Listening on GnuPG network certificate management daemon.
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent (ssh-agent emulation).
+2021/12/17 13:48	systemd	Listening on GnuPG cryptographic agent and passphrase cache.
+2021/12/17 13:48	systemd	Listening on Multimedia System.
+2021/12/17 13:48	systemd	Listening on debconf communication socket.
+2021/12/17 13:48	systemd	Listening on Sound System.
+2021/12/17 13:48	systemd	Listening on REST API socket for snapd user session agent.
+2021/12/17 13:48	systemd	Listening on D-Bus User Message Bus Socket.
+2021/12/17 13:48	systemd	Reached target Sockets.
+2021/12/17 13:48	systemd	Reached target Basic System.
+2021/12/17 13:48	systemd	Started User Manager for UID 1000.
+2021/12/17 13:48	systemd	Started Multimedia Service.
+2021/12/17 13:48	systemd	Started Session 3 of user dongsub.
+2021/12/17 13:48	systemd	Started Multimedia Service Session Manager.
+2021/12/17 13:48	systemd	Starting Sound Service...
+2021/12/17 13:48	sddm-helper	[PAM] Closing session
+2021/12/17 13:48	sddm-helper	pam_unix(sddm-greeter:session): session closed for user sddm
+2021/12/17 13:48	sddm-helper	pam_kwallet5(sddm:session): pam_kwallet5: pam_sm_open_session
+2021/12/17 13:48	sddm-helper	[PAM] Ended.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 986 of process 986 owned by '1000' high priority at nice level -11.
+2021/12/17 13:48	rtkit-daemon	Supervising 8 threads of 4 processes of 2 users.
+2021/12/17 13:48	sddm	Auth: sddm-helper exited successfully
+2021/12/17 13:48	sddm	Greeter stopped.
+2021/12/17 13:48	systemd	session-1.scope: Deactivated successfully.
+2021/12/17 13:48	systemd	session-1.scope: Consumed 2.324s CPU time.
+2021/12/17 13:48	systemd-logind	Session 1 logged out. Waiting for processes to exit.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 987 of process 987 owned by '1000' high priority at nice level -11.
+2021/12/17 13:48	rtkit-daemon	Supervising 9 threads of 5 processes of 2 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 9 threads of 5 processes of 2 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 9 threads of 5 processes of 2 users.
+2021/12/17 13:48	systemd-logind	Removed session 1.
+2021/12/17 13:48	rtkit-daemon	Supervising 9 threads of 5 processes of 2 users.
+2021/12/17 13:48	systemd	Started D-Bus User Message Bus.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 991 of process 987 owned by '1000' RT at priority 20.
+2021/12/17 13:48	rtkit-daemon	Supervising 10 threads of 5 processes of 2 users.
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] AppArmor D-Bus mediation is enabled
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 988 of process 988 owned by '1000' high priority at nice level -11.
+2021/12/17 13:48	rtkit-daemon	Supervising 11 threads of 6 processes of 2 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 11 threads of 6 processes of 2 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 993 of process 986 owned by '1000' RT at priority 20.
+2021/12/17 13:48	rtkit-daemon	Supervising 12 threads of 6 processes of 2 users.
+2021/12/17 13:48	systemd	pulseaudio.service: Deactivated successfully.
+2021/12/17 13:48	sddm-helper	pam_kwallet5: final socket path: /run/user/1000/kwallet5.socket
+2021/12/17 13:48	sddm-helper	Starting: "/etc/sddm/Xsession \"/usr/bin/startplasma-x11\""
+2021/12/17 13:48	sddm-helper	Adding cookie to "/home/dongsub/.Xauthority"
+2021/12/17 13:48	sddm	Session started
+2021/12/17 13:48	rtkit-daemon	Supervising 9 threads of 5 processes of 2 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 1091 of process 988 owned by '1000' RT at priority 5.
+2021/12/17 13:48	rtkit-daemon	Supervising 10 threads of 5 processes of 2 users.
+2021/12/17 13:48	rtkit-daemon	Supervising 10 threads of 5 processes of 2 users.
+2021/12/17 13:48	rtkit-daemon	Successfully made thread 1092 of process 988 owned by '1000' RT at priority 5.
+2021/12/17 13:48	rtkit-daemon	Supervising 11 threads of 5 processes of 2 users.
+2021/12/17 13:48	pulseaudio	Failed to open cookie file '/home/dongsub/.config/pulse/cookie': No such file or directory
+2021/12/17 13:48	pulseaudio	Failed to load authentication key '/home/dongsub/.config/pulse/cookie': No such file or directory
+2021/12/17 13:48	pulseaudio	Failed to open cookie file '/home/dongsub/.pulse-cookie': No such file or directory
+2021/12/17 13:48	pulseaudio	Failed to load authentication key '/home/dongsub/.pulse-cookie': No such file or directory
+2021/12/17 13:48	systemd	Started Sound Service.
+2021/12/17 13:48	systemd	Reached target Main User Target.
+2021/12/17 13:48	systemd	Startup finished in 387ms.
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating service name='org.kde.KSplash' requested by ':1.9' (uid=1000 pid=996 comm="/usr/bin/startplasma-x11 " label="unconfined")
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'org.kde.KSplash'
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='ca.desrt.dconf' unit='dconf.service' requested by ':1.16' (uid=1000 pid=1242 comm="/usr/bin/kded5 " label="unconfined")
+2021/12/17 13:48	systemd	Starting User preferences database...
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'ca.desrt.dconf'
+2021/12/17 13:48	systemd	Started User preferences database.
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.kglobalaccel' unit='plasma-kglobalaccel.service' requested by ':1.17' (uid=1000 pid=1246 comm="/usr/bin/kwin_x11 " label="unconfined")
+2021/12/17 13:48	systemd	Created slice User Background Tasks Slice.
+2021/12/17 13:48	systemd	Starting KDE Global Shortcuts Server...
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'org.kde.kglobalaccel'
+2021/12/17 13:48	systemd	Started KDE Global Shortcuts Server.
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.ActivityManager' unit='plasma-kactivitymanagerd.service' requested by ':1.15' (uid=1000 pid=1242 comm="/usr/bin/kded5 " label="unconfined")
+2021/12/17 13:48	systemd	Starting KActivityManager Activity manager Service...
+2021/12/17 13:48	NetworkManager	<info>  [1639716493.5954] agent-manager: agent[1e924316156b0830,:1.47/org.kde.plasma.networkmanagement/1000]: agent registered
+2021/12/17 13:48	dbus-daemon	[system] Activating service name='org.kde.powerdevil.discretegpuhelper' requested by ':1.49' (uid=1000 pid=1303 comm="/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdev" label="unconfined") (using servicehelper)
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'org.kde.ActivityManager'
+2021/12/17 13:48	systemd	Started KActivityManager Activity manager Service.
+2021/12/17 13:48	polkitd(authority=local)	Registered Authentication Agent for unix-session:3 (system bus name :1.52 [/usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1], object path /org/kde/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.kde.powerdevil.discretegpuhelper'
+2021/12/17 13:48	dbus-daemon	[system] Activating service name='org.kde.powerdevil.chargethresholdhelper' requested by ':1.49' (uid=1000 pid=1303 comm="/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdev" label="unconfined") (using servicehelper)
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.kde.powerdevil.chargethresholdhelper'
+2021/12/17 13:48	dbus-daemon	[system] Activating service name='org.kde.powerdevil.backlighthelper' requested by ':1.49' (uid=1000 pid=1303 comm="/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdev" label="unconfined") (using servicehelper)
+2021/12/17 13:48	org.kde.powerdevil.backlighthelper	org.kde.powerdevil: no kernel backlight interface found
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.kde.powerdevil.backlighthelper'
+2021/12/17 13:48	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.64' (uid=1000 pid=1356 comm="/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier" label="unconfined")
+2021/12/17 13:48	systemd	Starting PackageKit Daemon...
+2021/12/17 13:48	PackageKit	daemon start
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating service name='org.kde.KScreen' requested by ':1.23' (uid=1000 pid=1303 comm="/usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdev" label="unconfined")
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.freedesktop.PackageKit'
+2021/12/17 13:48	systemd	Started PackageKit Daemon.
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'org.kde.KScreen'
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Connected output 88 to CRTC 79
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Connected output 89 to CRTC 80
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: Detected XRandR 1.6
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: Event Base:  89
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: Event Error:  147
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating service name='org.freedesktop.Notifications' requested by ':1.31' (uid=1000 pid=1342 comm="/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd " label="unconfined")
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.bluez.obex' unit='dbus-org.bluez.obex.service' requested by ':1.15' (uid=1000 pid=1242 comm="/usr/bin/kded5 " label="unconfined")
+2021/12/17 13:48	dbus-daemon	[system] Activating service name='org.kde.kded.smart' requested by ':1.47' (uid=1000 pid=1242 comm="/usr/bin/kded5 " label="unconfined") (using servicehelper)
+2021/12/17 13:48	systemd	Starting Bluetooth OBEX service...
+2021/12/17 13:48	obexd	OBEX daemon 5.60
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'org.bluez.obex'
+2021/12/17 13:48	systemd	Started Bluetooth OBEX service.
+2021/12/17 13:48	dbus-daemon	[system] Successfully activated service 'org.kde.kded.smart'
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandR::setConfig
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Requested screen size is QSize(3600, 1080)
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Needed CRTCs:  2
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Actions to perform:
+2021/12/17 13:48	org.kde.KScreen	 	Primary Output: true
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 		Old: 85
+2021/12/17 13:48	org.kde.KScreen	 		New: 88
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 	Change Screen Size: false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 	Disable outputs: false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 	Change outputs: true
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 		 (88, 89)
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 	Enable outputs: false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/17 13:48	org.kde.KScreen	 	Output: 88 ( "HDMI-A-0" )
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 79
+2021/12/17 13:48	org.kde.KScreen	 	Pos: QPoint(0,0)
+2021/12/17 13:48	org.kde.KScreen	 	Mode: 91 KScreen::Mode(Id: "91" , Size: QSize(1920, 1080) @ 60 )
+2021/12/17 13:48	org.kde.KScreen	 	Rotation: KScreen::Output::None
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 	Result:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/17 13:48	org.kde.KScreen	 	m_connected: 0
+2021/12/17 13:48	org.kde.KScreen	 	m_crtc XRandRCrtc(0x55ee40d5ad30)
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 79
+2021/12/17 13:48	org.kde.KScreen	 	MODE: 91
+2021/12/17 13:48	org.kde.KScreen	 	Connection: 0
+2021/12/17 13:48	org.kde.KScreen	 	Primary: true
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: RRSetCrtcConfig (change output)
+2021/12/17 13:48	org.kde.KScreen	 	Output: 89 ( "DVI-D-0" )
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 80
+2021/12/17 13:48	org.kde.KScreen	 	Pos: QPoint(1920,0)
+2021/12/17 13:48	org.kde.KScreen	 	Mode: 116 KScreen::Mode(Id: "116" , Size: QSize(1680, 1050) @ 59.9543 )
+2021/12/17 13:48	org.kde.KScreen	 	Rotation: KScreen::Output::None
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: 	Result:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandROutput 89 update
+2021/12/17 13:48	org.kde.KScreen	 	m_connected: 0
+2021/12/17 13:48	org.kde.KScreen	 	m_crtc XRandRCrtc(0x55ee40d619e0)
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 80
+2021/12/17 13:48	org.kde.KScreen	 	MODE: 116
+2021/12/17 13:48	org.kde.KScreen	 	Connection: 0
+2021/12/17 13:48	org.kde.KScreen	 	Primary: false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: RRSetOutputPrimary
+2021/12/17 13:48	org.kde.KScreen	 	New primary: 88
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandR::setConfig done!
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Output:  85
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: RRScreenChangeNotify
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Window: 48234501
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Root: 1736
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Size ID: 65535
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Size:  3600 1080
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	SizeMM:  952 285
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Output:  85
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Disconnected"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: RRNotify_OutputChange
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Output:  88
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	CRTC:  79
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Mode:  91
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Rotation:  "Rotate_0"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Connection:  "Connected"
+2021/12/17 13:48	org.kde.KScreen	kscreen.xcb.helper: 	Subpixel Order:  0
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandROutput 85 update
+2021/12/17 13:48	org.kde.KScreen	 	m_connected: 1
+2021/12/17 13:48	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 0
+2021/12/17 13:48	org.kde.KScreen	 	MODE: 0
+2021/12/17 13:48	org.kde.KScreen	 	Connection: 1
+2021/12/17 13:48	org.kde.KScreen	 	Primary: false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Output 85 : connected = false , enabled = false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/17 13:48	org.kde.KScreen	 	m_connected: 0
+2021/12/17 13:48	org.kde.KScreen	 	m_crtc XRandRCrtc(0x55ee40d5ad30)
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 79
+2021/12/17 13:48	org.kde.KScreen	 	MODE: 91
+2021/12/17 13:48	org.kde.KScreen	 	Connection: 0
+2021/12/17 13:48	org.kde.KScreen	 	Primary: true
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandROutput 85 update
+2021/12/17 13:48	org.kde.KScreen	 	m_connected: 1
+2021/12/17 13:48	org.kde.KScreen	 	m_crtc QObject(0x0)
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 0
+2021/12/17 13:48	org.kde.KScreen	 	MODE: 0
+2021/12/17 13:48	org.kde.KScreen	 	Connection: 1
+2021/12/17 13:48	org.kde.KScreen	 	Primary: false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Output 85 : connected = false , enabled = false
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: XRandROutput 88 update
+2021/12/17 13:48	org.kde.KScreen	 	m_connected: 0
+2021/12/17 13:48	org.kde.KScreen	 	m_crtc XRandRCrtc(0x55ee40d5ad30)
+2021/12/17 13:48	org.kde.KScreen	 	CRTC: 79
+2021/12/17 13:48	org.kde.KScreen	 	MODE: 91
+2021/12/17 13:48	org.kde.KScreen	 	Connection: 0
+2021/12/17 13:48	org.kde.KScreen	 	Primary: true
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Output 88 : connected = true , enabled = true
+2021/12/17 13:48	org.kde.KScreen	kscreen.xrandr: Emitting configChanged()
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'org.freedesktop.Notifications'
+2021/12/17 13:48	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Started Dolphin - File Manager.
+2021/12/17 13:48	systemd	Stopping User Manager for UID 119...
+2021/12/17 13:48	systemd	Stopped target Main User Target.
+2021/12/17 13:48	systemd	Stopping D-Bus User Message Bus...
+2021/12/17 13:48	systemd	Stopping Multimedia Service Session Manager...
+2021/12/17 13:48	systemd	dbus.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Stopped D-Bus User Message Bus.
+2021/12/17 13:48	systemd	pipewire-media-session.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Stopped Multimedia Service Session Manager.
+2021/12/17 13:48	systemd	Stopping Multimedia Service...
+2021/12/17 13:48	systemd	pipewire.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Stopped Multimedia Service.
+2021/12/17 13:48	systemd	Removed slice User Core Session Slice.
+2021/12/17 13:48	systemd	Stopped target Basic System.
+2021/12/17 13:48	systemd	Stopped target Paths.
+2021/12/17 13:48	systemd	Stopped target Sockets.
+2021/12/17 13:48	systemd	Stopped target Timers.
+2021/12/17 13:48	systemd	dbus.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed D-Bus User Message Bus Socket.
+2021/12/17 13:48	systemd	dirmngr.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed GnuPG network certificate management daemon.
+2021/12/17 13:48	systemd	gpg-agent-browser.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+2021/12/17 13:48	systemd	gpg-agent-extra.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed GnuPG cryptographic agent and passphrase cache (restricted).
+2021/12/17 13:48	systemd	gpg-agent-ssh.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed GnuPG cryptographic agent (ssh-agent emulation).
+2021/12/17 13:48	systemd	gpg-agent.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed GnuPG cryptographic agent and passphrase cache.
+2021/12/17 13:48	systemd	pipewire.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed Multimedia System.
+2021/12/17 13:48	systemd	pk-debconf-helper.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed debconf communication socket.
+2021/12/17 13:48	systemd	pulseaudio.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed Sound System.
+2021/12/17 13:48	systemd	snapd.session-agent.socket: Deactivated successfully.
+2021/12/17 13:48	systemd	Closed REST API socket for snapd user session agent.
+2021/12/17 13:48	systemd	Removed slice User Application Slice.
+2021/12/17 13:48	systemd	Reached target Shutdown.
+2021/12/17 13:48	systemd	systemd-exit.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Finished Exit the Session.
+2021/12/17 13:48	systemd	Reached target Exit the Session.
+2021/12/17 13:48	systemd	user@119.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Stopped User Manager for UID 119.
+2021/12/17 13:48	systemd	Stopping User Runtime Directory /run/user/119...
+2021/12/17 13:48	systemd	run-user-119.mount: Deactivated successfully.
+2021/12/17 13:48	systemd	user-runtime-dir@119.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Stopped User Runtime Directory /run/user/119.
+2021/12/17 13:48	systemd	run-user-119.mount: Deactivated successfully.
+2021/12/17 13:48	systemd	Removed slice User Slice of UID 119.
+2021/12/17 13:48	systemd	user-119.slice: Consumed 2.559s CPU time.
+2021/12/17 13:48	systemd	app-org.kde.dolphin-e7ea3a6e53de4dccba9679a3bd69a19f.scope: Deactivated successfully.
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 13:48	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 13:48	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 13:48	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 13:48	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 13:48	systemd	Started System Settings - System Settings.
+2021/12/17 13:48	systemd	systemd-fsckd.service: Deactivated successfully.
+2021/12/17 13:48	dbus-daemon	[system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2021/12/17 13:48	pulseaudio	GetManagedObjects() failed: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2021/12/17 13:48	PackageKit	get-updates transaction /1_cbcceadb from uid 1000 finished with success after 57ms
+2021/12/17 13:48	systemd	systemd-hostnamed.service: Deactivated successfully.
+2021/12/17 13:48	snapd	stateengine.go:149: state ensure error: persistent network error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io: Temporary failure in name resolution
+2021/12/17 13:48	systemd	Finished Wait until snapd is fully seeded.
+2021/12/17 13:48	systemd	Condition check resulted in Auto import assertions from block devices being skipped.
+2021/12/17 13:48	systemd	Reached target Multi-User System.
+2021/12/17 13:48	systemd	Reached target Graphical Interface.
+2021/12/17 13:48	systemd	Starting Update UTMP about System Runlevel Changes...
+2021/12/17 13:48	systemd	systemd-update-utmp-runlevel.service: Deactivated successfully.
+2021/12/17 13:48	systemd	Finished Update UTMP about System Runlevel Changes.
+2021/12/17 13:48	systemd	Startup finished in 12.736s (firmware) + 4.470s (loader) + 2.863s (kernel) + 37.638s (userspace) = 57.708s.
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Activating service name='org.kde.fontinst' requested by ':1.46' (uid=1000 pid=1618 comm="/usr/bin/systemsettings5 " label="unconfined")
+2021/12/17 13:48	dbus-daemon	[session uid=1000 pid=992] Successfully activated service 'org.kde.fontinst'
+2021/12/17 13:48	org.kde.fontinst	1639716519 Connecting to session bus
+2021/12/17 13:48	org.kde.fontinst	1639716519 Failed to register service!
+2021/12/17 13:48	snapd	daemon.go:502: gracefully waiting for running hooks
+2021/12/17 13:48	snapd	daemon.go:504: done waiting for running hooks
+2021/12/17 13:48	snapd	daemon stop requested to wait for socket activation
+2021/12/17 13:48	systemd	snapd.service: Deactivated successfully.
+2021/12/17 13:49	dbus-daemon	[system] Activating service name='org.kde.ufw' requested by ':1.79' (uid=1000 pid=1618 comm="/usr/bin/systemsettings5 " label="unconfined") (using servicehelper)
+2021/12/17 13:49	dbus-daemon	[system] Successfully activated service 'org.kde.ufw'
+2021/12/17 13:49	polkitd(authority=local)	Operator of unix-session:3 successfully authenticated as unix-user:dongsub to gain TEMPORARY authorization for action org.kde.ufw.modify for system-bus-name::1.79 [/usr/bin/systemsettings5] (owned by unix-user:dongsub)
+2021/12/17 13:50	systemd	Started Konsole - Terminal.
+2021/12/17 13:50	dbus-daemon	[session uid=1000 pid=992] Failed to activate service 'org.kde.runners.baloo': timed out (service_start_timeout=120000ms)
+2021/12/17 13:50	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 13:50	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 13:50	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 13:50	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 13:50	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 13:50	systemd	app-systemsettings-da0ace7758424cd5be94f5c6c876cea9.scope: Deactivated successfully.
+2021/12/17 13:50	systemd	app-systemsettings-da0ace7758424cd5be94f5c6c876cea9.scope: Consumed 10.658s CPU time.
+2021/12/17 13:50	systemd	Started Firefox Web Browser - Web Browser.
+2021/12/17 13:50	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Successfully made thread 2170 of process 2010 owned by '1000' RT at priority 10.
+2021/12/17 13:50	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:50	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5128] device (enp5s0): carrier: link connected
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5133] device (enp5s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5144] policy: auto-activating connection 'Wired connection 1' (4620002b-b4f0-38a5-a54f-b8bd013c2582)
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5153] device (enp5s0): Activation: starting connection 'Wired connection 1' (4620002b-b4f0-38a5-a54f-b8bd013c2582)
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5155] device (enp5s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2021/12/17 13:50	kernel	r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/17 13:50	kernel	IPv6: ADDRCONF(NETDEV_CHANGE): enp5s0: link becomes ready
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5159] manager: NetworkManager state is now CONNECTING
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5162] device (enp5s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5172] device (enp5s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2021/12/17 13:50	NetworkManager	<info>  [1639716656.5178] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/17 13:50	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv6 with address fe80::d660:b252:be2e:ab10.
+2021/12/17 13:50	avahi-daemon	New relevant interface enp5s0.IPv6 for mDNS.
+2021/12/17 13:50	avahi-daemon	Registering new address record for fe80::d660:b252:be2e:ab10 on enp5s0.*.
+2021/12/17 13:50	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 13:50	NetworkManager	<info>  [1639716658.5196] device (enp5s0): carrier: link connected
+2021/12/17 13:50	kernel	r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6403] dhcp4 (enp5s0): state changed unknown -> bound, address=192.168.123.100
+2021/12/17 13:50	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/17 13:50	avahi-daemon	New relevant interface enp5s0.IPv4 for mDNS.
+2021/12/17 13:50	avahi-daemon	Registering new address record for 192.168.123.100 on enp5s0.IPv4.
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6420] device (enp5s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2021/12/17 13:50	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 13:50	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 13:50	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 13:50	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 13:50	whoopsie	[13:50:59] Cannot reach: https://daisy.ubuntu.com
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6536] device (enp5s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6538] device (enp5s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6541] manager: NetworkManager state is now CONNECTED_LOCAL
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6543] manager: NetworkManager state is now CONNECTED_SITE
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6543] policy: set 'Wired connection 1' (enp5s0) as default for IPv4 routing and DNS
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6546] device (enp5s0): Activation: successful, device activated.
+2021/12/17 13:50	NetworkManager	<info>  [1639716659.6550] manager: NetworkManager state is now CONNECTED_GLOBAL
+2021/12/17 13:50	systemd-resolved	enp5s0: Bus client set default route setting: yes
+2021/12/17 13:50	whoopsie	[13:50:59] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/17 13:50	systemd-resolved	enp5s0: Bus client set DNS server list to: 168.126.63.1, 168.126.63.2
+2021/12/17 13:50	whoopsie	[13:50:59] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/17 13:50	whoopsie	[13:50:59] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+2021/12/17 13:50	systemd-resolved	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 168.126.63.1.
+2021/12/17 13:50	whoopsie	[13:50:59] online
+2021/12/17 13:50	PackageKit	get-updates transaction /2_ccedbeae from uid 1000 finished with success after 30ms
+2021/12/17 13:51	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:51	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:51	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 13:51	systemd-timesyncd	Timed out waiting for reply from 192.168.123.254:123 (ntp.ubuntu.com).
+2021/12/17 13:51	NetworkManager	<info>  [1639716673.6682] dhcp4 (enp5s0): state changed bound -> extended, address=192.168.123.100
+2021/12/17 13:51	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 13:51	systemd-resolved	enp5s0: Bus client set DNS server list to: 192.168.123.254
+2021/12/17 13:51	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 13:51	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 13:51	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 13:51	systemd-resolved	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 168.126.63.2.
+2021/12/17 13:51	sudo	 dongsub : TTY=pts/1 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/bin/apt install wireshark
+2021/12/17 13:51	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:51	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 13:51	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 13:51	NetworkManager	<info>  [1639716688.6550] dhcp4 (enp5s0): state changed extended -> extended, address=192.168.123.100
+2021/12/17 13:51	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 13:51	systemd-resolved	enp5s0: Bus client set DNS server list to: 210.220.163.82, 219.250.36.130
+2021/12/17 13:51	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 13:51	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 13:51	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 13:51	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 13:51	systemd-resolved	Clock change detected. Flushing caches.
+2021/12/17 13:51	systemd-timesyncd	Initial synchronization to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2021/12/17 13:52	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:52	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:52	dbus-daemon	[session uid=1000 pid=992] Failed to activate service 'org.kde.runners.baloo': timed out (service_start_timeout=120000ms)
+2021/12/17 13:52	sudo	 dongsub : TTY=pts/1 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/bin/apt update
+2021/12/17 13:52	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:53	PackageKit	get-updates transaction /3_eeeaddbe from uid 1000 finished with success after 1021ms
+2021/12/17 13:53	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 13:53	anacron	Job `cron.daily' started
+2021/12/17 13:53	anacron	Updated timestamp for job `cron.daily' to 2021-12-17
+2021/12/17 13:53	anacron	Job `cron.daily' terminated
+2021/12/17 13:53	sudo	 dongsub : TTY=pts/1 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/bin/apt upgrade
+2021/12/17 13:53	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:53	PackageKit	uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+2021/12/17 13:53	PackageKit	uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+2021/12/17 13:53	PackageKit	refresh-cache transaction /4_cebeaccc from uid 1000 finished with success after 2883ms
+2021/12/17 13:53	PackageKit	get-updates transaction /5_bcecdcaa from uid 1000 finished with success after 1051ms
+2021/12/17 13:54	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:54	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:55	systemd	Reloading.
+2021/12/17 13:55	systemd	Starting Ubuntu Advantage APT and MOTD Messages...
+2021/12/17 13:55	systemd	fstrim.timer: Deactivated successfully.
+2021/12/17 13:55	systemd	Stopped Discard unused blocks once a week.
+2021/12/17 13:55	systemd	Stopping Discard unused blocks once a week.
+2021/12/17 13:55	systemd	Started Discard unused blocks once a week.
+2021/12/17 13:55	systemd	Reloading.
+2021/12/17 13:55	systemd	ua-messaging.service: Deactivated successfully.
+2021/12/17 13:55	systemd	Finished Ubuntu Advantage APT and MOTD Messages.
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	systemd	ua-messaging.timer: Deactivated successfully.
+2021/12/17 13:55	systemd	Stopped Ubuntu Advantage update messaging.
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	[session uid=1000 pid=992] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	[session uid=1000 pid=992] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	[session uid=1000 pid=992] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	[session uid=1000 pid=992] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	[session uid=1000 pid=992] Reloaded configuration
+2021/12/17 13:55	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:55	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:55	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:55	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:55	rtkit-daemon	Successfully made thread 4855 of process 2481 owned by '1000' RT at priority 10.
+2021/12/17 13:55	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:55	NetworkManager	<info>  [1639716926.3637] manager: kernel firmware directory '/lib/firmware' changed
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Starting Message of the Day...
+2021/12/17 13:56	systemd	motd-news.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Finished Message of the Day.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading D-Bus System Message Bus.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	dbus-send	method return time=1639716976.259806 sender=org.freedesktop.DBus -> destination=:1.106 serial=3 reply_serial=2
+2021/12/17 13:56	systemd	Reloaded D-Bus System Message Bus.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Condition check resulted in Bluetooth service being skipped.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	uuidd.socket: Deactivated successfully.
+2021/12/17 13:56	systemd	Closed UUID daemon activation socket.
+2021/12/17 13:56	systemd	Stopping UUID daemon activation socket.
+2021/12/17 13:56	systemd	Listening on UUID daemon activation socket.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Started Ubuntu Advantage Timer for running repeated jobs.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Started Trigger to poll for Ubuntu Pro licenses (Only enabled on GCP LTS non-pro).
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Stopping Accounts Service...
+2021/12/17 13:56	systemd	accounts-daemon.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Stopped Accounts Service.
+2021/12/17 13:56	systemd	Starting Accounts Service...
+2021/12/17 13:56	accounts-daemon	started daemon version 0.6.55
+2021/12/17 13:56	systemd	Started Accounts Service.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+2021/12/17 13:56	systemd	Condition check resulted in Unix socket for apport crash forwarding being skipped.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Stopping LSB: automatic crash report generation...
+2021/12/17 13:56	apport	 * Stopping automatic crash report generation: apport
+2021/12/17 13:56	apport	   ...done.
+2021/12/17 13:56	systemd	apport.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Stopped LSB: automatic crash report generation.
+2021/12/17 13:56	systemd	Starting LSB: automatic crash report generation...
+2021/12/17 13:56	apport	 * Starting automatic crash report generation: apport
+2021/12/17 13:56	apport	   ...done.
+2021/12/17 13:56	systemd	Started LSB: automatic crash report generation.
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-oosplash" pid=16609 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716986.690:27): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-oosplash" pid=16609 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-senddoc" pid=16614 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716986.722:28): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-senddoc" pid=16614 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716991.010:29): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice//gpg" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716991.014:30): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice//gpg" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-xpdfimport" pid=16621 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716991.066:31): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-xpdfimport" pid=16621 comm="apparmor_parser"
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=104.21.26.155 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38538 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.35.219.82 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=35502 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=104.21.26.155 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38548 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=104.21.26.155 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38540 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.225.114.41 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=57406 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.85.231.34 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=52420 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=99.86.202.7 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=51662 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=54.230.168.63 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=34604 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=54.230.167.130 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38902 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=172.217.25.67 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=58906 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	systemd	Stopping System Logging Service...
+2021/12/17 13:56	rsyslogd	[origin software="rsyslogd" swVersion="8.2102.0" x-pid="678" x-info="https://www.rsyslog.com"] exiting on signal 15.
+2021/12/17 13:56	systemd	rsyslog.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Stopped System Logging Service.
+2021/12/17 13:56	systemd	Starting System Logging Service...
+2021/12/17 13:56	rsyslogd	imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2102.0]
+2021/12/17 13:56	rsyslogd	rsyslogd's groupid changed to 111
+2021/12/17 13:56	systemd	Started System Logging Service.
+2021/12/17 13:56	rsyslogd	rsyslogd's userid changed to 104
+2021/12/17 13:56	rsyslogd	[origin software="rsyslogd" swVersion="8.2102.0" x-pid="17642" x-info="https://www.rsyslog.com"] start
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Successfully made thread 17841 of process 17494 owned by '1000' RT at priority 10.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Successfully made thread 19840 of process 18034 owned by '1000' RT at priority 10.
+2021/12/17 13:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:56	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 13:56	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 13:56	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 13:56	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 13:56	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 13:56	systemd	Started KSystemLog - System Log Viewer.
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.35.219.82 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=35502 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:57	sudo	 dongsub : TTY=pts/4 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+2021/12/17 13:57	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:57	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 13:57	sudo	 dongsub : TTY=pts/4 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+2021/12/17 13:57	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:57	dbus-daemon	[session uid=0 pid=29542] AppArmor D-Bus mediation is enabled

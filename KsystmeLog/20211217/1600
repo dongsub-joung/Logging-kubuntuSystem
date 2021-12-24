@@ -1,0 +1,1000 @@
+2021/12/17 13:55	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:55	rtkit-daemon	Successfully made thread 4855 of process 2481 owned by '1000' RT at priority 10.
+2021/12/17 13:55	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:55	NetworkManager	<info>  [1639716926.3637] manager: kernel firmware directory '/lib/firmware' changed
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:55	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:55	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Starting Message of the Day...
+2021/12/17 13:56	systemd	motd-news.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Finished Message of the Day.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading D-Bus System Message Bus.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	dbus-send	method return time=1639716976.259806 sender=org.freedesktop.DBus -> destination=:1.106 serial=3 reply_serial=2
+2021/12/17 13:56	systemd	Reloaded D-Bus System Message Bus.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Condition check resulted in Bluetooth service being skipped.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	uuidd.socket: Deactivated successfully.
+2021/12/17 13:56	systemd	Closed UUID daemon activation socket.
+2021/12/17 13:56	systemd	Stopping UUID daemon activation socket.
+2021/12/17 13:56	systemd	Listening on UUID daemon activation socket.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Started Ubuntu Advantage Timer for running repeated jobs.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Started Trigger to poll for Ubuntu Pro licenses (Only enabled on GCP LTS non-pro).
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Stopping Accounts Service...
+2021/12/17 13:56	systemd	accounts-daemon.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Stopped Accounts Service.
+2021/12/17 13:56	systemd	Starting Accounts Service...
+2021/12/17 13:56	accounts-daemon	started daemon version 0.6.55
+2021/12/17 13:56	systemd	Started Accounts Service.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+2021/12/17 13:56	systemd	Condition check resulted in Unix socket for apport crash forwarding being skipped.
+2021/12/17 13:56	systemd	Reloading.
+2021/12/17 13:56	systemd	Stopping LSB: automatic crash report generation...
+2021/12/17 13:56	apport	 * Stopping automatic crash report generation: apport
+2021/12/17 13:56	apport	   ...done.
+2021/12/17 13:56	systemd	apport.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Stopped LSB: automatic crash report generation.
+2021/12/17 13:56	systemd	Starting LSB: automatic crash report generation...
+2021/12/17 13:56	apport	 * Starting automatic crash report generation: apport
+2021/12/17 13:56	apport	   ...done.
+2021/12/17 13:56	systemd	Started LSB: automatic crash report generation.
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-oosplash" pid=16609 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716986.690:27): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-oosplash" pid=16609 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-senddoc" pid=16614 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716986.722:28): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-senddoc" pid=16614 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716991.010:29): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice//gpg" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716991.014:30): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-soffice//gpg" pid=16617 comm="apparmor_parser"
+2021/12/17 13:56	audit	AVC apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-xpdfimport" pid=16621 comm="apparmor_parser"
+2021/12/17 13:56	kernel	audit: type=1400 audit(1639716991.066:31): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libreoffice-xpdfimport" pid=16621 comm="apparmor_parser"
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=104.21.26.155 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38538 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.35.219.82 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=35502 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=104.21.26.155 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38548 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=104.21.26.155 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38540 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.225.114.41 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=57406 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.85.231.34 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=52420 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=99.86.202.7 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=51662 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=54.230.168.63 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=34604 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=54.230.167.130 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38902 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=172.217.25.67 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=58906 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:56	systemd	Stopping System Logging Service...
+2021/12/17 13:56	rsyslogd	[origin software="rsyslogd" swVersion="8.2102.0" x-pid="678" x-info="https://www.rsyslog.com"] exiting on signal 15.
+2021/12/17 13:56	systemd	rsyslog.service: Deactivated successfully.
+2021/12/17 13:56	systemd	Stopped System Logging Service.
+2021/12/17 13:56	systemd	Starting System Logging Service...
+2021/12/17 13:56	rsyslogd	imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2102.0]
+2021/12/17 13:56	rsyslogd	rsyslogd's groupid changed to 111
+2021/12/17 13:56	systemd	Started System Logging Service.
+2021/12/17 13:56	rsyslogd	rsyslogd's userid changed to 104
+2021/12/17 13:56	rsyslogd	[origin software="rsyslogd" swVersion="8.2102.0" x-pid="17642" x-info="https://www.rsyslog.com"] start
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 7 threads of 3 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Successfully made thread 17841 of process 17494 owned by '1000' RT at priority 10.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 13:56	dbus-daemon	[system] Reloaded configuration
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 8 threads of 4 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Successfully made thread 19840 of process 18034 owned by '1000' RT at priority 10.
+2021/12/17 13:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:56	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:56	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 13:56	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 13:56	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 13:56	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 13:56	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 13:56	systemd	Started KSystemLog - System Log Viewer.
+2021/12/17 13:56	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.35.219.82 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=35502 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:57	sudo	 dongsub : TTY=pts/4 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+2021/12/17 13:57	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:57	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 13:57	sudo	 dongsub : TTY=pts/4 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/lib/x86_64-linux-gnu/libexec/kf5/kdesu_stub -
+2021/12/17 13:57	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:57	dbus-daemon	[session uid=0 pid=29542] AppArmor D-Bus mediation is enabled
+2021/12/17 13:57	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.35.219.82 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=35502 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:57	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=172.217.175.234 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=50128 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:57	kernel	SGI XFS with ACLs, security attributes, realtime, quota, no debug enabled
+2021/12/17 13:57	kernel	JFS: nTxBlock = 8192, nTxLock = 65536
+2021/12/17 13:57	kernel	ntfs: driver 2.1.32 [Flags: R/O MODULE].
+2021/12/17 13:57	kernel	QNX4 filesystem 0.2.3 registered.
+2021/12/17 13:57	kernel	raid6: avx2x4   gen() 343591 MB/s
+2021/12/17 13:57	kernel	raid6: avx2x4   xor() 116555 MB/s
+2021/12/17 13:57	kernel	raid6: avx2x2   gen() 385350 MB/s
+2021/12/17 13:57	kernel	raid6: avx2x2   xor() 268425 MB/s
+2021/12/17 13:57	kernel	raid6: avx2x1   gen() 377288 MB/s
+2021/12/17 13:57	kernel	raid6: avx2x1   xor() 232026 MB/s
+2021/12/17 13:57	kernel	raid6: sse2x4   gen() 253528 MB/s
+2021/12/17 13:57	kernel	raid6: sse2x4   xor() 135082 MB/s
+2021/12/17 13:57	kernel	raid6: sse2x2   gen() 289321 MB/s
+2021/12/17 13:57	kernel	raid6: sse2x2   xor() 163331 MB/s
+2021/12/17 13:57	kernel	raid6: sse2x1   gen() 213425 MB/s
+2021/12/17 13:57	kernel	raid6: sse2x1   xor() 131151 MB/s
+2021/12/17 13:57	kernel	raid6: using algorithm avx2x2 gen() 17032 MB/s
+2021/12/17 13:57	kernel	raid6: .... xor() 268425 MB/s, rmw enabled
+2021/12/17 13:57	kernel	raid6: using avx2x2 recovery algorithm
+2021/12/17 13:57	kernel	xor: automatically using best checksumming function   avx       
+2021/12/17 13:57	kernel	Btrfs loaded, crc32c=crc32c-intel, zoned=yes
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/05efi on mounted /dev/sda1
+2021/12/17 13:57	05efi	debug: /dev/sda1 is a FAT32 partition
+2021/12/17 13:57	05efi	debug: /dev/sda1 partition scheme is gpt
+2021/12/17 13:57	05efi	debug: /dev/sda1 partition type is c12a7328-f81f-11d2-ba4b-00a0c93ec93b
+2021/12/17 13:57	05efi	debug: running subtest /usr/lib/os-probes/mounted/efi/10elilo
+2021/12/17 13:57	05efi	debug: running subtest /usr/lib/os-probes/mounted/efi/20microsoft
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/10freedos on mounted /dev/sda1
+2021/12/17 13:57	10freedos	debug: /dev/sda1 is a FAT32 partition
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/10qnx on mounted /dev/sda1
+2021/12/17 13:57	10qnx	debug: /dev/sda1 is not a QNX4 partition: exiting
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/20macosx on mounted /dev/sda1
+2021/12/17 13:57	macosx-prober	debug: /dev/sda1 is not an HFS+ partition: exiting
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/20microsoft on mounted /dev/sda1
+2021/12/17 13:57	20microsoft	debug: Skipping legacy bootloaders on UEFI system
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/30utility on mounted /dev/sda1
+2021/12/17 13:57	30utility	debug: /dev/sda1 is a FAT32 partition
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/40lsb on mounted /dev/sda1
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/70hurd on mounted /dev/sda1
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/80minix on mounted /dev/sda1
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/83haiku on mounted /dev/sda1
+2021/12/17 13:57	83haiku	debug: /dev/sda1 is not a BeFS partition: exiting
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/90linux-distro on mounted /dev/sda1
+2021/12/17 13:57	os-prober	debug: running /usr/lib/os-probes/mounted/90solaris on mounted /dev/sda1
+2021/12/17 13:57	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 13:57	PackageKit	get-updates transaction /6_acdaaddc from uid 1000 finished with success after 391ms
+2021/12/17 13:58	anacron	Job `cron.weekly' started
+2021/12/17 13:58	anacron	Updated timestamp for job `cron.weekly' to 2021-12-17
+2021/12/17 13:58	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=104.21.26.155 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38538 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 13:58	anacron	Job `cron.weekly' terminated
+2021/12/17 13:58	dbus-daemon	[session uid=1000 pid=992] Failed to activate service 'org.kde.runners.baloo': timed out (service_start_timeout=120000ms)
+2021/12/17 13:59	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:59	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:59	sudo	 dongsub : TTY=pts/1 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/bin/apt install wireshark
+2021/12/17 13:59	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 13:59	groupadd	group added to /etc/group: name=wireshark, GID=134
+2021/12/17 13:59	groupadd	group added to /etc/gshadow: name=wireshark
+2021/12/17 13:59	groupadd	new group: name=wireshark, GID=134
+2021/12/17 13:59	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 13:59	PackageKit	get-updates transaction /7_ccdcecbc from uid 1000 finished with success after 376ms
+2021/12/17 13:59	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 13:59	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:00	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:00	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:00	sudo	 dongsub : TTY=pts/1 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/bin/wireshark
+2021/12/17 14:00	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 14:00	kernel	cfg80211: Loading compiled-in X.509 certificates for regulatory database
+2021/12/17 14:00	kernel	cfg80211: Loaded X.509 cert 'sforshee: 00b28ddf47aef9cea7'
+2021/12/17 14:00	kernel	Bluetooth: Core ver 2.22
+2021/12/17 14:00	kernel	NET: Registered protocol family 31
+2021/12/17 14:00	kernel	Bluetooth: HCI device and connection manager initialized
+2021/12/17 14:00	kernel	Bluetooth: HCI socket layer initialized
+2021/12/17 14:00	kernel	Bluetooth: L2CAP socket layer initialized
+2021/12/17 14:00	kernel	Bluetooth: SCO socket layer initialized
+2021/12/17 14:00	kernel	device enp5s0 entered promiscuous mode
+2021/12/17 14:00	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=60976 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:00	sudo	 dongsub : TTY=pts/2 ; PWD=/home/dongsub ; USER=root ; COMMAND=/usr/bin/apt install git
+2021/12/17 14:00	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 14:00	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 14:01	PackageKit	get-updates transaction /8_aaedbccd from uid 1000 finished with success after 407ms
+2021/12/17 14:01	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 14:01	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 14:01	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 14:01	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 14:01	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 14:01	systemd	Started Discover - Software Center.
+2021/12/17 14:01	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.131' (uid=1000 pid=42539 comm="/usr/bin/plasma-discover " label="unconfined")
+2021/12/17 14:01	systemd	Starting Firmware update daemon...
+2021/12/17 14:01	fwupd	05:01:27:0215 FuPluginUefiCapsule  failed to add /sys/firmware/efi/esrt/entries/entry0: ESRT GUID '00000000-0000-0000-0000-000000000000' was not valid
+2021/12/17 14:01	dbus-daemon	[system] Successfully activated service 'org.freedesktop.fwupd'
+2021/12/17 14:01	systemd	Started Firmware update daemon.
+2021/12/17 14:01	systemd	Starting Snap Daemon...
+2021/12/17 14:01	snapd	AppArmor status: apparmor is enabled and all features are available
+2021/12/17 14:01	snapd	patch.go:63: Patching system state level 6 to sublevel 1...
+2021/12/17 14:01	snapd	patch.go:63: Patching system state level 6 to sublevel 2...
+2021/12/17 14:01	snapd	patch.go:63: Patching system state level 6 to sublevel 3...
+2021/12/17 14:01	snapd	daemon.go:242: started snapd/2.53+21.10ubuntu1 (series 16; classic) ubuntu/21.10 (amd64) linux/5.13.0-19-generic.
+2021/12/17 14:01	kernel	loop0: detected capacity change from 0 to 8
+2021/12/17 14:01	systemd	tmp-sanity\x2dmountpoint\x2d3885614655.mount: Deactivated successfully.
+2021/12/17 14:01	systemd	tmp-sanity\x2dmountpoint\x2d3885614655.mount: Deactivated successfully.
+2021/12/17 14:01	snapd	daemon.go:335: adjusting startup timeout by 30s (pessimistic estimate of 30s plus 5s per snap)
+2021/12/17 14:01	systemd	Started Snap Daemon.
+2021/12/17 14:01	PackageKit	get-updates transaction /9_ebebbcee from uid 1000 finished with success after 385ms
+2021/12/17 14:01	PackageKit	resolve transaction /10_dcdedace from uid 1000 finished with success after 258ms
+2021/12/17 14:01	PackageKit	resolve transaction /11_bddaeccc from uid 1000 finished with success after 247ms
+2021/12/17 14:01	PackageKit	resolve transaction /12_debaadea from uid 1000 finished with success after 246ms
+2021/12/17 14:01	PackageKit	resolve transaction /13_dadcbadc from uid 1000 finished with success after 276ms
+2021/12/17 14:01	PackageKit	new install-packages transaction /14_eeaeeabd scheduled from uid 1000
+2021/12/17 14:01	PackageKit	in /14_eeaeeabd for install-packages package simplescreenrecorder;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /14_eeaeeabd for install-packages package simplescreenrecorder-lib;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	install-packages transaction /14_eeaeeabd from uid 1000 finished with success after 334ms
+2021/12/17 14:01	PackageKit	uid 1000 is trying to obtain org.freedesktop.packagekit.package-install auth (only_trusted:1)
+2021/12/17 14:01	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=60992 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:01	polkitd(authority=local)	Operator of unix-session:3 successfully authenticated as unix-user:dongsub to gain TEMPORARY authorization for action org.freedesktop.packagekit.package-install for system-bus-name::1.133 [/usr/bin/plasma-discover] (owned by unix-user:dongsub)
+2021/12/17 14:01	PackageKit	new install-packages transaction /15_bbcdddce scheduled from uid 1000
+2021/12/17 14:01	PackageKit	uid 1000 obtained auth for org.freedesktop.packagekit.package-install
+2021/12/17 14:01	packagekitd	PARENT process running...
+2021/12/17 14:01	packagekitd	Parent finished...
+2021/12/17 14:01	PackageKit	in /15_bbcdddce for install-packages package simplescreenrecorder-lib;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /15_bbcdddce for install-packages package simplescreenrecorder;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /15_bbcdddce for install-packages package simplescreenrecorder-lib;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /15_bbcdddce for install-packages package simplescreenrecorder;0.4.2-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	install-packages transaction /15_bbcdddce from uid 1000 finished with success after 6965ms
+2021/12/17 14:01	PackageKit	resolve transaction /16_eabbadbe from uid 1000 finished with success after 234ms
+2021/12/17 14:01	PackageKit	resolve transaction /17_cecbcaad from uid 1000 finished with success after 265ms
+2021/12/17 14:01	PackageKit	get-updates transaction /18_cbcadeca from uid 1000 finished with success after 382ms
+2021/12/17 14:01	PackageKit	new install-packages transaction /19_dabcdaed scheduled from uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package dde-qt5integration;5.1.0.5-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package deepin-voice-recorder;5.0.0-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package libdframeworkdbus2;5.2.0.29-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package libdtkcore5;5.2.2.5-2ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package libdtkgui5;5.2.2.4-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package libdtkwidget5;5.2.2.10-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package libqt5xdg3;3.7.1-0ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package libqt5xdgiconloader3;3.7.1-0ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package libstartup-notification0;0.12-6build1;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /19_dabcdaed for install-packages package qt5dxcb-plugin;5.0.17-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	install-packages transaction /19_dabcdaed from uid 1000 finished with success after 388ms
+2021/12/17 14:01	PackageKit	uid 1000 is trying to obtain org.freedesktop.packagekit.package-install auth (only_trusted:1)
+2021/12/17 14:01	PackageKit	new install-packages transaction /20_cbceebde scheduled from uid 1000
+2021/12/17 14:01	PackageKit	uid 1000 obtained auth for org.freedesktop.packagekit.package-install
+2021/12/17 14:01	packagekitd	PARENT process running...
+2021/12/17 14:01	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 14:01	dbus-daemon	[system] Reloaded configuration
+2021/12/17 14:01	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 14:01	dbus-daemon	[system] Reloaded configuration
+2021/12/17 14:01	systemd	Started Software Update.
+2021/12/17 14:01	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 14:01	dbus-daemon	[system] Reloaded configuration
+2021/12/17 14:01	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 14:01	dbus-daemon	[system] Reloaded configuration
+2021/12/17 14:01	dbus-daemon	Unknown group "power" in message bus configuration file
+2021/12/17 14:01	dbus-daemon	[system] Reloaded configuration
+2021/12/17 14:01	packagekitd	Parent finished...
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package qt5dxcb-plugin;5.0.17-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdtkcore5;5.2.2.5-2ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdtkgui5;5.2.2.4-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdframeworkdbus2;5.2.0.29-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libstartup-notification0;0.12-6build1;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdtkwidget5;5.2.2.10-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libqt5xdgiconloader3;3.7.1-0ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libqt5xdg3;3.7.1-0ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package dde-qt5integration;5.1.0.5-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package deepin-voice-recorder;5.0.0-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdframeworkdbus2;5.2.0.29-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdtkcore5;5.2.2.5-2ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libqt5xdgiconloader3;3.7.1-0ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package qt5dxcb-plugin;5.0.17-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libqt5xdg3;3.7.1-0ubuntu1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libstartup-notification0;0.12-6build1;amd64;ubuntu-impish-main was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libglib2.0-0;2.68.4-1ubuntu1;amd64;installed:ubuntu-impish-main was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdtkgui5;5.2.2.4-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package libdtkwidget5;5.2.2.10-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package deepin-voice-recorder;5.0.0-2;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	in /20_cbceebde for install-packages package dde-qt5integration;5.1.0.5-1;amd64;ubuntu-impish-universe was installing for uid 1000
+2021/12/17 14:01	PackageKit	install-packages transaction /20_cbceebde from uid 1000 finished with success after 5707ms
+2021/12/17 14:01	PackageKit	get-updates transaction /21_eddbceda from uid 1000 finished with success after 382ms
+2021/12/17 14:01	PackageKit	get-updates transaction /22_debbedbc from uid 1000 finished with success after 388ms
+2021/12/17 14:01	PackageKit	get-updates transaction /23_eccbedcc from uid 1000 finished with success after 386ms
+2021/12/17 14:01	systemd	app-systemsettings-2784d99bcf73447faeae723e1d75b468.scope: Deactivated successfully.
+2021/12/17 14:02	systemd	app-org.kde.discover-229734f4150a4a678c0a638c8d6dfcfd.scope: Deactivated successfully.
+2021/12/17 14:02	systemd	app-org.kde.discover-229734f4150a4a678c0a638c8d6dfcfd.scope: Consumed 3.177s CPU time.
+2021/12/17 14:02	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32768 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:02	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32770 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:02	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:02	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:02	snapd	daemon.go:502: gracefully waiting for running hooks
+2021/12/17 14:02	snapd	daemon.go:504: done waiting for running hooks
+2021/12/17 14:02	snapd	daemon stop requested to wait for socket activation
+2021/12/17 14:02	systemd	snapd.service: Deactivated successfully.
+2021/12/17 14:02	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32776 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:03	anacron	Job `cron.monthly' started
+2021/12/17 14:03	anacron	Job `cron.monthly' terminated
+2021/12/17 14:03	anacron	Normal exit (3 jobs run)
+2021/12/17 14:03	systemd	anacron.service: Killing process 44027 (anacron) with signal SIGKILL.
+2021/12/17 14:03	systemd	anacron.service: Deactivated successfully.
+2021/12/17 14:03	systemd	anacron.service: Consumed 20.135s CPU time.
+2021/12/17 14:03	systemd	Starting Cleanup of Temporary Directories...
+2021/12/17 14:03	systemd	systemd-tmpfiles-clean.service: Deactivated successfully.
+2021/12/17 14:03	systemd	Finished Cleanup of Temporary Directories.
+2021/12/17 14:03	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32780 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:03	dbus-daemon	[session uid=1000 pid=992] Failed to activate service 'org.kde.runners.baloo': timed out (service_start_timeout=120000ms)
+2021/12/17 14:03	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32786 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:03	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32790 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:03	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32790 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:04	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32794 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:04	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32798 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:04	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:04	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:04	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32802 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:05	rtkit-daemon	Successfully made thread 44140 of process 44078 owned by '1000' RT at priority 10.
+2021/12/17 14:05	rtkit-daemon	Supervising 10 threads of 6 processes of 1 users.
+2021/12/17 14:05	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32812 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:05	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=15.164.81.167 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38426 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:05	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=15.164.81.167 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=38426 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:05	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.69.186.44 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=47308 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:05	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=52.69.186.44 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=47308 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:05	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32816 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:06	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32824 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:06	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32828 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:07	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32834 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:07	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32838 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:08	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32846 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:08	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:08	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:08	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:08	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:08	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:08	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:08	kernel	[UFW BLOCK] IN=enp5s0 OUT= MAC=70:85:c2:d2:8f:44:c8:3a:35:44:f8:88:08:00 SRC=13.124.146.9 DST=192.168.123.100 LEN=40 TOS=0x00 PREC=0x00 TTL=128 ID=0 DF PROTO=TCP SPT=443 DPT=32854 WINDOW=0 RES=0x00 RST URGP=0 
+2021/12/17 14:10	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 14:10	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 14:10	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 14:10	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 14:10	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 14:10	systemd	Started SimpleScreenRecorder.
+2021/12/17 14:10	systemd	Started Dolphin - File Manager.
+2021/12/17 14:10	systemd	Started VLC media player - Media player.
+2021/12/17 14:11	systemd	app-vlc-f5013a4b251b4663a3b3d3aed2ad9fc7.scope: Deactivated successfully.
+2021/12/17 14:11	systemd	app-vlc-f5013a4b251b4663a3b3d3aed2ad9fc7.scope: Consumed 1.672s CPU time.
+2021/12/17 14:11	systemd	app-org.kde.dolphin-ae4f98585ec54ce1a4bb4415b3579fbc.scope: Deactivated successfully.
+2021/12/17 14:11	systemd	app-org.kde.dolphin-ae4f98585ec54ce1a4bb4415b3579fbc.scope: Consumed 1.842s CPU time.
+2021/12/17 14:11	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 14:11	NetworkManager	<info>  [1639717895.3312] device (enp5s0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/17 14:11	NetworkManager	<info>  [1639717895.3313] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/17 14:11	NetworkManager	<info>  [1639717895.3313] dhcp4 (enp5s0): state changed extended -> terminated
+2021/12/17 14:11	avahi-daemon	Withdrawing address record for 192.168.123.100 on enp5s0.
+2021/12/17 14:11	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/17 14:11	avahi-daemon	Interface enp5s0.IPv4 no longer relevant for mDNS.
+2021/12/17 14:11	avahi-daemon	Withdrawing address record for fe80::d660:b252:be2e:ab10 on enp5s0.
+2021/12/17 14:11	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv6 with address fe80::d660:b252:be2e:ab10.
+2021/12/17 14:11	avahi-daemon	Interface enp5s0.IPv6 no longer relevant for mDNS.
+2021/12/17 14:11	NetworkManager	<info>  [1639717895.3331] manager: NetworkManager state is now DISCONNECTED
+2021/12/17 14:11	whoopsie	[14:11:35] offline
+2021/12/17 14:11	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 14:11	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 14:11	systemd-resolved	enp5s0: Bus client set default route setting: no
+2021/12/17 14:11	systemd-resolved	enp5s0: Bus client reset DNS server list.
+2021/12/17 14:11	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 14:11	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 14:11	PackageKit	get-updates transaction /24_cbcddaeb from uid 1000 finished with success after 399ms
+2021/12/17 14:11	kernel	device enp5s0 left promiscuous mode
+2021/12/17 14:11	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 14:12	dbus-daemon	[session uid=1000 pid=992] Failed to activate service 'org.kde.runners.baloo': timed out (service_start_timeout=120000ms)
+2021/12/17 14:12	NetworkManager	<info>  [1639717960.8199] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+2021/12/17 14:12	ModemManager	<info>  [sleep-monitor] system is about to suspend
+2021/12/17 14:12	NetworkManager	<info>  [1639717960.8200] device (enp5s0): state change: unavailable -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+2021/12/17 14:12	NetworkManager	<info>  [1639717960.8286] manager: NetworkManager state is now ASLEEP
+2021/12/17 14:12	systemd	Reached target Sleep.
+2021/12/17 14:12	systemd	Starting Record successful boot for GRUB...
+2021/12/17 14:12	systemd	Starting Suspend...
+2021/12/17 14:12	systemd-sleep	Suspending system...
+2021/12/17 14:12	kernel	PM: suspend entry (deep)
+2021/12/17 14:12	systemd	grub-common.service: Deactivated successfully.
+2021/12/17 14:12	systemd	Finished Record successful boot for GRUB.
+2021/12/17 14:12	systemd	Starting GRUB failed boot detection...
+2021/12/17 14:12	kernel	Filesystems sync: 0.013 seconds
+2021/12/17 14:12	kernel	Freezing user space processes ... (elapsed 0.022 seconds) done.
+2021/12/17 14:12	kernel	OOM killer disabled.
+2021/12/17 14:12	kernel	Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+2021/12/17 14:12	kernel	printk: Suspending console(s) (use no_console_suspend to debug)
+2021/12/17 14:12	kernel	serial 00:03: disabled
+2021/12/17 14:12	kernel	sd 0:0:0:0: [sda] Synchronizing SCSI cache
+2021/12/17 14:12	kernel	sd 0:0:0:0: [sda] Stopping disk
+2021/12/17 14:12	kernel	ACPI: Preparing to enter system sleep state S3
+2021/12/17 14:12	kernel	PM: Saving platform NVS memory
+2021/12/17 14:12	kernel	Disabling non-boot CPUs ...
+2021/12/17 14:12	kernel	Wakeup pending. Abort CPU freeze
+2021/12/17 14:12	kernel	Non-boot CPUs are not disabled
+2021/12/17 14:12	kernel	ACPI: Waking up from system sleep state S3
+2021/12/17 14:12	kernel	sd 0:0:0:0: [sda] Starting disk
+2021/12/17 14:12	kernel	usb usb1: root hub lost power or was reset
+2021/12/17 14:12	kernel	usb usb2: root hub lost power or was reset
+2021/12/17 14:12	kernel	serial 00:03: activated
+2021/12/17 14:12	kernel	[drm] PCIE GART of 256M enabled (table at 0x000000F400000000).
+2021/12/17 14:12	kernel	ata6: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:12	kernel	ata9: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:12	kernel	ata5: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:12	kernel	ata2: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:12	kernel	ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+2021/12/17 14:12	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 14:12	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 14:12	kernel	ata1.00: configured for UDMA/133
+2021/12/17 14:12	kernel	ata1.00: Enabling discard_zeroes_data
+2021/12/17 14:12	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 14:12	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 14:12	kernel	[drm] UVD and UVD ENC initialized successfully.
+2021/12/17 14:12	kernel	[drm] VCE initialized successfully.
+2021/12/17 14:12	kernel	OOM killer enabled.
+2021/12/17 14:12	kernel	Restarting tasks ... done.
+2021/12/17 14:12	kernel	PM: suspend exit
+2021/12/17 14:12	kernel	PM: suspend entry (s2idle)
+2021/12/17 14:12	systemd	grub-initrd-fallback.service: Deactivated successfully.
+2021/12/17 14:12	systemd	Finished GRUB failed boot detection.
+2021/12/17 14:18	kernel	Filesystems sync: 0.012 seconds
+2021/12/17 14:18	kernel	Freezing user space processes ... (elapsed 0.001 seconds) done.
+2021/12/17 14:18	kernel	OOM killer disabled.
+2021/12/17 14:18	kernel	Freezing remaining freezable tasks ... (elapsed 0.167 seconds) done.
+2021/12/17 14:18	kernel	printk: Suspending console(s) (use no_console_suspend to debug)
+2021/12/17 14:18	kernel	serial 00:03: disabled
+2021/12/17 14:18	kernel	sd 0:0:0:0: [sda] Synchronizing SCSI cache
+2021/12/17 14:18	kernel	sd 0:0:0:0: [sda] Stopping disk
+2021/12/17 14:18	kernel	ccp 0000:07:00.2: refused to change power state from D3hot to D0
+2021/12/17 14:18	kernel	sd 0:0:0:0: [sda] Starting disk
+2021/12/17 14:18	kernel	serial 00:03: activated
+2021/12/17 14:18	kernel	[drm] PCIE GART of 256M enabled (table at 0x000000F400000000).
+2021/12/17 14:18	kernel	ata5: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:18	kernel	ata6: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:18	kernel	ata9: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:18	kernel	ata2: SATA link down (SStatus 0 SControl 300)
+2021/12/17 14:18	kernel	ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+2021/12/17 14:18	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 14:18	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 14:18	kernel	ata1.00: configured for UDMA/133
+2021/12/17 14:18	kernel	ata1.00: Enabling discard_zeroes_data
+2021/12/17 14:18	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 14:18	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 14:18	kernel	[drm] UVD and UVD ENC initialized successfully.
+2021/12/17 14:18	kernel	[drm] VCE initialized successfully.
+2021/12/17 14:18	kernel	OOM killer enabled.
+2021/12/17 14:18	kernel	Restarting tasks ... done.
+2021/12/17 14:18	kernel	PM: suspend exit
+2021/12/17 14:18	systemd-resolved	Clock change detected. Flushing caches.
+2021/12/17 14:18	systemd-sleep	System resumed.
+2021/12/17 14:18	systemd	systemd-suspend.service: Deactivated successfully.
+2021/12/17 14:18	systemd	Finished Suspend.
+2021/12/17 14:18	systemd	Stopped target Sleep.
+2021/12/17 14:18	systemd	Reached target Suspend.
+2021/12/17 14:18	systemd	Stopped target Suspend.
+2021/12/17 14:18	systemd-logind	Operation 'sleep' finished.
+2021/12/17 14:18	ModemManager	<info>  [sleep-monitor] system is resuming
+2021/12/17 14:18	NetworkManager	<info>  [1639718304.4718] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+2021/12/17 14:18	NetworkManager	<info>  [1639718304.4718] device (enp5s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+2021/12/17 14:18	kernel	Generic FE-GE Realtek PHY r8169-0-500:00: attached PHY driver (mii_bus:phy_addr=r8169-0-500:00, irq=MAC)
+2021/12/17 14:18	NetworkManager	<info>  [1639718304.7058] manager: NetworkManager state is now DISCONNECTED
+2021/12/17 14:18	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 14:18	ModemManager	<info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.2/0000:02:07.0/0000:05:00.0': not supported by any plugin
+2021/12/17 14:18	kernel	device enp5s0 entered promiscuous mode
+2021/12/17 14:21	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 14:21	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 14:21	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 14:21	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 14:21	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 14:21	systemd	Started Kate - Advanced Text Editor.
+2021/12/17 14:23	dbus-daemon	[session uid=1000 pid=992] Failed to activate service 'org.kde.runners.baloo': timed out (service_start_timeout=120000ms)
+2021/12/17 14:24	smartd	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 67 to 72
+2021/12/17 14:26	kernel	r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/17 14:26	kernel	IPv6: ADDRCONF(NETDEV_CHANGE): enp5s0: link becomes ready
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1761] device (enp5s0): carrier: link connected
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1764] device (enp5s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1775] policy: auto-activating connection 'Wired connection 1' (4620002b-b4f0-38a5-a54f-b8bd013c2582)
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1779] device (enp5s0): Activation: starting connection 'Wired connection 1' (4620002b-b4f0-38a5-a54f-b8bd013c2582)
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1780] device (enp5s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1783] manager: NetworkManager state is now CONNECTING
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1785] device (enp5s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1789] device (enp5s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1793] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/17 14:26	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv6 with address fe80::d660:b252:be2e:ab10.
+2021/12/17 14:26	avahi-daemon	New relevant interface enp5s0.IPv6 for mDNS.
+2021/12/17 14:26	avahi-daemon	Registering new address record for fe80::d660:b252:be2e:ab10 on enp5s0.*.
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1857] dhcp4 (enp5s0): state changed unknown -> bound, address=192.168.123.100
+2021/12/17 14:26	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/17 14:26	avahi-daemon	New relevant interface enp5s0.IPv4 for mDNS.
+2021/12/17 14:26	avahi-daemon	Registering new address record for 192.168.123.100 on enp5s0.IPv4.
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1867] device (enp5s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2021/12/17 14:26	whoopsie	[14:26:22] Cannot reach: https://daisy.ubuntu.com
+2021/12/17 14:26	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 14:26	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 14:26	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 14:26	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1978] device (enp5s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1981] device (enp5s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1985] manager: NetworkManager state is now CONNECTED_LOCAL
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1989] manager: NetworkManager state is now CONNECTED_SITE
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1990] policy: set 'Wired connection 1' (enp5s0) as default for IPv4 routing and DNS
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.1998] device (enp5s0): Activation: successful, device activated.
+2021/12/17 14:26	NetworkManager	<info>  [1639718782.2004] manager: NetworkManager state is now CONNECTED_GLOBAL
+2021/12/17 14:26	systemd-resolved	enp5s0: Bus client set default route setting: yes
+2021/12/17 14:26	whoopsie	[14:26:22] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/2
+2021/12/17 14:26	whoopsie	[14:26:22] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/2
+2021/12/17 14:26	whoopsie	[14:26:22] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/2
+2021/12/17 14:26	whoopsie	[14:26:22] online
+2021/12/17 14:26	PackageKit	get-updates transaction /25_abbcbbdd from uid 1000 finished with success after 479ms
+2021/12/17 14:26	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 14:30	CRON	pam_unix(cron:session): session opened for user root by (uid=0)
+2021/12/17 14:30	CRON	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/17 14:30	CRON	pam_unix(cron:session): session closed for user root
+2021/12/17 14:33	systemd	Started Run anacron jobs.
+2021/12/17 14:33	systemd	anacron.service: Deactivated successfully.
+2021/12/17 14:33	anacron	Anacron 2.3 started on 2021-12-17
+2021/12/17 14:33	anacron	Normal exit (0 jobs run)
+2021/12/17 14:35	systemd-resolved	Clock change detected. Flushing caches.
+2021/12/17 14:35	systemd-timesyncd	Initial synchronization to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2021/12/17 14:35	systemd	Starting Ubuntu Advantage Timer for running repeated jobs...
+2021/12/17 14:35	systemd	ua-timer.service: Deactivated successfully.
+2021/12/17 14:35	systemd	Finished Ubuntu Advantage Timer for running repeated jobs.
+2021/12/17 14:42	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:42	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:46	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:46	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:46	systemd	Started Dolphin - File Manager.
+2021/12/17 14:47	systemd	Started VLC media player - Media player.
+2021/12/17 14:47	systemd	app-vlc-00e618990d7047b2a8bc34e3535aaa22.scope: Deactivated successfully.
+2021/12/17 14:47	systemd	app-vlc-00e618990d7047b2a8bc34e3535aaa22.scope: Consumed 1.581s CPU time.
+2021/12/17 14:47	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:47	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:48	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.168' (uid=1000 pid=17494 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/17 14:48	systemd	Starting Hostname Service...
+2021/12/17 14:48	dbus-daemon	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/17 14:48	systemd	Started Hostname Service.
+2021/12/17 14:48	smartd	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 72 to 68
+2021/12/17 14:48	systemd	systemd-hostnamed.service: Deactivated successfully.
+2021/12/17 14:50	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:50	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:50	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:50	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 14:50	rtkit-daemon	Successfully made thread 46144 of process 45783 owned by '1000' RT at priority 10.
+2021/12/17 14:50	rtkit-daemon	Supervising 10 threads of 6 processes of 1 users.
+2021/12/17 14:51	rtkit-daemon	Supervising 10 threads of 6 processes of 1 users.
+2021/12/17 14:51	rtkit-daemon	Supervising 10 threads of 6 processes of 1 users.
+2021/12/17 14:52	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 14:52	kernel	device enp5s0 left promiscuous mode
+2021/12/17 14:52	NetworkManager	<info>  [1639720357.9740] device (enp5s0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/17 14:52	NetworkManager	<info>  [1639720358.0058] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/17 14:52	NetworkManager	<info>  [1639720358.0058] dhcp4 (enp5s0): state changed bound -> terminated
+2021/12/17 14:52	avahi-daemon	Withdrawing address record for 192.168.123.100 on enp5s0.
+2021/12/17 14:52	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/17 14:52	avahi-daemon	Interface enp5s0.IPv4 no longer relevant for mDNS.
+2021/12/17 14:52	avahi-daemon	Withdrawing address record for fe80::d660:b252:be2e:ab10 on enp5s0.
+2021/12/17 14:52	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv6 with address fe80::d660:b252:be2e:ab10.
+2021/12/17 14:52	avahi-daemon	Interface enp5s0.IPv6 no longer relevant for mDNS.
+2021/12/17 14:52	NetworkManager	<info>  [1639720358.0100] manager: NetworkManager state is now DISCONNECTED
+2021/12/17 14:52	whoopsie	[14:52:38] offline
+2021/12/17 14:52	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 14:52	systemd-resolved	enp5s0: Bus client set default route setting: no
+2021/12/17 14:52	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 14:52	systemd-resolved	enp5s0: Bus client reset DNS server list.
+2021/12/17 14:52	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 14:52	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 14:52	PackageKit	get-updates transaction /26_ddbcceed from uid 1000 finished with success after 416ms
+2021/12/17 14:52	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 14:53	ModemManager	<info>  [sleep-monitor] system is about to suspend
+2021/12/17 14:53	NetworkManager	<info>  [1639720427.8092] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+2021/12/17 14:53	NetworkManager	<info>  [1639720427.8093] device (enp5s0): state change: unavailable -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+2021/12/17 14:53	NetworkManager	<info>  [1639720427.8192] manager: NetworkManager state is now ASLEEP
+2021/12/17 14:53	systemd	Reached target Sleep.
+2021/12/17 14:53	systemd	Starting Record successful boot for GRUB...
+2021/12/17 14:53	systemd	Starting Suspend...
+2021/12/17 14:53	systemd-sleep	Suspending system...
+2021/12/17 14:53	systemd	grub-common.service: Deactivated successfully.
+2021/12/17 14:53	systemd	Finished Record successful boot for GRUB.
+2021/12/17 14:53	kernel	PM: suspend entry (deep)
+2021/12/17 14:53	systemd	Starting GRUB failed boot detection...
+2021/12/17 15:17	kernel	Filesystems sync: 0.004 seconds
+2021/12/17 15:17	kernel	Freezing user space processes ... (elapsed 0.014 seconds) done.
+2021/12/17 15:17	kernel	OOM killer disabled.
+2021/12/17 15:17	kernel	Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+2021/12/17 15:17	kernel	printk: Suspending console(s) (use no_console_suspend to debug)
+2021/12/17 15:17	kernel	serial 00:03: disabled
+2021/12/17 15:17	kernel	sd 0:0:0:0: [sda] Synchronizing SCSI cache
+2021/12/17 15:17	kernel	sd 0:0:0:0: [sda] Stopping disk
+2021/12/17 15:17	kernel	xhci_hcd 0000:07:00.3: refused to change power state from D0 to D3hot
+2021/12/17 15:17	kernel	ACPI: Preparing to enter system sleep state S3
+2021/12/17 15:17	kernel	PM: Saving platform NVS memory
+2021/12/17 15:17	kernel	Disabling non-boot CPUs ...
+2021/12/17 15:17	kernel	smpboot: CPU 1 is now offline
+2021/12/17 15:17	kernel	smpboot: CPU 2 is now offline
+2021/12/17 15:17	kernel	smpboot: CPU 3 is now offline
+2021/12/17 15:17	kernel	smpboot: CPU 4 is now offline
+2021/12/17 15:17	kernel	smpboot: CPU 5 is now offline
+2021/12/17 15:17	kernel	smpboot: CPU 6 is now offline
+2021/12/17 15:17	kernel	IRQ 26: no longer affine to CPU7
+2021/12/17 15:17	kernel	IRQ 38: no longer affine to CPU7
+2021/12/17 15:17	kernel	IRQ 44: no longer affine to CPU7
+2021/12/17 15:17	kernel	IRQ 54: no longer affine to CPU7
+2021/12/17 15:17	kernel	smpboot: CPU 7 is now offline
+2021/12/17 15:17	kernel	IRQ 48: no longer affine to CPU8
+2021/12/17 15:17	kernel	IRQ 58: no longer affine to CPU8
+2021/12/17 15:17	kernel	smpboot: CPU 8 is now offline
+2021/12/17 15:17	kernel	IRQ 42: no longer affine to CPU9
+2021/12/17 15:17	kernel	IRQ 52: no longer affine to CPU9
+2021/12/17 15:17	kernel	IRQ 55: no longer affine to CPU9
+2021/12/17 15:17	kernel	IRQ 60: no longer affine to CPU9
+2021/12/17 15:17	kernel	smpboot: CPU 9 is now offline
+2021/12/17 15:17	kernel	smpboot: CPU 10 is now offline
+2021/12/17 15:17	kernel	smpboot: CPU 11 is now offline
+2021/12/17 15:17	kernel	ACPI: Low-level resume complete
+2021/12/17 15:17	kernel	PM: Restoring platform NVS memory
+2021/12/17 15:17	kernel	Enabling non-boot CPUs ...
+2021/12/17 15:17	kernel	x86: Booting SMP configuration:
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 1 APIC 0x2
+2021/12/17 15:17	kernel	microcode: CPU1: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C002: Found 2 idle states
+2021/12/17 15:17	kernel	CPU1 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 2 APIC 0x4
+2021/12/17 15:17	kernel	microcode: CPU2: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C004: Found 2 idle states
+2021/12/17 15:17	kernel	CPU2 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 3 APIC 0x8
+2021/12/17 15:17	kernel	microcode: CPU3: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C006: Found 2 idle states
+2021/12/17 15:17	kernel	CPU3 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 4 APIC 0xa
+2021/12/17 15:17	kernel	microcode: CPU4: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C008: Found 2 idle states
+2021/12/17 15:17	kernel	CPU4 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 5 APIC 0xc
+2021/12/17 15:17	kernel	microcode: CPU5: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C00A: Found 2 idle states
+2021/12/17 15:17	kernel	CPU5 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 6 APIC 0x1
+2021/12/17 15:17	kernel	microcode: CPU6: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C001: Found 2 idle states
+2021/12/17 15:17	kernel	CPU6 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 7 APIC 0x3
+2021/12/17 15:17	kernel	microcode: CPU7: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C003: Found 2 idle states
+2021/12/17 15:17	kernel	CPU7 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 8 APIC 0x5
+2021/12/17 15:17	kernel	microcode: CPU8: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C005: Found 2 idle states
+2021/12/17 15:17	kernel	CPU8 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 9 APIC 0x9
+2021/12/17 15:17	kernel	microcode: CPU9: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C007: Found 2 idle states
+2021/12/17 15:17	kernel	CPU9 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 10 APIC 0xb
+2021/12/17 15:17	kernel	microcode: CPU10: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C009: Found 2 idle states
+2021/12/17 15:17	kernel	CPU10 is up
+2021/12/17 15:17	kernel	smpboot: Booting Node 0 Processor 11 APIC 0xd
+2021/12/17 15:17	kernel	microcode: CPU11: patch_level=0x0800820d
+2021/12/17 15:17	kernel	ACPI: \_PR_.C00B: Found 2 idle states
+2021/12/17 15:17	kernel	CPU11 is up
+2021/12/17 15:17	kernel	ACPI: Waking up from system sleep state S3
+2021/12/17 15:17	kernel	usb usb1: root hub lost power or was reset
+2021/12/17 15:17	kernel	usb usb2: root hub lost power or was reset
+2021/12/17 15:17	kernel	sd 0:0:0:0: [sda] Starting disk
+2021/12/17 15:17	kernel	serial 00:03: activated
+2021/12/17 15:17	kernel	[drm] PCIE GART of 256M enabled (table at 0x000000F400000000).
+2021/12/17 15:17	kernel	ata2: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:17	kernel	ata9: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:17	kernel	ata5: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:17	kernel	ata6: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:17	kernel	ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+2021/12/17 15:17	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 15:17	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 15:17	kernel	ata1.00: configured for UDMA/133
+2021/12/17 15:17	kernel	ata1.00: Enabling discard_zeroes_data
+2021/12/17 15:17	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 15:17	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 15:17	kernel	[drm] UVD and UVD ENC initialized successfully.
+2021/12/17 15:17	kernel	[drm] VCE initialized successfully.
+2021/12/17 15:17	kernel	OOM killer enabled.
+2021/12/17 15:17	kernel	Restarting tasks ... done.
+2021/12/17 15:17	kernel	PM: suspend exit
+2021/12/17 15:17	systemd-resolved	Clock change detected. Flushing caches.
+2021/12/17 15:17	systemd-sleep	System resumed.
+2021/12/17 15:17	systemd	grub-initrd-fallback.service: Deactivated successfully.
+2021/12/17 15:17	systemd	Finished GRUB failed boot detection.
+2021/12/17 15:17	systemd	systemd-suspend.service: Deactivated successfully.
+2021/12/17 15:17	systemd	Finished Suspend.
+2021/12/17 15:17	systemd	Stopped target Sleep.
+2021/12/17 15:17	systemd	Reached target Suspend.
+2021/12/17 15:17	systemd	Stopped target Suspend.
+2021/12/17 15:17	systemd-logind	Operation 'sleep' finished.
+2021/12/17 15:17	ModemManager	<info>  [sleep-monitor] system is resuming
+2021/12/17 15:17	NetworkManager	<info>  [1639721848.6172] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+2021/12/17 15:17	NetworkManager	<info>  [1639721848.6173] device (enp5s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+2021/12/17 15:17	kernel	Generic FE-GE Realtek PHY r8169-0-500:00: attached PHY driver (mii_bus:phy_addr=r8169-0-500:00, irq=MAC)
+2021/12/17 15:17	NetworkManager	<info>  [1639721848.8548] manager: NetworkManager state is now DISCONNECTED
+2021/12/17 15:17	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 15:17	ModemManager	<info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.2/0000:02:07.0/0000:05:00.0': not supported by any plugin
+2021/12/17 15:17	CRON	pam_unix(cron:session): session opened for user root by (uid=0)
+2021/12/17 15:17	CRON	(root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2021/12/17 15:17	CRON	pam_unix(cron:session): session closed for user root
+2021/12/17 15:17	unix_chkpwd	password check failed for user (dongsub)
+2021/12/17 15:17	kcheckpass	pam_unix(kde:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=dongsub
+2021/12/17 15:17	kcheckpass	Authentication failure for dongsub (invoked by uid 1000)
+2021/12/17 15:19	systemd	Started Kate - Advanced Text Editor.
+2021/12/17 15:22	kernel	device enp5s0 entered promiscuous mode
+2021/12/17 15:30	CRON	pam_unix(cron:session): session opened for user root by (uid=0)
+2021/12/17 15:30	CRON	(root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+2021/12/17 15:30	CRON	pam_unix(cron:session): session closed for user root
+2021/12/17 15:32	systemd	Started Run anacron jobs.
+2021/12/17 15:32	anacron	Anacron 2.3 started on 2021-12-17
+2021/12/17 15:32	anacron	Normal exit (0 jobs run)
+2021/12/17 15:32	systemd	anacron.service: Deactivated successfully.
+2021/12/17 15:33	ModemManager	<info>  [sleep-monitor] system is about to suspend
+2021/12/17 15:33	NetworkManager	<info>  [1639722828.0244] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+2021/12/17 15:33	NetworkManager	<info>  [1639722828.0245] device (enp5s0): state change: unavailable -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+2021/12/17 15:33	NetworkManager	<info>  [1639722828.0345] manager: NetworkManager state is now ASLEEP
+2021/12/17 15:33	systemd	Reached target Sleep.
+2021/12/17 15:33	systemd	Starting Record successful boot for GRUB...
+2021/12/17 15:33	systemd	Starting Suspend...
+2021/12/17 15:33	systemd-sleep	Suspending system...
+2021/12/17 15:33	kernel	PM: suspend entry (deep)
+2021/12/17 15:52	kernel	Filesystems sync: 0.005 seconds
+2021/12/17 15:52	kernel	Freezing user space processes ... (elapsed 0.014 seconds) done.
+2021/12/17 15:52	kernel	OOM killer disabled.
+2021/12/17 15:52	kernel	Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+2021/12/17 15:52	kernel	printk: Suspending console(s) (use no_console_suspend to debug)
+2021/12/17 15:52	kernel	serial 00:03: disabled
+2021/12/17 15:52	kernel	sd 0:0:0:0: [sda] Synchronizing SCSI cache
+2021/12/17 15:52	kernel	sd 0:0:0:0: [sda] Stopping disk
+2021/12/17 15:52	kernel	ACPI: Preparing to enter system sleep state S3
+2021/12/17 15:52	kernel	PM: Saving platform NVS memory
+2021/12/17 15:52	kernel	Disabling non-boot CPUs ...
+2021/12/17 15:52	kernel	smpboot: CPU 1 is now offline
+2021/12/17 15:52	kernel	smpboot: CPU 2 is now offline
+2021/12/17 15:52	kernel	smpboot: CPU 3 is now offline
+2021/12/17 15:52	kernel	smpboot: CPU 4 is now offline
+2021/12/17 15:52	kernel	smpboot: CPU 5 is now offline
+2021/12/17 15:52	kernel	smpboot: CPU 6 is now offline
+2021/12/17 15:52	kernel	irq_migrate_all_off_this_cpu: 9 callbacks suppressed
+2021/12/17 15:52	kernel	IRQ 26: no longer affine to CPU7
+2021/12/17 15:52	kernel	IRQ 38: no longer affine to CPU7
+2021/12/17 15:52	kernel	IRQ 44: no longer affine to CPU7
+2021/12/17 15:52	kernel	IRQ 54: no longer affine to CPU7
+2021/12/17 15:52	kernel	smpboot: CPU 7 is now offline
+2021/12/17 15:52	kernel	IRQ 48: no longer affine to CPU8
+2021/12/17 15:52	kernel	IRQ 58: no longer affine to CPU8
+2021/12/17 15:52	kernel	smpboot: CPU 8 is now offline
+2021/12/17 15:52	kernel	IRQ 42: no longer affine to CPU9
+2021/12/17 15:52	kernel	IRQ 52: no longer affine to CPU9
+2021/12/17 15:52	kernel	IRQ 55: no longer affine to CPU9
+2021/12/17 15:52	kernel	IRQ 60: no longer affine to CPU9
+2021/12/17 15:52	kernel	smpboot: CPU 9 is now offline
+2021/12/17 15:52	kernel	smpboot: CPU 10 is now offline
+2021/12/17 15:52	kernel	smpboot: CPU 11 is now offline
+2021/12/17 15:52	kernel	ACPI: Low-level resume complete
+2021/12/17 15:52	kernel	PM: Restoring platform NVS memory
+2021/12/17 15:52	kernel	Enabling non-boot CPUs ...
+2021/12/17 15:52	kernel	x86: Booting SMP configuration:
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 1 APIC 0x2
+2021/12/17 15:52	kernel	microcode: CPU1: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C002: Found 2 idle states
+2021/12/17 15:52	kernel	CPU1 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 2 APIC 0x4
+2021/12/17 15:52	kernel	microcode: CPU2: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C004: Found 2 idle states
+2021/12/17 15:52	kernel	CPU2 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 3 APIC 0x8
+2021/12/17 15:52	kernel	microcode: CPU3: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C006: Found 2 idle states
+2021/12/17 15:52	kernel	CPU3 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 4 APIC 0xa
+2021/12/17 15:52	kernel	microcode: CPU4: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C008: Found 2 idle states
+2021/12/17 15:52	kernel	CPU4 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 5 APIC 0xc
+2021/12/17 15:52	kernel	microcode: CPU5: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C00A: Found 2 idle states
+2021/12/17 15:52	kernel	CPU5 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 6 APIC 0x1
+2021/12/17 15:52	kernel	microcode: CPU6: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C001: Found 2 idle states
+2021/12/17 15:52	kernel	CPU6 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 7 APIC 0x3
+2021/12/17 15:52	kernel	microcode: CPU7: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C003: Found 2 idle states
+2021/12/17 15:52	kernel	CPU7 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 8 APIC 0x5
+2021/12/17 15:52	kernel	microcode: CPU8: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C005: Found 2 idle states
+2021/12/17 15:52	kernel	CPU8 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 9 APIC 0x9
+2021/12/17 15:52	kernel	microcode: CPU9: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C007: Found 2 idle states
+2021/12/17 15:52	kernel	CPU9 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 10 APIC 0xb
+2021/12/17 15:52	kernel	microcode: CPU10: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C009: Found 2 idle states
+2021/12/17 15:52	kernel	CPU10 is up
+2021/12/17 15:52	kernel	smpboot: Booting Node 0 Processor 11 APIC 0xd
+2021/12/17 15:52	kernel	microcode: CPU11: patch_level=0x0800820d
+2021/12/17 15:52	kernel	ACPI: \_PR_.C00B: Found 2 idle states
+2021/12/17 15:52	kernel	CPU11 is up
+2021/12/17 15:52	kernel	ACPI: Waking up from system sleep state S3
+2021/12/17 15:52	kernel	usb usb1: root hub lost power or was reset
+2021/12/17 15:52	kernel	usb usb2: root hub lost power or was reset
+2021/12/17 15:52	kernel	sd 0:0:0:0: [sda] Starting disk
+2021/12/17 15:52	kernel	serial 00:03: activated
+2021/12/17 15:52	kernel	[drm] PCIE GART of 256M enabled (table at 0x000000F400000000).
+2021/12/17 15:52	kernel	ata5: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:52	kernel	ata9: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:52	kernel	ata6: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:52	kernel	ata2: SATA link down (SStatus 0 SControl 300)
+2021/12/17 15:52	kernel	ata1: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+2021/12/17 15:52	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 15:52	kernel	ata1.00: supports DRM functions and may not be fully accessible
+2021/12/17 15:52	kernel	ata1.00: configured for UDMA/133
+2021/12/17 15:52	kernel	ata1.00: Enabling discard_zeroes_data
+2021/12/17 15:52	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 15:52	kernel	[drm] Fence fallback timer expired on ring sdma0
+2021/12/17 15:52	kernel	[drm] UVD and UVD ENC initialized successfully.
+2021/12/17 15:52	kernel	[drm] VCE initialized successfully.
+2021/12/17 15:52	kernel	OOM killer enabled.
+2021/12/17 15:52	kernel	Restarting tasks ... done.
+2021/12/17 15:52	kernel	PM: suspend exit
+2021/12/17 15:52	systemd-resolved	Clock change detected. Flushing caches.
+2021/12/17 15:52	systemd	grub-common.service: Deactivated successfully.
+2021/12/17 15:52	systemd	Finished Record successful boot for GRUB.
+2021/12/17 15:52	systemd-sleep	System resumed.
+2021/12/17 15:52	systemd	Starting GRUB failed boot detection...
+2021/12/17 15:52	systemd	grub-initrd-fallback.service: Deactivated successfully.
+2021/12/17 15:52	systemd	Finished GRUB failed boot detection.
+2021/12/17 15:52	systemd	systemd-suspend.service: Deactivated successfully.
+2021/12/17 15:52	systemd	Finished Suspend.
+2021/12/17 15:52	systemd	Stopped target Sleep.
+2021/12/17 15:52	systemd	Reached target Suspend.
+2021/12/17 15:52	systemd	Stopped target Suspend.
+2021/12/17 15:52	systemd-logind	Operation 'sleep' finished.
+2021/12/17 15:52	ModemManager	<info>  [sleep-monitor] system is resuming
+2021/12/17 15:52	NetworkManager	<info>  [1639723961.6134] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+2021/12/17 15:52	NetworkManager	<info>  [1639723961.6135] device (enp5s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+2021/12/17 15:52	kernel	Generic FE-GE Realtek PHY r8169-0-500:00: attached PHY driver (mii_bus:phy_addr=r8169-0-500:00, irq=MAC)
+2021/12/17 15:52	NetworkManager	<info>  [1639723961.8456] manager: NetworkManager state is now DISCONNECTED
+2021/12/17 15:52	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 15:52	ModemManager	<info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:01.3/0000:01:00.2/0000:02:07.0/0000:05:00.0': not supported by any plugin
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1142] device (enp5s0): carrier: link connected
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1145] device (enp5s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1157] policy: auto-activating connection 'Wired connection 1' (4620002b-b4f0-38a5-a54f-b8bd013c2582)
+2021/12/17 15:53	kernel	r8169 0000:05:00.0 enp5s0: Link is Up - 100Mbps/Full - flow control rx/tx
+2021/12/17 15:53	kernel	IPv6: ADDRCONF(NETDEV_CHANGE): enp5s0: link becomes ready
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1164] device (enp5s0): Activation: starting connection 'Wired connection 1' (4620002b-b4f0-38a5-a54f-b8bd013c2582)
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1166] device (enp5s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1170] manager: NetworkManager state is now CONNECTING
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1174] device (enp5s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1180] device (enp5s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2021/12/17 15:53	NetworkManager	<info>  [1639723981.1184] dhcp4 (enp5s0): activation: beginning transaction (timeout in 45 seconds)
+2021/12/17 15:53	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv6 with address fe80::d660:b252:be2e:ab10.
+2021/12/17 15:53	avahi-daemon	New relevant interface enp5s0.IPv6 for mDNS.
+2021/12/17 15:53	avahi-daemon	Registering new address record for fe80::d660:b252:be2e:ab10 on enp5s0.*.
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2131] dhcp4 (enp5s0): state changed unknown -> bound, address=192.168.123.100
+2021/12/17 15:53	avahi-daemon	Joining mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/17 15:53	avahi-daemon	New relevant interface enp5s0.IPv4 for mDNS.
+2021/12/17 15:53	avahi-daemon	Registering new address record for 192.168.123.100 on enp5s0.IPv4.
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2148] device (enp5s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2021/12/17 15:53	whoopsie	[15:53:02] Cannot reach: https://daisy.ubuntu.com
+2021/12/17 15:53	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 15:53	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 15:53	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 15:53	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2293] device (enp5s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2296] device (enp5s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2304] manager: NetworkManager state is now CONNECTED_LOCAL
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2308] manager: NetworkManager state is now CONNECTED_SITE
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2310] policy: set 'Wired connection 1' (enp5s0) as default for IPv4 routing and DNS
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2319] device (enp5s0): Activation: successful, device activated.
+2021/12/17 15:53	NetworkManager	<info>  [1639723982.2328] manager: NetworkManager state is now CONNECTED_GLOBAL
+2021/12/17 15:53	systemd-resolved	enp5s0: Bus client set default route setting: yes
+2021/12/17 15:53	systemd-resolved	enp5s0: Bus client set DNS server list to: 168.126.63.1, 168.126.63.2
+2021/12/17 15:53	whoopsie	[15:53:02] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/3
+2021/12/17 15:53	whoopsie	[15:53:02] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/3
+2021/12/17 15:53	whoopsie	[15:53:02] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/3
+2021/12/17 15:53	systemd-resolved	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 168.126.63.1.
+2021/12/17 15:53	whoopsie	[15:53:02] online
+2021/12/17 15:53	PackageKit	get-updates transaction /27_eecbaeca from uid 1000 finished with success after 397ms
+2021/12/17 15:53	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 15:53	NetworkManager	<info>  [1639723996.1576] dhcp4 (enp5s0): state changed bound -> extended, address=192.168.123.100
+2021/12/17 15:53	systemd-resolved	enp5s0: Bus client set DNS server list to: 192.168.123.254
+2021/12/17 15:53	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 15:53	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 15:53	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 15:53	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 15:53	systemd-resolved	Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 168.126.63.2.
+2021/12/17 15:53	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 15:53	NetworkManager	<info>  [1639724011.1268] dhcp4 (enp5s0): state changed extended -> extended, address=192.168.123.100
+2021/12/17 15:53	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 15:53	systemd-resolved	enp5s0: Bus client set DNS server list to: 210.220.163.82, 219.250.36.130
+2021/12/17 15:53	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 15:53	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 15:53	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 15:53	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 15:53	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 15:53	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 15:55	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 15:55	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 15:59	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.191' (uid=1000 pid=17494 comm="/usr/lib/firefox/firefox " label="unconfined")
+2021/12/17 15:59	systemd	Starting Hostname Service...
+2021/12/17 15:59	dbus-daemon	[system] Successfully activated service 'org.freedesktop.hostname1'
+2021/12/17 15:59	systemd	Started Hostname Service.
+2021/12/17 16:00	systemd	systemd-hostnamed.service: Deactivated successfully.
+2021/12/17 16:00	smartd	Device: /dev/sda [SAT], SMART Usage Attribute: 190 Airflow_Temperature_Cel changed from 68 to 72
+2021/12/17 16:03	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:03	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:03	dbus-daemon	[session uid=1000 pid=992] Activating via systemd: service name='org.kde.runners.baloo' unit='plasma-baloorunner.service' requested by ':1.24' (uid=1000 pid=1298 comm="/usr/bin/plasmashell " label="unconfined")
+2021/12/17 16:03	systemd	Starting KRunner provider for baloo file indexer...
+2021/12/17 16:03	systemd	plasma-baloorunner.service: Main process exited, code=exited, status=255/EXCEPTION
+2021/12/17 16:03	systemd	plasma-baloorunner.service: Failed with result 'exit-code'.
+2021/12/17 16:03	systemd	Failed to start KRunner provider for baloo file indexer.
+2021/12/17 16:03	systemd	Started Kate - Advanced Text Editor.
+2021/12/17 16:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:05	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:05	dbus-daemon	[session uid=1000 pid=992] Failed to activate service 'org.kde.runners.baloo': timed out (service_start_timeout=120000ms)
+2021/12/17 16:06	sudo	 dongsub : TTY=pts/2 ; PWD=/home/dongsub/git ; USER=root ; COMMAND=/usr/bin/apt install traceroute
+2021/12/17 16:06	sudo	pam_unix(sudo:session): session opened for user root by (uid=1000)
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	sudo	pam_unix(sudo:session): session closed for user root
+2021/12/17 16:07	PackageKit	get-updates transaction /28_deabadee from uid 1000 finished with success after 367ms
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	rtkit-daemon	Supervising 9 threads of 5 processes of 1 users.
+2021/12/17 16:07	rtkit-daemon	Successfully made thread 48711 of process 48037 owned by '1000' RT at priority 10.
+2021/12/17 16:07	rtkit-daemon	Supervising 10 threads of 6 processes of 1 users.
+2021/12/17 16:16	systemd	app-org.kde.dolphin-eb77ffcd716e40278ed445bc39183896.scope: Deactivated successfully.
+2021/12/17 16:16	systemd	app-org.kde.dolphin-eb77ffcd716e40278ed445bc39183896.scope: Consumed 4.902s CPU time.
+2021/12/17 16:16	kernel	r8169 0000:05:00.0 enp5s0: Link is Down
+2021/12/17 16:16	NetworkManager	<info>  [1639725394.9123] device (enp5s0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2021/12/17 16:16	NetworkManager	<info>  [1639725394.9124] dhcp4 (enp5s0): canceled DHCP transaction
+2021/12/17 16:16	NetworkManager	<info>  [1639725394.9124] dhcp4 (enp5s0): state changed extended -> terminated
+2021/12/17 16:16	avahi-daemon	Withdrawing address record for 192.168.123.100 on enp5s0.
+2021/12/17 16:16	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv4 with address 192.168.123.100.
+2021/12/17 16:16	avahi-daemon	Interface enp5s0.IPv4 no longer relevant for mDNS.
+2021/12/17 16:16	avahi-daemon	Withdrawing address record for fe80::d660:b252:be2e:ab10 on enp5s0.
+2021/12/17 16:16	avahi-daemon	Leaving mDNS multicast group on interface enp5s0.IPv6 with address fe80::d660:b252:be2e:ab10.
+2021/12/17 16:16	avahi-daemon	Interface enp5s0.IPv6 no longer relevant for mDNS.
+2021/12/17 16:16	NetworkManager	<info>  [1639725394.9156] manager: NetworkManager state is now DISCONNECTED
+2021/12/17 16:16	whoopsie	[16:16:34] offline
+2021/12/17 16:16	dbus-daemon	[system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=666 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+2021/12/17 16:16	systemd	Starting Network Manager Script Dispatcher Service...
+2021/12/17 16:16	systemd-resolved	enp5s0: Bus client set default route setting: no
+2021/12/17 16:16	systemd-resolved	enp5s0: Bus client reset DNS server list.
+2021/12/17 16:16	dbus-daemon	[system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+2021/12/17 16:16	systemd	Started Network Manager Script Dispatcher Service.
+2021/12/17 16:16	PackageKit	get-updates transaction /29_debdaeeb from uid 1000 finished with success after 372ms
+2021/12/17 16:16	kernel	device enp5s0 left promiscuous mode
+2021/12/17 16:16	systemd	NetworkManager-dispatcher.service: Deactivated successfully.
+2021/12/17 16:16	kernel	device enp5s0 entered promiscuous mode
