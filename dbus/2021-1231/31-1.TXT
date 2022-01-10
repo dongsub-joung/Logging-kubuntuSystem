@@ -1,0 +1,561 @@
+signal time=1640918042.822279 sender=org.freedesktop.DBus -> destination=:1.68 serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired
+   string ":1.68"
+signal time=1640918042.822362 sender=org.freedesktop.DBus -> destination=:1.68 serial=4 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameLost
+   string ":1.68"
+signal time=1640918064.004177 sender=:1.25 -> destination=(null destination) serial=123 path=/org/kde/Solid/PowerManagement; interface=org.kde.Solid.PowerManagement; member=batteryRemainingTimeChanged
+   uint64 17642000
+signal time=1640918089.201118 sender=:1.25 -> destination=(null destination) serial=124 path=/org/kde/Solid/PowerManagement; interface=org.kde.Solid.PowerManagement; member=batteryRemainingTimeChanged
+   uint64 14412000
+method call time=1640918089.699630 sender=:1.69 -> destination=org.freedesktop.DBus serial=1 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=Hello
+method return time=1640918089.699667 sender=org.freedesktop.DBus -> destination=:1.69 serial=1 reply_serial=1
+   string ":1.69"
+signal time=1640918089.699680 sender=org.freedesktop.DBus -> destination=(null destination) serial=26 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string ":1.69"
+   string ""
+   string ":1.69"
+signal time=1640918089.699697 sender=org.freedesktop.DBus -> destination=:1.69 serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired
+   string ":1.69"
+method call time=1640918089.699741 sender=:1.69 -> destination=org.freedesktop.DBus serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal', path='/org/freedesktop/DBus/Local',interface='org.freedesktop.DBus.Local', member='Disconnected'"
+method return time=1640918089.699754 sender=org.freedesktop.DBus -> destination=:1.69 serial=3 reply_serial=2
+method call time=1640918089.699968 sender=:1.69 -> destination=org.freedesktop.DBus serial=3 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=ListNames
+method return time=1640918089.699978 sender=org.freedesktop.DBus -> destination=:1.69 serial=4 reply_serial=3
+   array [
+      string "org.freedesktop.DBus"
+      string "org.freedesktop.Notifications"
+      string "org.freedesktop.PowerManagement"
+      string ":1.8"
+      string "org.kde.kappmenu"
+      string "org.kde.kaccess"
+      string "org.kde.runners.activities"
+      string "org.freedesktop.systemd1"
+      string "org.kde.klipper"
+      string "org.kde.kdeconnect"
+      string "org.pulseaudio.Server"
+      string "org.kde.KScreen"
+      string "org.kde.Wacom"
+      string ":1.60"
+      string ":1.40"
+      string "org.kde.KWin.HighlightWindow"
+      string ":1.41"
+      string "org.a11y.Bus"
+      string "org.kde.GtkConfig"
+      string ":1.20"
+      string ":1.65"
+      string "org.kde.klauncher5"
+      string ":1.21"
+      string "org.gnome.keyring"
+      string ":1.22"
+      string "org.kde.kscreen.osdService"
+      string ":1.23"
+      string ":1.46"
+      string "org.kde.Solid.PowerManagement"
+      string "org.freedesktop.PowerManagement.Inhibit"
+      string "org.kde.KWin.PresentWindows"
+      string ":1.24"
+      string ":1.69"
+      string ":1.25"
+      string "org.kde.DiscoverNotifier"
+      string ":1.26"
+      string ":1.27"
+      string ":1.28"
+      string "org.kde.KWin"
+      string "org.kde.screensaver"
+      string "org.bluez.obex"
+      string "ca.desrt.dconf"
+      string "org.kde.konsole-1426"
+      string "org.freedesktop.ScreenSaver"
+      string "org.kde.StatusNotifierHost-1244"
+      string "org.kde.plasmashell"
+      string "org.kde.plasmanetworkmanagement"
+      string "local.org_kde_powerdevil"
+      string "org.kde.kglobalaccel"
+      string "org.kde.kdeconnect.daemon"
+      string "org.kde.kwalletd5"
+      string "org.PulseAudio1"
+      string "org.kde.polkit-kde-authentication-agent-1"
+      string "com.canonical.Unity"
+      string "org.kde.kded5"
+      string "org.kde.ActivityManager"
+      string "org.kde.keyboard"
+      string ":1.31"
+      string "org.kde.kuiserver"
+      string ":1.32"
+      string ":1.34"
+      string ":1.12"
+      string "org.kde.StatusNotifierWatcher"
+      string "org.kde.JobViewServer"
+      string ":1.0"
+      string ":1.58"
+      string ":1.1"
+      string ":1.14"
+      string "org.freedesktop.secrets"
+      string ":1.59"
+      string ":1.37"
+      string "org.kde.KWin.ScreenShot2"
+      string ":1.2"
+      string ":1.15"
+      string ":1.38"
+      string ":1.3"
+      string ":1.16"
+      string "org.kde.ksmserver"
+      string ":1.39"
+      string "org.kde.kcookiejar5"
+      string ":1.17"
+      string "org.kde.Solid.PowerManagement.PolicyAgent"
+      string ":1.5"
+      string ":1.18"
+      string ":1.19"
+   ]
+method call time=1640918089.700469 sender=:1.69 -> destination=org.freedesktop.DBus serial=4 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=RemoveMatch
+   string "type='signal', path='/org/freedesktop/DBus/Local',interface='org.freedesktop.DBus.Local', member='Disconnected'"
+method return time=1640918089.700487 sender=org.freedesktop.DBus -> destination=:1.69 serial=5 reply_serial=4
+signal time=1640918089.700496 sender=org.freedesktop.DBus -> destination=:1.69 serial=5 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameLost
+   string ":1.69"
+signal time=1640918089.700511 sender=org.freedesktop.DBus -> destination=(null destination) serial=27 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string ":1.69"
+   string ":1.69"
+   string ""
+method call time=1640918089.705455 sender=:1.70 -> destination=org.freedesktop.DBus serial=1 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=Hello
+method return time=1640918089.705486 sender=org.freedesktop.DBus -> destination=:1.70 serial=1 reply_serial=1
+   string ":1.70"
+signal time=1640918089.705503 sender=org.freedesktop.DBus -> destination=(null destination) serial=28 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string ":1.70"
+   string ""
+   string ":1.70"
+signal time=1640918089.705527 sender=org.freedesktop.DBus -> destination=:1.70 serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired
+   string ":1.70"
+method call time=1640918089.705637 sender=:1.70 -> destination=org.freedesktop.DBus serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal', path='/org/freedesktop/DBus/Local',interface='org.freedesktop.DBus.Local', member='Disconnected'"
+method return time=1640918089.705680 sender=org.freedesktop.DBus -> destination=:1.70 serial=3 reply_serial=2
+method call time=1640918089.705915 sender=:1.70 -> destination=org.freedesktop.DBus serial=3 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=ListNames
+method return time=1640918089.705933 sender=org.freedesktop.DBus -> destination=:1.70 serial=4 reply_serial=3
+   array [
+      string "org.freedesktop.DBus"
+      string "org.freedesktop.Notifications"
+      string "org.freedesktop.PowerManagement"
+      string ":1.8"
+      string "org.kde.kappmenu"
+      string "org.kde.kaccess"
+      string "org.kde.runners.activities"
+      string "org.freedesktop.systemd1"
+      string "org.kde.klipper"
+      string "org.kde.kdeconnect"
+      string "org.pulseaudio.Server"
+      string "org.kde.KScreen"
+      string "org.kde.Wacom"
+      string ":1.60"
+      string ":1.40"
+      string "org.kde.KWin.HighlightWindow"
+      string ":1.41"
+      string "org.a11y.Bus"
+      string "org.kde.GtkConfig"
+      string ":1.20"
+      string ":1.65"
+      string "org.kde.klauncher5"
+      string ":1.21"
+      string "org.gnome.keyring"
+      string ":1.22"
+      string "org.kde.kscreen.osdService"
+      string ":1.23"
+      string ":1.46"
+      string "org.kde.Solid.PowerManagement"
+      string "org.freedesktop.PowerManagement.Inhibit"
+      string "org.kde.KWin.PresentWindows"
+      string ":1.24"
+      string ":1.25"
+      string "org.kde.DiscoverNotifier"
+      string ":1.26"
+      string ":1.27"
+      string ":1.28"
+      string "org.kde.KWin"
+      string "org.kde.screensaver"
+      string "org.bluez.obex"
+      string "ca.desrt.dconf"
+      string "org.kde.konsole-1426"
+      string "org.freedesktop.ScreenSaver"
+      string "org.kde.StatusNotifierHost-1244"
+      string "org.kde.plasmashell"
+      string "org.kde.plasmanetworkmanagement"
+      string "local.org_kde_powerdevil"
+      string "org.kde.kglobalaccel"
+      string "org.kde.kdeconnect.daemon"
+      string "org.kde.kwalletd5"
+      string "org.PulseAudio1"
+      string "org.kde.polkit-kde-authentication-agent-1"
+      string "com.canonical.Unity"
+      string ":1.70"
+      string "org.kde.kded5"
+      string "org.kde.ActivityManager"
+      string "org.kde.keyboard"
+      string ":1.31"
+      string "org.kde.kuiserver"
+      string ":1.32"
+      string ":1.34"
+      string ":1.12"
+      string "org.kde.StatusNotifierWatcher"
+      string "org.kde.JobViewServer"
+      string ":1.0"
+      string ":1.58"
+      string ":1.1"
+      string ":1.14"
+      string "org.freedesktop.secrets"
+      string ":1.59"
+      string ":1.37"
+      string "org.kde.KWin.ScreenShot2"
+      string ":1.2"
+      string ":1.15"
+      string ":1.38"
+      string ":1.3"
+      string ":1.16"
+      string "org.kde.ksmserver"
+      string ":1.39"
+      string "org.kde.kcookiejar5"
+      string ":1.17"
+      string "org.kde.Solid.PowerManagement.PolicyAgent"
+      string ":1.5"
+      string ":1.18"
+      string ":1.19"
+   ]
+method call time=1640918089.706347 sender=:1.70 -> destination=org.freedesktop.DBus serial=4 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=RemoveMatch
+   string "type='signal', path='/org/freedesktop/DBus/Local',interface='org.freedesktop.DBus.Local', member='Disconnected'"
+method return time=1640918089.706366 sender=org.freedesktop.DBus -> destination=:1.70 serial=5 reply_serial=4
+signal time=1640918089.706374 sender=org.freedesktop.DBus -> destination=:1.70 serial=6 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameLost
+   string ":1.70"
+signal time=1640918089.706389 sender=org.freedesktop.DBus -> destination=(null destination) serial=29 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string ":1.70"
+   string ":1.70"
+   string ""
+signal time=1640918096.127231 sender=org.freedesktop.DBus -> destination=:1.58 serial=7 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameLost
+   string ":1.58"
+signal time=1640918096.127280 sender=org.freedesktop.DBus -> destination=(null destination) serial=30 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string ":1.58"
+   string ":1.58"
+   string ""
+signal time=1640918097.681107 sender=:1.18 -> destination=(null destination) serial=937 path=/component/kwin; interface=org.kde.kglobalaccel.Component; member=globalShortcutPressed
+   string "kwin"
+   string "Walk Through Windows"
+   int64 192105
+signal time=1640918099.479729 sender=:1.18 -> destination=(null destination) serial=938 path=/component/kwin; interface=org.kde.kglobalaccel.Component; member=globalShortcutPressed
+   string "kwin"
+   string "Walk Through Windows"
+   int64 193903
+signal time=1640918102.574621 sender=:1.18 -> destination=(null destination) serial=939 path=/component/kwin; interface=org.kde.kglobalaccel.Component; member=globalShortcutPressed
+   string "kwin"
+   string "Walk Through Windows"
+   int64 196999
+method call time=1640918109.887621 sender=:1.65 -> destination=org.freedesktop.DBus serial=19 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=RemoveMatch
+   string "type='signal',path='/Wiresharkrc',interface='org.kde.kconfig.notify',member='ConfigChanged'"
+method call time=1640918109.936699 sender=:1.65 -> destination=org.freedesktop.DBus serial=20 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=RemoveMatch
+   string "type='signal',path='/KIconLoader',interface='org.kde.KIconLoader',member='iconChanged'"
+signal time=1640918109.941948 sender=org.freedesktop.DBus -> destination=:1.65 serial=8 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameLost
+   string ":1.65"
+signal time=1640918109.941999 sender=org.freedesktop.DBus -> destination=(null destination) serial=31 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string ":1.65"
+   string ":1.65"
+   string ""
+method call time=1640918111.574313 sender=:1.14 -> destination=org.freedesktop.DBus serial=214 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=RequestName
+   string "org.kubuntu.NotificationHelper"
+   uint32 4
+signal time=1640918111.574408 sender=org.freedesktop.DBus -> destination=(null destination) serial=32 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string "org.kubuntu.NotificationHelper"
+   string ""
+   string ":1.14"
+signal time=1640918111.574459 sender=org.freedesktop.DBus -> destination=:1.14 serial=47 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired
+   string "org.kubuntu.NotificationHelper"
+method return time=1640918111.574489 sender=org.freedesktop.DBus -> destination=:1.14 serial=48 reply_serial=214
+   uint32 1
+method call time=1640918111.991515 sender=:1.14 -> destination=org.freedesktop.DBus serial=215 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=RequestName
+   string "org.kubuntu.restrictedInstall"
+   uint32 4
+signal time=1640918111.991555 sender=org.freedesktop.DBus -> destination=(null destination) serial=33 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string "org.kubuntu.restrictedInstall"
+   string ""
+   string ":1.14"
+signal time=1640918111.991575 sender=org.freedesktop.DBus -> destination=:1.14 serial=49 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired
+   string "org.kubuntu.restrictedInstall"
+method return time=1640918111.991585 sender=org.freedesktop.DBus -> destination=:1.14 serial=50 reply_serial=215
+   uint32 1
+method call time=1640918112.339352 sender=:1.71 -> destination=org.freedesktop.DBus serial=1 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=Hello
+method return time=1640918112.339396 sender=org.freedesktop.DBus -> destination=:1.71 serial=1 reply_serial=1
+   string ":1.71"
+signal time=1640918112.339436 sender=org.freedesktop.DBus -> destination=(null destination) serial=34 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameOwnerChanged
+   string ":1.71"
+   string ""
+   string ":1.71"
+signal time=1640918112.339470 sender=org.freedesktop.DBus -> destination=:1.71 serial=2 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameAcquired
+   string ":1.71"
+method call time=1640918112.340037 sender=:1.14 -> destination=org.freedesktop.DBus serial=216 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender='org.freedesktop.DBus',interface='org.freedesktop.DBus',member='NameOwnerChanged',arg0='org.kde.StatusNotifierWatcher'"
+signal time=1640918112.340404 sender=:1.71 -> destination=(null destination) serial=2 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewMenu
+method call time=1640918112.340775 sender=:1.14 -> destination=org.freedesktop.DBus serial=217 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=GetNameOwner
+   string "org.kde.StatusNotifierWatcher"
+method return time=1640918112.340832 sender=org.freedesktop.DBus -> destination=:1.14 serial=51 reply_serial=217
+   string ":1.14"
+signal time=1640918112.341117 sender=:1.71 -> destination=(null destination) serial=3 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewIcon
+signal time=1640918112.341131 sender=:1.71 -> destination=(null destination) serial=4 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewToolTip
+signal time=1640918112.341165 sender=:1.71 -> destination=(null destination) serial=5 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewToolTip
+signal time=1640918112.341174 sender=:1.71 -> destination=(null destination) serial=6 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewToolTip
+signal time=1640918112.341190 sender=:1.71 -> destination=(null destination) serial=7 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewStatus
+   string "Active"
+signal time=1640918112.354150 sender=:1.71 -> destination=(null destination) serial=8 path=/StatusNotifierItem; interface=org.kde.StatusNotifierItem; member=NewMenu
+method call time=1640918112.354247 sender=:1.14 -> destination=org.freedesktop.DBus serial=218 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender='org.freedesktop.DBus',interface='org.freedesktop.DBus',member='NameOwnerChanged',arg0='org.freedesktop.Notifications'"
+method call time=1640918112.354338 sender=:1.14 -> destination=org.freedesktop.DBus serial=219 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=GetNameOwner
+   string "org.freedesktop.Notifications"
+method return time=1640918112.354372 sender=org.freedesktop.DBus -> destination=:1.14 serial=52 reply_serial=219
+   string ":1.24"
+method call time=1640918112.354695 sender=:1.14 -> destination=org.freedesktop.Notifications serial=220 path=/org/freedesktop/Notifications; interface=org.freedesktop.Notifications; member=Notify
+   string "KDE Daemon"
+   uint32 0
+   string "preferences-desktop-locale"
+   string "System Notification Helper"
+   string "Language support is incomplete, additional packages are required"
+   array [
+   ]
+   array [
+   ]
+   int32 10000
+signal time=1640918112.355103 sender=:1.71 -> destination=(null destination) serial=9 path=/MenuBar; interface=com.canonical.dbusmenu; member=LayoutUpdated
+   uint32 5
+   int32 0
+method call time=1640918112.355149 sender=:1.14 -> destination=org.freedesktop.DBus serial=221 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender='org.freedesktop.DBus',interface='org.freedesktop.DBus',member='NameOwnerChanged',arg0=':1.71',arg2=''"
+method call time=1640918112.355557 sender=:1.14 -> destination=org.freedesktop.DBus serial=222 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=NameHasOwner
+   string ":1.71"
+method return time=1640918112.355574 sender=org.freedesktop.DBus -> destination=:1.14 serial=53 reply_serial=222
+   boolean true
+method call time=1640918112.355768 sender=:1.14 -> destination=org.freedesktop.DBus serial=223 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender='org.freedesktop.DBus',interface='org.freedesktop.DBus',member='NameOwnerChanged',arg0=':1.71'"
+signal time=1640918112.356123 sender=:1.14 -> destination=(null destination) serial=224 path=/StatusNotifierWatcher; interface=org.kde.StatusNotifierWatcher; member=StatusNotifierItemRegistered
+   string ":1.71/StatusNotifierItem"
+signal time=1640918112.356143 sender=:1.14 -> destination=(null destination) serial=225 path=/modules/StatusNotifierWatcher; interface=org.kde.StatusNotifierWatcher; member=StatusNotifierItemRegistered
+   string ":1.71/StatusNotifierItem"
+signal time=1640918112.356155 sender=:1.14 -> destination=(null destination) serial=226 path=/modules/statusnotifierwatcher; interface=org.kde.StatusNotifierWatcher; member=StatusNotifierItemRegistered
+   string ":1.71/StatusNotifierItem"
+method call time=1640918112.356210 sender=:1.14 -> destination=org.freedesktop.DBus serial=227 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=RemoveMatch
+   string "type='signal',sender='org.freedesktop.DBus',interface='org.freedesktop.DBus',member='NameOwnerChanged',arg0=':1.71'"
+method call time=1640918112.365573 sender=:1.24 -> destination=org.freedesktop.DBus serial=362 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=GetConnectionUnixProcessID
+   string ":1.14"
+method return time=1640918112.365611 sender=org.freedesktop.DBus -> destination=:1.24 serial=60 reply_serial=362
+   uint32 1201
+method return time=1640918112.466110 sender=:1.24 -> destination=:1.14 serial=363 reply_serial=220
+   uint32 1
+method call time=1640918112.539455 sender=:1.24 -> destination=org.freedesktop.DBus serial=364 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender='org.freedesktop.DBus',interface='org.freedesktop.DBus',member='NameOwnerChanged',arg0=':1.71'"
+method call time=1640918112.539547 sender=:1.24 -> destination=org.freedesktop.DBus serial=365 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/StatusNotifierItem',interface='org.kde.StatusNotifierItem',member='NewTitle'"
+method call time=1640918112.539560 sender=:1.24 -> destination=org.freedesktop.DBus serial=366 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender='org.freedesktop.DBus',interface='org.freedesktop.DBus',member='NameOwnerChanged',arg0=':1.71'"
+method call time=1640918112.539618 sender=:1.24 -> destination=org.freedesktop.DBus serial=367 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=GetNameOwner
+   string ":1.71"
+method return time=1640918112.539629 sender=org.freedesktop.DBus -> destination=:1.24 serial=61 reply_serial=367
+   string ":1.71"
+method call time=1640918112.539801 sender=:1.24 -> destination=org.freedesktop.DBus serial=368 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/StatusNotifierItem',interface='org.kde.StatusNotifierItem',member='NewIcon'"
+method call time=1640918112.539856 sender=:1.24 -> destination=org.freedesktop.DBus serial=369 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/StatusNotifierItem',interface='org.kde.StatusNotifierItem',member='NewAttentionIcon'"
+method call time=1640918112.539894 sender=:1.24 -> destination=org.freedesktop.DBus serial=370 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/StatusNotifierItem',interface='org.kde.StatusNotifierItem',member='NewOverlayIcon'"
+method call time=1640918112.539931 sender=:1.24 -> destination=org.freedesktop.DBus serial=371 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/StatusNotifierItem',interface='org.kde.StatusNotifierItem',member='NewToolTip'"
+method call time=1640918112.539969 sender=:1.24 -> destination=org.freedesktop.DBus serial=372 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/StatusNotifierItem',interface='org.kde.StatusNotifierItem',member='NewStatus'"
+method call time=1640918112.540004 sender=:1.24 -> destination=org.freedesktop.DBus serial=373 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/StatusNotifierItem',interface='org.kde.StatusNotifierItem',member='NewMenu'"
+method call time=1640918112.561941 sender=:1.24 -> destination=:1.71 serial=374 path=/StatusNotifierItem; interface=org.freedesktop.DBus.Properties; member=GetAll
+   string "org.kde.StatusNotifierItem"
+method return time=1640918112.562280 sender=:1.71 -> destination=:1.24 serial=10 reply_serial=374
+   array [
+      dict entry(
+         string "AttentionIconName"
+         variant             string ""
+      )
+      dict entry(
+         string "AttentionIconPixmap"
+         variant             array [
+            ]
+      )
+      dict entry(
+         string "AttentionMovieName"
+         variant             string ""
+      )
+      dict entry(
+         string "Category"
+         variant             string "SystemServices"
+      )
+      dict entry(
+         string "IconName"
+         variant             string "preferences-desktop-locale"
+      )
+      dict entry(
+         string "IconPixmap"
+         variant             array [
+            ]
+      )
+      dict entry(
+         string "IconThemePath"
+         variant             string ""
+      )
+      dict entry(
+         string "Id"
+         variant             string "KDE Daemon"
+      )
+      dict entry(
+         string "ItemIsMenu"
+         variant             boolean false
+      )
+      dict entry(
+         string "Menu"
+         variant             object path "/MenuBar"
+      )
+      dict entry(
+         string "OverlayIconName"
+         variant             string ""
+      )
+      dict entry(
+         string "OverlayIconPixmap"
+         variant             array [
+            ]
+      )
+      dict entry(
+         string "Status"
+         variant             string "Active"
+      )
+      dict entry(
+         string "Title"
+         variant             string "KDE Daemon"
+      )
+      dict entry(
+         string "ToolTip"
+         variant             struct {
+               string "preferences-desktop-locale"
+               array [
+               ]
+               string "System Notification Helper"
+               string "Language support is incomplete, additional packages are required"
+            }
+      )
+      dict entry(
+         string "WindowId"
+         variant             int32 0
+      )
+   ]
+method call time=1640918112.562844 sender=:1.24 -> destination=org.freedesktop.DBus serial=375 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/MenuBar',interface='com.canonical.dbusmenu',member='LayoutUpdated'"
+method call time=1640918112.562884 sender=:1.24 -> destination=org.freedesktop.DBus serial=376 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/MenuBar',interface='com.canonical.dbusmenu',member='ItemActivationRequested'"
+method call time=1640918112.563079 sender=:1.24 -> destination=org.freedesktop.DBus serial=377 path=/org/freedesktop/DBus; interface=org.freedesktop.DBus; member=AddMatch
+   string "type='signal',sender=':1.71',path='/MenuBar',interface='com.canonical.dbusmenu',member='ItemsPropertiesUpdated'"
+method call time=1640918112.563156 sender=:1.24 -> destination=:1.71 serial=378 path=/MenuBar; interface=com.canonical.dbusmenu; member=GetLayout
+   int32 0
+   int32 1
+   array [
+   ]
+method return time=1640918112.563448 sender=:1.71 -> destination=:1.24 serial=11 reply_serial=378
+   uint32 5
+   struct {
+      int32 0
+      array [
+         dict entry(
+            string "children-display"
+            variant                string "submenu"
+         )
+      ]
+      array [
+         variant             struct {
+               int32 1
+               array [
+                  dict entry(
+                     string "icon-data"
+                     variant                         array of bytes [
+                           89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00
+                           00 00 10 00 00 00 10 08 06 00 00 00 1f f3 ff 61 00
+                           00 00 09 70 48 59 73 00 00 0e c4 00 00 0e c4 01 95
+                           2b 0e 1b 00 00 01 33 49 44 41 54 38 8d a5 92 3b 4e
+                           02 51 18 85 bf ff ce 05 0b 42 02 56 76 90 b8 01 1b
+                           7a 2a 7b 77 a0 cb a0 93 ca 8d 58 bb 00 2b 0c 25 4b
+                           90 62 2c 24 14 24 86 38 33 cc f3 fe 16 98 30 61 06
+                           f0 71 da f3 b8 e7 e4 bf f0 4f 08 40 ff 39 d5 bf 98
+                           fd eb a6 58 00 cd aa fe c1 b9 61 d0 95 5a e3 6c 95
+                           33 5b 6f 39 0b 40 5e 0d b8 6a c3 5d cf d4 06 64 9b
+                           8c d9 b2 d8 05 68 56 15 45 31 ac 82 fa 65 61 0c 2e
+                           ce 4a 0d 6a 26 44 b1 63 15 d5 4f 88 12 20 2f 4d d0
+                           9a 09 e1 91 06 51 02 aa 5e b9 41 55 14 6c 94 c5 77
+                           80 15 30 02 a9 03 50 82 d8 20 85 3d de 60 fa 9e 32
+                           9d af 51 94 56 b3 c1 cd 65 87 c7 d7 4f f0 2c 62 2c
+                           98 13 0d c0 83 46 07 92 90 30 11 9e e6 01 38 8b 60
+                           41 3d d8 1e e1 70 83 2d 04 bc 16 9a c7 84 89 41 8c
+                           87 62 c0 ed f4 16 40 52 1d 1f 48 40 45 6f 45 cf 7a
+                           38 07 ce bc 08 3a d9 7b e2 38 2e 1e 3e fa 06 6f 02
+                           d2 03 c6 8b 51 fb be cc d7 7f b5 12 96 a3 ae ef e2
+                           62 48 ae 6f e4 ae c2 9f 0c 00 58 8e bb be cb 8b a1
+                           4b c5 ff 89 fe 57 f8 02 0f b2 88 2b 15 c5 80 0a 00
+                           00 00 00 49 45 4e 44 ae 42 60 82
+                        ]
+                  )
+                  dict entry(
+                     string "icon-name"
+                     variant                         string "preferences-desktop-locale"
+                  )
+                  dict entry(
+                     string "label"
+                     variant                         string "Install"
+                  )
+               ]
+               array [
+               ]
+            }
+         variant             struct {
+               int32 2
+               array [
+                  dict entry(
+                     string "label"
+                     variant                         string "Never show again"
+                  )
+               ]
+               array [
+               ]
+            }
+         variant             struct {
+               int32 3
+               array [
+                  dict entry(
+                     string "type"
+                     variant                         string "separator"
+                  )
+               ]
+               array [
+               ]
+            }
+         variant             struct {
+               int32 4
+               array [
+                  dict entry(
+                     string "icon-data"
+                     variant                         array of bytes [
+                           89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52 00
+                           00 00 10 00 00 00 10 08 06 00 00 00 1f f3 ff 61 00
+                           00 00 09 70 48 59 73 00 00 0e c4 00 00 0e c4 01 95
+                           2b 0e 1b 00 00 00 44 49 44 41 54 38 8d 63 60 18 68
+                           c0 08 63 dc 72 09 fe 4f 8a 46 b5 3d 6b 19 19 18 18
+                           18 98 28 75 01 c5 06 c0 01 29 5e 40 56 3b f0 5e 60
+                           c1 25 81 ee 25 58 a8 d3 cf 05 b8 6c a4 ba 0b a8 eb
+                           05 52 93 f3 e0 00 00 88 36 10 fc bd a9 1e 9f 00 00
+                           00 00 49 45 4e 44 ae 42 60 82
+                        ]
+                  )
+                  dict entry(
+                     string "icon-name"
+                     variant                         string "application-exit"
+                  )
+                  dict entry(
+                     string "label"
+                     variant                         string "Hide"
+                  )
+               ]
+               array [
+               ]
+            }
+      ]
+   }
